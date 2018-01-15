@@ -1,2 +1,3 @@
 - 2018-01-13: add exercises.md
 - 2018-01-13: cleanup
+- 2018-01-15: fix: stop generators
