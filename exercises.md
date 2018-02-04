@@ -1,3 +1,4 @@
 - 2018-01-13: add exercises.md
 - 2018-01-13: cleanup
 - 2018-01-15: fix: stop generators
+- 2018-02-04: feat: first pass at f-strings
