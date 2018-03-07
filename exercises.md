@@ -3,3 +3,4 @@
 - 2018-01-15: fix: stop generators
 - 2018-02-04: feat: first pass at f-strings
 - 2018-03-01: late night fix
+- 2018-03-07: feat: support classes
