@@ -5,3 +5,4 @@ First steps with python.
 - 2018-01-21: tidy notes
 - 2018-01-28: feat: rough inheritance
 - 2018-02-26: hmm
+- 2018-03-20: oops typo
