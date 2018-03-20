@@ -7,3 +7,4 @@ Personal workspace and notes.
 - 2018-03-07: polish
 - 2018-03-10: chore(css): drop unused
 - 2018-03-18: tweak
+- 2018-03-20: chore(css): small cleanup
