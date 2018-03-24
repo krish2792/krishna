@@ -9,3 +9,4 @@ First steps with python.
 - 2018-03-20: forgot a file
 - 2018-03-22: chore: drop unused
 - 2018-03-24: feat: first pass at try/except
+- 2018-03-24: late night fix
