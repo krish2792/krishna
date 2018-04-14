@@ -5,3 +5,4 @@ My shell/vim/git config.
 - 2018-02-04: feat(dotfiles): introduce vim leader
 - 2018-03-06: wip: wip vim leader
 - 2018-04-01: feat: first pass at tmux pane bindings
+- 2018-04-14: refactor(dotfiles): flatten install script
