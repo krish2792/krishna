@@ -4,3 +4,4 @@
 - 2018-02-04: feat: first pass at f-strings
 - 2018-03-01: late night fix
 - 2018-03-07: feat: support classes
+- 2018-04-22: shrug it works
