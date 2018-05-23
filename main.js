@@ -4,3 +4,4 @@ console.log("hello");
 // 2018-04-06: feat: wire up nav
 // 2018-04-10: docs(site): tidy theme docs
 // 2018-05-05: tweak
+// 2018-05-23: chore(site): update meta tags config
