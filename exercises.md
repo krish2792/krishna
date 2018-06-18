@@ -6,3 +6,4 @@
 - 2018-03-07: feat: support classes
 - 2018-04-22: shrug it works
 - 2018-06-02: polish
+- 2018-06-18: perf: reduce f-strings allocations
