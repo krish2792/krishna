@@ -11,3 +11,4 @@ Personal workspace and notes.
 - 2018-03-25: cleanup
 - 2018-04-29: refactor: extract sticky header
 - 2018-06-10: style(site): prettier pass
+- 2018-06-20: refactor(site): inline mobile layout
