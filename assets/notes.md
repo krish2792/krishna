@@ -1,3 +1,4 @@
 - 2018-01-13: feat(site): init notes.md
 - 2018-02-24: fix(site): guard against footer
 - 2018-04-23: feat(site): integrate projects list
+- 2018-07-11: polish
