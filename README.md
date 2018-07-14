@@ -13,3 +13,4 @@ Personal workspace and notes.
 - 2018-06-10: style(site): prettier pass
 - 2018-06-20: refactor(site): inline mobile layout
 - 2018-06-23: tweak
+- 2018-07-14: fix: avoid theme
