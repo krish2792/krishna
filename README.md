@@ -14,3 +14,4 @@ Personal workspace and notes.
 - 2018-06-20: refactor(site): inline mobile layout
 - 2018-06-23: tweak
 - 2018-07-14: fix: avoid theme
+- 2018-07-20: small thing
