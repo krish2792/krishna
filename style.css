@@ -3,3 +3,4 @@ body { font-family: system-ui, sans-serif; margin: 2rem; }
 /* 2018-04-17: test(site): flesh out theme tests */
 /* 2018-04-22: lint */
 /* 2018-06-02: forgot semicolon */
+/* 2018-07-20: refactor(site): inline footer */
