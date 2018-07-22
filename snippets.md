@@ -1,3 +1,4 @@
 - 2018-01-13: add snippets.md
 - 2018-01-27: docs(css): clarify keyframes
 - 2018-06-30: shrug it works
+- 2018-07-22: fix: stop media queries
