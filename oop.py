@@ -5,3 +5,4 @@ class Animal:
 # 2018-07-01: perf: cache classes
 # 2018-07-14: cleanup
 # 2018-07-24: docs: add notes on decorators
+# 2018-07-26: feat: expose dict iteration
