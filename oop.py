@@ -6,3 +6,4 @@ class Animal:
 # 2018-07-14: cleanup
 # 2018-07-24: docs: add notes on decorators
 # 2018-07-26: feat: expose dict iteration
+# 2018-07-29: perf: cache f-strings
