@@ -8,3 +8,4 @@
 # 2018-05-06: fix: address argparse
 # 2018-05-09: feat: introduce generators
 # 2018-05-12: feat: integrate dict iteration
+# 2018-08-03: lint
