@@ -8,3 +8,4 @@ class Animal:
 # 2018-07-26: feat: expose dict iteration
 # 2018-07-29: perf: cache f-strings
 # 2018-08-01: perf: tighten f-strings loop
+# 2018-08-11: chore: tidy
