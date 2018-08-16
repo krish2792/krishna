@@ -6,3 +6,4 @@ console.log("hello");
 // 2018-05-05: tweak
 // 2018-05-23: chore(site): update meta tags config
 // 2018-06-17: style: consistent spacing
+// 2018-08-16: fix(site): patch nav
