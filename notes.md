@@ -13,3 +13,4 @@ First steps with python.
 - 2018-06-08: wip: still hacking on inheritance
 - 2018-06-24: forgot a file
 - 2018-08-18: chore: update context managers config
+- 2018-08-18: chore: small cleanup
