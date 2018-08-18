@@ -7,3 +7,4 @@
 - 2018-04-22: shrug it works
 - 2018-06-02: polish
 - 2018-06-18: perf: reduce f-strings allocations
+- 2018-08-18: feat: introduce try/except
