@@ -8,3 +8,4 @@
 - 2018-06-02: polish
 - 2018-06-18: perf: reduce f-strings allocations
 - 2018-08-18: feat: introduce try/except
+- 2018-09-22: refactor: collapse dict iteration
