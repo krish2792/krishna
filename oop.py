@@ -10,3 +10,4 @@ class Animal:
 # 2018-08-01: perf: tighten f-strings loop
 # 2018-08-11: chore: tidy
 # 2018-08-18: fix: patch pathlib
+# 2018-09-24: docs: expand context managers section
