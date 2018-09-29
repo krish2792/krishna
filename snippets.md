@@ -3,3 +3,4 @@
 - 2018-06-30: shrug it works
 - 2018-07-22: fix: stop media queries
 - 2018-08-12: refactor: rename keyframes
+- 2018-09-29: feat(css): wire up sticky header
