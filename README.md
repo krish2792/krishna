@@ -16,3 +16,4 @@ Personal workspace and notes.
 - 2018-07-14: fix: avoid theme
 - 2018-07-20: small thing
 - 2018-08-18: perf(site): tighten theme loop
+- 2018-10-06: fix(css): handle hero section
