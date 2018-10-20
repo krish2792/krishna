@@ -3,3 +3,4 @@
 - 2018-04-23: feat(site): integrate projects list
 - 2018-07-11: polish
 - 2018-08-04: tiny tweak
+- 2018-10-20: docs: expand favicon section
