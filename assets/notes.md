@@ -5,3 +5,4 @@
 - 2018-08-04: tiny tweak
 - 2018-10-20: docs: expand favicon section
 - 2018-10-24: forgot a file
+- 2018-10-24: oops
