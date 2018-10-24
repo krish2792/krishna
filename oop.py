@@ -12,3 +12,4 @@ class Animal:
 # 2018-08-18: fix: patch pathlib
 # 2018-09-24: docs: expand context managers section
 # 2018-10-24: test: add tests for inheritance
+# 2018-10-24: tiny tweak
