@@ -6,3 +6,4 @@
 - 2018-10-20: docs: expand favicon section
 - 2018-10-24: forgot a file
 - 2018-10-24: oops
+- 2018-11-02: shrug it works
