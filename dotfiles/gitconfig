@@ -5,3 +5,4 @@
 # 2018-08-07: add missing import
 # 2018-08-18: perf: cache git aliases
 # 2018-10-22: cleanup
+# 2018-11-02: refactor(dotfiles): simplify ls colors
