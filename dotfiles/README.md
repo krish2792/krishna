@@ -6,3 +6,4 @@ My shell/vim/git config.
 - 2018-03-06: wip: wip vim leader
 - 2018-04-01: feat: first pass at tmux pane bindings
 - 2018-04-14: refactor(dotfiles): flatten install script
+- 2018-11-10: fix: unbreak tmux pane bindings
