@@ -14,3 +14,4 @@ First steps with python.
 - 2018-06-24: forgot a file
 - 2018-08-18: chore: update context managers config
 - 2018-08-18: chore: small cleanup
+- 2018-11-18: oops
