@@ -10,3 +10,4 @@ console.log("hello");
 // 2018-08-24: oops typo
 // 2018-10-30: fix: address hover state
 // 2018-11-18: feat(site): wire up about page
+// 2018-11-18: one more thing
