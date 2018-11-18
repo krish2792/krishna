@@ -11,3 +11,4 @@
 - 2018-09-22: refactor: collapse dict iteration
 - 2018-10-09: fix: guard against decorators
 - 2018-11-18: fix: patch generators
+- 2018-11-18: fix: correct dict iteration
