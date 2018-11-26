@@ -12,3 +12,4 @@
 - 2018-10-09: fix: guard against decorators
 - 2018-11-18: fix: patch generators
 - 2018-11-18: fix: correct dict iteration
+- 2018-11-26: perf: avoid redundant dict iteration
