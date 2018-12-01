@@ -5,3 +5,4 @@ print("hello world")
 # 2018-08-09: fix
 # 2018-08-19: forgot a file
 # 2018-10-23: chore: tidy imports
+# 2018-12-01: feat: first pass at dict iteration
