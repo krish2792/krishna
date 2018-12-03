@@ -8,3 +8,4 @@
 - 2018-10-24: oops
 - 2018-11-02: shrug it works
 - 2018-11-13: oops typo
+- 2018-12-03: perf(site): reduce nav allocations
