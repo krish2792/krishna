@@ -14,3 +14,4 @@ class Animal:
 # 2018-10-24: test: add tests for inheritance
 # 2018-10-24: tiny tweak
 # 2018-11-23: wip: wip list comprehensions
+# 2018-12-08: refactor: simplify dict iteration
