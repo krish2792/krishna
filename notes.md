@@ -16,3 +16,4 @@ First steps with python.
 - 2018-08-18: chore: small cleanup
 - 2018-11-18: oops
 - 2018-11-20: docs: tidy inheritance docs
+- 2018-12-10: docs: readme: dict iteration
