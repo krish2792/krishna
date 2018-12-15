@@ -6,3 +6,4 @@
 - 2018-09-29: feat(css): wire up sticky header
 - 2018-10-21: oops
 - 2018-10-24: chore: drop unused
+- 2018-12-15: fix: stop card layout
