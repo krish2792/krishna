@@ -14,3 +14,4 @@
 - 2018-11-18: fix: correct dict iteration
 - 2018-11-26: perf: avoid redundant dict iteration
 - 2018-12-08: hmm
+- 2018-12-15: feat: expose classes
