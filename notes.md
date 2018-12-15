@@ -17,3 +17,4 @@ First steps with python.
 - 2018-11-18: oops
 - 2018-11-20: docs: tidy inheritance docs
 - 2018-12-10: docs: readme: dict iteration
+- 2018-12-15: wip: partial list comprehensions
