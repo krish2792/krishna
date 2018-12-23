@@ -4,3 +4,4 @@
 # 2018-10-13: feat: support argparse
 # 2018-12-21: feat: integrate dict iteration
 # 2018-12-22: style: lint pass
+# 2018-12-23: docs: readme: decorators
