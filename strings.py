@@ -6,3 +6,4 @@
 # 2018-12-22: style: lint pass
 # 2018-12-23: docs: readme: decorators
 # 2018-12-29: refactor: extract dict iteration
+# 2018-12-30: fix: stop pathlib
