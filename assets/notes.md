@@ -10,3 +10,4 @@
 - 2018-11-13: oops typo
 - 2018-12-03: perf(site): reduce nav allocations
 - 2018-12-10: docs: clarify footer
+- 2019-01-23: cleanup
