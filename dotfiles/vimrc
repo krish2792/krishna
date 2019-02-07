@@ -4,3 +4,4 @@
 # 2018-06-02: chore(dotfiles): rename file
 # 2018-07-14: docs(dotfiles): expand aliases section
 # 2018-08-03: feat(dotfiles): wire up zsh prompt
+# 2019-02-07: feat: add zsh prompt
