@@ -1,3 +1,4 @@
 - 2019-02-08: add log.md
 - 2019-02-10: oops typo
 - 2019-02-26: oof
+- 2019-02-28: feat: introduce coin change
