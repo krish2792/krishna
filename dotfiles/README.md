@@ -8,3 +8,4 @@ My shell/vim/git config.
 - 2018-04-14: refactor(dotfiles): flatten install script
 - 2018-11-10: fix: unbreak tmux pane bindings
 - 2019-02-11: fix: unbreak vim plugins
+- 2019-02-28: fix: address aliases
