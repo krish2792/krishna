@@ -5,3 +5,4 @@
 # 2018-07-20: feat: implement ls colors
 # 2018-11-18: fix(dotfiles): avoid install script
 # 2019-02-28: test(dotfiles): cover plugins edge case
+# 2019-03-01: docs(dotfiles): add notes on git aliases
