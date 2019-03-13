@@ -7,3 +7,4 @@
 # 2018-10-22: cleanup
 # 2018-11-02: refactor(dotfiles): simplify ls colors
 # 2018-12-15: fix: correct aliases
+# 2019-03-13: test(dotfiles): flesh out tmux pane bindings tests
