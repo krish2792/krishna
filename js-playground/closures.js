@@ -4,3 +4,4 @@
 // 2019-03-01: minor
 // 2019-03-01: feat(js): support proxies
 // 2019-03-02: chore: tidy
+// 2019-03-17: feat: wire up microtasks
