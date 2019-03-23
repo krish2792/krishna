@@ -9,3 +9,4 @@ My shell/vim/git config.
 - 2018-11-10: fix: unbreak tmux pane bindings
 - 2019-02-11: fix: unbreak vim plugins
 - 2019-02-28: fix: address aliases
+- 2019-03-23: refactor(dotfiles): collapse zsh prompt
