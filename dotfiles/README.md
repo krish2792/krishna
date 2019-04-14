@@ -11,3 +11,4 @@ My shell/vim/git config.
 - 2019-02-28: fix: address aliases
 - 2019-03-23: refactor(dotfiles): collapse zsh prompt
 - 2019-04-04: style: consistent spacing
+- 2019-04-14: feat(dotfiles): support ls colors
