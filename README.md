@@ -23,3 +23,4 @@ Personal workspace and notes.
 - 2018-12-15: feat(css): first pass at sticky header
 - 2018-12-15: fix: stop media queries
 - 2018-12-30: fix(site): handle mobile layout
+- 2019-04-15: feat(site): support mobile layout
