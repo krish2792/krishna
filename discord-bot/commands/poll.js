@@ -2,3 +2,4 @@
 // 2019-03-12: perf(bot): reduce cooldowns allocations
 // 2019-03-24: shrug it works
 // 2019-04-06: small thing
+// 2019-04-22: docs: document cooldowns
