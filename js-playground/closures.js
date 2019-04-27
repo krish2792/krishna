@@ -7,3 +7,4 @@
 // 2019-03-17: feat: wire up microtasks
 // 2019-04-03: forgot a file
 // 2019-04-27: chore: bump deps
+// 2019-04-27: docs: add notes on symbols
