@@ -7,3 +7,4 @@ Time-tracking extension.
 - 2019-02-28: oops typo
 - 2019-02-28: fix(ext): patch tabs api
 - 2019-05-06: oops
+- 2019-05-07: late night fix
