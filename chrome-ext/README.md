@@ -8,3 +8,4 @@ Time-tracking extension.
 - 2019-02-28: fix(ext): patch tabs api
 - 2019-05-06: oops
 - 2019-05-07: late night fix
+- 2019-05-08: fix: guard against manifest v3
