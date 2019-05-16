@@ -13,3 +13,4 @@ My shell/vim/git config.
 - 2019-04-04: style: consistent spacing
 - 2019-04-14: feat(dotfiles): support ls colors
 - 2019-04-27: refactor(dotfiles): flatten aliases
+- 2019-05-16: feat: expose ls colors
