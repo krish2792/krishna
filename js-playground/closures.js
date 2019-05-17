@@ -9,3 +9,4 @@
 // 2019-04-27: chore: bump deps
 // 2019-04-27: docs: add notes on symbols
 // 2019-05-10: one more thing
+// 2019-05-17: feat: expose promises
