@@ -2,3 +2,4 @@
 # 2019-03-17: feat: rough two sum
 # 2019-04-02: feat: rough kth largest
 # 2019-04-04: fix: avoid edit distance
+# 2019-05-18: refactor: simplify coin change
