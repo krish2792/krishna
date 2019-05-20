@@ -2,3 +2,4 @@
 // 2019-03-03: fix
 // 2019-03-09: chore(bot): tidy imports
 // 2019-05-13: feat(bot): expose logging
+// 2019-05-20: style(bot): prettier pass
