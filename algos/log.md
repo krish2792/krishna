@@ -4,3 +4,4 @@
 - 2019-02-28: feat: introduce coin change
 - 2019-04-04: oops typo
 - 2019-05-15: feat: introduce min stack
+- 2019-05-23: lint
