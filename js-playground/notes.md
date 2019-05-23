@@ -1,3 +1,4 @@
 - 2019-01-01: feat(js): init notes.md
 - 2019-01-13: feat: introduce closures
 - 2019-02-07: feat(js): add proxies
+- 2019-05-23: tiny tweak
