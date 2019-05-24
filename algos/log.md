@@ -5,3 +5,4 @@
 - 2019-04-04: oops typo
 - 2019-05-15: feat: introduce min stack
 - 2019-05-23: lint
+- 2019-05-24: feat: introduce rotate array
