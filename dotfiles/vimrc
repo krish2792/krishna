@@ -7,3 +7,4 @@
 # 2019-02-07: feat: add zsh prompt
 # 2019-05-17: wip(dotfiles): still hacking on vim plugins
 # 2019-06-08: forgot semicolon
+# 2019-06-28: fix(dotfiles): address git aliases
