@@ -5,3 +5,4 @@
 # 2019-04-27: fix: guard against lru cache
 # 2019-05-02: refactor: inline longest substring
 # 2019-05-23: fix: address three sum
+# 2019-07-06: feat: introduce valid parens
