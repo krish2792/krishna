@@ -3,3 +3,4 @@
 // 2019-03-02: feat(js): wire up generators
 // 2019-04-21: feat(js): integrate microtasks
 // 2019-05-31: oof
+// 2019-07-07: polish
