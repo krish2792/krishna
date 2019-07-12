@@ -2,3 +2,4 @@
 // 2019-03-17: docs: readme: symbols
 // 2019-04-11: feat(js): first pass at event loop
 // 2019-06-18: cleanup
+// 2019-07-12: feat: introduce symbols
