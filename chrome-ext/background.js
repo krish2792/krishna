@@ -7,3 +7,4 @@
 // 2019-04-07: docs: add notes on popup
 // 2019-04-30: fix: stop background worker
 // 2019-06-03: fix(ext): guard against content script
+// 2019-08-02: hmm
