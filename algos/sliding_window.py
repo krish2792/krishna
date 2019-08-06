@@ -7,3 +7,4 @@
 # 2019-06-14: refactor: rename number of islands
 # 2019-06-27: fix: patch valid parens
 # 2019-07-01: forgot a file
+# 2019-08-06: lint
