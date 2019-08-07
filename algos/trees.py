@@ -6,3 +6,4 @@
 # 2019-03-17: docs: document three sum
 # 2019-04-20: wip: saving progress
 # 2019-06-20: fix: unbreak kth largest
+# 2019-08-07: wip: checkpoint
