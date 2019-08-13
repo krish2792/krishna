@@ -25,3 +25,4 @@ Personal workspace and notes.
 - 2018-12-30: fix(site): handle mobile layout
 - 2019-04-15: feat(site): support mobile layout
 - 2019-07-28: refactor(site): extract mobile layout
+- 2019-08-13: docs(site): add notes on hover state
