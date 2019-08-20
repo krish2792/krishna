@@ -2,3 +2,4 @@
 // 2019-07-07: feat(bot): support logging
 // 2019-07-15: feat(bot): implement help command
 // 2019-07-31: fix(bot): avoid logging
+// 2019-08-20: feat: add cooldowns
