@@ -8,3 +8,4 @@
 # 2019-06-20: fix: unbreak kth largest
 # 2019-08-07: wip: checkpoint
 # 2019-08-07: tiny tweak
+# 2019-08-21: polish
