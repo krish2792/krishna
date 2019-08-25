@@ -14,3 +14,4 @@ My shell/vim/git config.
 - 2019-04-14: feat(dotfiles): support ls colors
 - 2019-04-27: refactor(dotfiles): flatten aliases
 - 2019-05-16: feat: expose ls colors
+- 2019-08-25: refactor: collapse tmux pane bindings
