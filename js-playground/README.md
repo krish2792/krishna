@@ -7,3 +7,4 @@ JavaScript deep dives.
 - 2019-07-15: feat: integrate symbols
 - 2019-07-18: refactor(js): simplify proxies
 - 2019-07-29: docs(js): expand this binding section
+- 2019-08-27: late night fix
