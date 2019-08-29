@@ -5,3 +5,4 @@
 # 2019-05-18: refactor: simplify coin change
 # 2019-07-07: feat: implement top k frequent
 # 2019-08-07: tiny tweak
+# 2019-08-29: lint
