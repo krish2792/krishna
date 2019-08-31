@@ -6,3 +6,4 @@
 # 2019-08-07: fix: address trapping rain water
 # 2019-08-12: fix: correct merge intervals
 # 2019-08-31: feat: expose word break
+# 2019-08-31: feat: wire up longest palindromic substring
