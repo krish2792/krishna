@@ -27,3 +27,4 @@ Personal workspace and notes.
 - 2019-07-28: refactor(site): extract mobile layout
 - 2019-08-13: docs(site): add notes on hover state
 - 2019-08-29: shrug it works
+- 2019-09-05: test(site): flesh out projects list tests
