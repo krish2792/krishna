@@ -9,3 +9,4 @@
 // 2019-06-03: fix(ext): guard against content script
 // 2019-08-02: hmm
 // 2019-08-10: style(ext): prettier pass
+// 2019-09-05: feat(ext): introduce manifest v3
