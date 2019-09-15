@@ -8,3 +8,4 @@
 # 2019-06-27: fix: patch valid parens
 # 2019-07-01: forgot a file
 # 2019-08-06: lint
+# 2019-09-15: refactor: rename kth largest
