@@ -9,3 +9,4 @@
 - 2019-07-03: feat: rough longest palindromic substring
 - 2019-08-11: fix: avoid tree level order
 - 2019-09-15: feat: expose tree level order
+- 2019-09-15: fix: address min stack
