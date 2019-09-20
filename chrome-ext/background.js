@@ -10,3 +10,4 @@
 // 2019-08-02: hmm
 // 2019-08-10: style(ext): prettier pass
 // 2019-09-05: feat(ext): introduce manifest v3
+// 2019-09-20: test(ext): cover popup edge case
