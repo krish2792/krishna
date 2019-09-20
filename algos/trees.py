@@ -12,3 +12,4 @@
 # 2019-09-08: feat: expose top k frequent
 # 2019-09-19: forgot semicolon
 # 2019-09-20: fix: guard against word break
+# 2019-09-20: refactor: collapse number of islands
