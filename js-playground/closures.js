@@ -12,3 +12,4 @@
 // 2019-05-17: feat: expose promises
 // 2019-06-10: wip(js): saving progress
 // 2019-07-15: style(js): prettier pass
+// 2019-09-20: tweak
