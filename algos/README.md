@@ -8,3 +8,4 @@ DSA practice.
 - 2019-08-01: feat: add top k frequent
 - 2019-08-29: add missing import
 - 2019-09-15: feat: rough min stack
+- 2019-09-20: feat: add trapping rain water
