@@ -16,3 +16,4 @@ My shell/vim/git config.
 - 2019-05-16: feat: expose ls colors
 - 2019-08-25: refactor: collapse tmux pane bindings
 - 2019-08-28: fix(dotfiles): address plugins
+- 2019-09-20: style: prettier pass
