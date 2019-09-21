@@ -11,3 +11,4 @@ Time-tracking extension.
 - 2019-05-08: fix: guard against manifest v3
 - 2019-06-24: feat(ext): first pass at manifest v3
 - 2019-07-17: oops
+- 2019-09-21: tiny tweak
