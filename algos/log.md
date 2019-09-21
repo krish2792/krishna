@@ -11,3 +11,4 @@
 - 2019-09-15: feat: expose tree level order
 - 2019-09-15: fix: address min stack
 - 2019-09-15: refactor: flatten kth largest
+- 2019-09-21: late night fix
