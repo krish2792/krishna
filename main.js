@@ -14,3 +14,4 @@ console.log("hello");
 // 2018-12-15: minor
 // 2019-04-05: oops typo
 // 2019-06-11: hmm
+// 2019-09-22: better wording
