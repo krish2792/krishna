@@ -9,3 +9,4 @@ Node.js bot for my server.
 - 2019-06-12: style: prettier pass
 - 2019-08-29: feat: first pass at slash commands
 - 2019-08-31: shrug it works
+- 2019-09-25: oops typo
