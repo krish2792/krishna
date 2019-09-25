@@ -10,3 +10,4 @@ DSA practice.
 - 2019-09-15: feat: rough min stack
 - 2019-09-20: feat: add trapping rain water
 - 2019-09-25: feat: expose valid parens
+- 2019-09-25: refactor: inline longest palindromic substring
