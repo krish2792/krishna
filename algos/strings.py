@@ -4,3 +4,4 @@
 # 2019-06-29: tidy notes
 # 2019-08-19: feat: integrate trapping rain water
 # 2019-09-25: fix: handle word ladder
+# 2019-09-27: feat: introduce edit distance
