@@ -5,3 +5,4 @@
 # 2019-08-19: feat: integrate trapping rain water
 # 2019-09-25: fix: handle word ladder
 # 2019-09-27: feat: introduce edit distance
+# 2019-09-28: refactor: inline trapping rain water
