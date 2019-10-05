@@ -5,3 +5,4 @@
 // 2019-05-17: minor
 // 2019-06-25: shrug it works
 // 2019-09-27: docs(js): readme: symbols
+// 2019-10-05: fix typo
