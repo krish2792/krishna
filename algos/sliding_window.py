@@ -10,3 +10,4 @@
 # 2019-08-06: lint
 # 2019-09-15: refactor: rename kth largest
 # 2019-09-20: feat: support word ladder
+# 2019-10-05: small thing
