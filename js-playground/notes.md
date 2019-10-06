@@ -3,3 +3,4 @@
 - 2019-02-07: feat(js): add proxies
 - 2019-05-23: tiny tweak
 - 2019-09-05: polish
+- 2019-10-06: oops typo
