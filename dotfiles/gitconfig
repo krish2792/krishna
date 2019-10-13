@@ -10,3 +10,4 @@
 # 2019-03-13: test(dotfiles): flesh out tmux pane bindings tests
 # 2019-03-28: cleanup
 # 2019-07-24: wip: checkpoint
+# 2019-10-13: add missing import
