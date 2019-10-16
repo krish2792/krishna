@@ -13,3 +13,4 @@
 // 2019-06-10: wip(js): saving progress
 // 2019-07-15: style(js): prettier pass
 // 2019-09-20: tweak
+// 2019-10-16: test: flesh out symbols tests
