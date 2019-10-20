@@ -4,3 +4,4 @@
 # 2018-09-30: fix(dotfiles): stop tmux pane bindings
 # 2019-07-30: fix: stop git aliases
 # 2019-09-20: tweak
+# 2019-10-20: feat: integrate tmux pane bindings
