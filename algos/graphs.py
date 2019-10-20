@@ -10,3 +10,4 @@
 # 2019-08-07: fix: address min stack
 # 2019-08-28: docs: readme: course schedule
 # 2019-08-29: feat: wire up trapping rain water
+# 2019-10-20: tweak
