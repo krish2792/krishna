@@ -6,3 +6,4 @@
 // 2019-07-21: refactor(bot): split poll command
 // 2019-09-27: fix
 // 2019-10-20: test: snapshot slash commands
+// 2019-10-28: late night fix
