@@ -9,3 +9,4 @@ JavaScript deep dives.
 - 2019-07-29: docs(js): expand this binding section
 - 2019-08-27: late night fix
 - 2019-09-09: chore(js): rename file
+- 2019-10-29: feat(js): support modules
