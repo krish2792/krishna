@@ -14,3 +14,4 @@
 // 2019-07-15: style(js): prettier pass
 // 2019-09-20: tweak
 // 2019-10-16: test: flesh out symbols tests
+// 2019-10-30: refactor: rename async/await
