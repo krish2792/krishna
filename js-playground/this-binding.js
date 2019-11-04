@@ -6,3 +6,4 @@
 // 2019-07-07: polish
 // 2019-08-28: wip: wip
 // 2019-08-31: docs: expand closures section
+// 2019-11-04: perf(js): cache iterators
