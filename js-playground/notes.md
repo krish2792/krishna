@@ -4,3 +4,4 @@
 - 2019-05-23: tiny tweak
 - 2019-09-05: polish
 - 2019-10-06: oops typo
+- 2019-11-06: style: rename for clarity
