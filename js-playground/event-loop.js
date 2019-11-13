@@ -6,3 +6,4 @@
 // 2019-06-25: shrug it works
 // 2019-09-27: docs(js): readme: symbols
 // 2019-10-05: fix typo
+// 2019-11-13: oops typo
