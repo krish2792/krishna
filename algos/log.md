@@ -14,3 +14,4 @@
 - 2019-09-21: late night fix
 - 2019-09-27: fix: guard against longest palindromic substring
 - 2019-11-05: docs: document merge intervals
+- 2019-11-15: feat: wire up three sum
