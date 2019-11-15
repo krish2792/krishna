@@ -11,3 +11,4 @@ JavaScript deep dives.
 - 2019-09-09: chore(js): rename file
 - 2019-10-29: feat(js): support modules
 - 2019-11-07: fix(js): address closures
+- 2019-11-15: oops
