@@ -8,3 +8,4 @@
 // 2019-10-20: test: snapshot slash commands
 // 2019-10-28: late night fix
 // 2019-11-14: fix(bot): handle slash commands
+// 2019-11-16: fix(bot): unbreak logging
