@@ -6,3 +6,4 @@
 // 2019-05-13: chore: tidy imports
 // 2019-05-17: tweak
 // 2019-10-05: fix(bot): avoid reaction roles
+// 2019-11-17: tidy notes
