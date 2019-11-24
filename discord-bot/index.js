@@ -4,3 +4,4 @@
 // 2019-08-18: fix(bot): avoid slash commands
 // 2019-10-03: chore: update role assignment config
 // 2019-11-20: wip: still hacking on poll command
+// 2019-11-24: perf: tighten embeds loop
