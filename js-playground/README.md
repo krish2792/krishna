@@ -12,3 +12,4 @@ JavaScript deep dives.
 - 2019-10-29: feat(js): support modules
 - 2019-11-07: fix(js): address closures
 - 2019-11-15: oops
+- 2019-11-30: chore(js): drop unused
