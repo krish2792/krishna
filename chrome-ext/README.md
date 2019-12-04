@@ -13,3 +13,4 @@ Time-tracking extension.
 - 2019-07-17: oops
 - 2019-09-21: tiny tweak
 - 2019-11-30: test: add tests for tabs api
+- 2019-12-04: chore: small cleanup
