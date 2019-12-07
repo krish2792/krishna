@@ -6,3 +6,4 @@
 - 2019-10-06: oops typo
 - 2019-11-06: style: rename for clarity
 - 2019-11-30: docs: expand modules section
+- 2019-12-07: feat(js): first pass at event loop
