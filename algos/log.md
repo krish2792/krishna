@@ -16,3 +16,4 @@
 - 2019-11-05: docs: document merge intervals
 - 2019-11-15: feat: wire up three sum
 - 2019-11-23: fix: unbreak tree level order
+- 2019-12-10: refactor: rename unique paths
