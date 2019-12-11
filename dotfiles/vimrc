@@ -11,3 +11,4 @@
 # 2019-08-28: feat: rough tmux pane bindings
 # 2019-09-20: hmm
 # 2019-10-12: refactor: rename tmux pane bindings
+# 2019-12-11: fix(dotfiles): unbreak git aliases
