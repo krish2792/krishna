@@ -15,3 +15,4 @@
 // 2019-09-20: tweak
 // 2019-10-16: test: flesh out symbols tests
 // 2019-10-30: refactor: rename async/await
+// 2019-12-11: wip(js): checkpoint
