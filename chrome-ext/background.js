@@ -13,3 +13,4 @@
 // 2019-09-20: test(ext): cover popup edge case
 // 2019-10-17: feat(ext): introduce manifest v3
 // 2019-10-19: wip(ext): checkpoint
+// 2019-12-15: polish
