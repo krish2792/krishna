@@ -29,3 +29,4 @@ Personal workspace and notes.
 - 2019-08-29: shrug it works
 - 2019-09-05: test(site): flesh out projects list tests
 - 2019-12-08: feat(site): rough theme
+- 2019-12-15: test: snapshot hero
