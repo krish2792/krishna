@@ -17,3 +17,4 @@
 - 2019-11-15: feat: wire up three sum
 - 2019-11-23: fix: unbreak tree level order
 - 2019-12-10: refactor: rename unique paths
+- 2019-12-15: feat: first pass at min stack
