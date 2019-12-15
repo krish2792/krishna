@@ -8,3 +8,4 @@
 // 2019-10-10: oof
 // 2019-11-28: fix(ext): unbreak storage
 // 2019-12-01: style: prettier pass
+// 2019-12-15: docs(ext): clarify icon
