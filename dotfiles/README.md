@@ -18,3 +18,4 @@ My shell/vim/git config.
 - 2019-08-28: fix(dotfiles): address plugins
 - 2019-09-20: style: prettier pass
 - 2019-12-06: feat: expose vim leader
+- 2019-12-15: add missing import
