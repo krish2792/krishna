@@ -3,3 +3,4 @@
 // 2019-07-15: feat(bot): implement help command
 // 2019-07-31: fix(bot): avoid logging
 // 2019-08-20: feat: add cooldowns
+// 2019-12-16: docs(bot): clarify role assignment
