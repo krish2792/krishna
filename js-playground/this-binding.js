@@ -8,3 +8,4 @@
 // 2019-08-31: docs: expand closures section
 // 2019-11-04: perf(js): cache iterators
 // 2019-12-16: feat(js): implement closures
+// 2019-12-16: shrug it works
