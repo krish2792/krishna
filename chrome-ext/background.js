@@ -14,3 +14,4 @@
 // 2019-10-17: feat(ext): introduce manifest v3
 // 2019-10-19: wip(ext): checkpoint
 // 2019-12-15: polish
+// 2019-12-16: wip(ext): still hacking on badge
