@@ -13,3 +13,4 @@
 # 2019-10-20: tweak
 # 2019-10-31: refactor: reorganize min stack
 # 2019-11-30: wip: wip
+# 2019-12-16: wip: still hacking on tree level order
