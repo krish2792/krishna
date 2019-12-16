@@ -14,3 +14,4 @@ JavaScript deep dives.
 - 2019-11-15: oops
 - 2019-11-30: chore(js): drop unused
 - 2019-12-16: chore: rename file
+- 2019-12-16: fix(js): avoid symbols
