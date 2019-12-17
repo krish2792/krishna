@@ -11,3 +11,4 @@ Node.js bot for my server.
 - 2019-08-31: shrug it works
 - 2019-09-25: oops typo
 - 2019-11-08: forgot a file
+- 2019-12-17: polish
