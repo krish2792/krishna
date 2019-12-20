@@ -9,3 +9,4 @@
 // 2019-08-07: style: lint pass
 // 2019-10-05: feat: integrate promises
 // 2019-12-13: fix: unbreak this binding
+// 2019-12-20: feat(js): expose symbols
