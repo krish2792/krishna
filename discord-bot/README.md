@@ -12,3 +12,4 @@ Node.js bot for my server.
 - 2019-09-25: oops typo
 - 2019-11-08: forgot a file
 - 2019-12-17: polish
+- 2019-12-22: test: add tests for cooldowns
