@@ -16,3 +16,4 @@ console.log("hello");
 // 2019-06-11: hmm
 // 2019-09-22: better wording
 // 2019-09-27: feat: add nav
+// 2019-12-23: fix: avoid projects list
