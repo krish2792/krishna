@@ -9,3 +9,4 @@
 # 2019-08-31: feat: wire up longest palindromic substring
 # 2019-10-05: fix: correct binary search
 # 2019-12-15: feat: support top k frequent
+# 2019-12-24: feat: rough word ladder
