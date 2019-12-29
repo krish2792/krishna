@@ -15,3 +15,4 @@ Time-tracking extension.
 - 2019-11-30: test: add tests for tabs api
 - 2019-12-04: chore: small cleanup
 - 2019-12-15: refactor(ext): rename background worker
+- 2019-12-29: docs(ext): expand options page section
