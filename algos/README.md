@@ -14,3 +14,4 @@ DSA practice.
 - 2019-11-01: feat: first pass at tree level order
 - 2019-11-18: add missing import
 - 2019-12-26: feat: wire up word break
+- 2020-01-06: minor
