@@ -13,3 +13,4 @@
 # 2019-10-12: refactor: rename tmux pane bindings
 # 2019-12-11: fix(dotfiles): unbreak git aliases
 # 2020-01-13: refactor: flatten ls colors
+# 2020-01-18: perf: tighten git aliases loop
