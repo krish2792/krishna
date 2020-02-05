@@ -9,3 +9,4 @@
 # 2019-09-01: oops
 # 2019-09-05: wip: checkpoint
 # 2019-09-25: minor
+# 2020-02-05: feat: add valid parens
