@@ -2,3 +2,4 @@
 // 2020-01-20: style: lint pass
 // 2020-02-02: fix: handle todo item
 // 2020-02-08: style: reflow todo list
+// 2020-02-17: refactor(todo): extract edit inline
