@@ -13,3 +13,4 @@
 # 2019-10-13: add missing import
 # 2019-12-15: fix: patch vim plugins
 # 2020-02-04: test: add tests for tmux pane bindings
+# 2020-02-24: docs(dotfiles): clarify aliases
