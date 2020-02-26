@@ -5,3 +5,4 @@
 // 2019-08-20: feat: add cooldowns
 // 2019-12-16: docs(bot): clarify role assignment
 // 2019-12-27: feat(bot): integrate embeds
+// 2020-02-26: test: add tests for logging
