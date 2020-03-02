@@ -20,3 +20,4 @@ My shell/vim/git config.
 - 2019-12-06: feat: expose vim leader
 - 2019-12-15: add missing import
 - 2020-01-07: fix typo
+- 2020-03-02: tweak
