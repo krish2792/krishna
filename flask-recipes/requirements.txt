@@ -2,3 +2,4 @@
 2020-01-30: feat: rough add recipe form
 2020-02-01: chore: reformat
 2020-02-19: shrug it works
+2020-03-05: docs: tidy logout docs
