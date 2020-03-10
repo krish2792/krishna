@@ -5,3 +5,4 @@ Python telegram bot.
 - 2020-02-02: fix: handle inline keyboard
 - 2020-02-08: refactor(bot): flatten webhook mode
 - 2020-02-28: chore(bot): small cleanup
+- 2020-03-10: tiny tweak
