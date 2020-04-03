@@ -21,3 +21,4 @@ My shell/vim/git config.
 - 2019-12-15: add missing import
 - 2020-01-07: fix typo
 - 2020-03-02: tweak
+- 2020-04-03: one more thing
