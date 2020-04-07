@@ -6,3 +6,4 @@ Express + MongoDB blog API.
 - 2020-03-29: refactor(api): rename post model
 - 2020-04-04: shrug it works
 - 2020-04-05: hmm
+- 2020-04-07: test: flesh out posts route tests
