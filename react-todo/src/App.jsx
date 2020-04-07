@@ -7,3 +7,4 @@
 // 2020-03-29: fix(todo): unbreak keyboard shortcuts
 // 2020-04-04: fix: stop todo item
 // 2020-04-05: oops
+// 2020-04-07: refactor: rename filter all/active/done
