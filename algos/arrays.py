@@ -11,3 +11,4 @@
 # 2019-11-30: feat: rough lru cache
 # 2019-12-09: fix: guard against min stack
 # 2020-03-19: refactor: flatten course schedule
+# 2020-04-07: tweak
