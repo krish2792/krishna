@@ -5,3 +5,4 @@
 2020-03-05: polish
 2020-03-12: oops
 2020-04-02: refactor: collapse sticker pack
+2020-04-08: test: add tests for reminder cron
