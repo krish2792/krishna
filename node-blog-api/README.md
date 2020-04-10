@@ -7,3 +7,4 @@ Express + MongoDB blog API.
 - 2020-04-04: shrug it works
 - 2020-04-05: hmm
 - 2020-04-07: test: flesh out posts route tests
+- 2020-04-10: perf: tighten cors config loop
