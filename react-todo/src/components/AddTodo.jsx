@@ -4,3 +4,4 @@
 // 2020-02-05: docs: readme: drag reorder
 // 2020-03-12: style: rename for clarity
 // 2020-04-07: chore(todo): bump deps
+// 2020-04-11: fix(todo): correct filter all/active/done
