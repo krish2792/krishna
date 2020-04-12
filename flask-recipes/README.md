@@ -6,3 +6,4 @@ Flask recipe site.
 - 2020-02-09: oops typo
 - 2020-03-17: shrug it works
 - 2020-04-07: fix(flask): patch sessions
+- 2020-04-12: feat: first pass at jinja layout
