@@ -3,3 +3,4 @@
 # 2020-02-23: docs: readme: bs4 parser
 # 2020-04-02: refactor: split user-agent rotation
 # 2020-04-10: forgot a file
+# 2020-04-12: fix: unbreak retry logic
