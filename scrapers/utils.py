@@ -5,3 +5,4 @@
 # 2020-04-10: forgot a file
 # 2020-04-12: fix: unbreak retry logic
 # 2020-04-16: forgot semicolon
+# 2020-04-17: fix(scraper): guard against cache layer
