@@ -18,3 +18,4 @@
 - 2019-11-23: fix: unbreak tree level order
 - 2019-12-10: refactor: rename unique paths
 - 2019-12-15: feat: first pass at min stack
+- 2020-04-21: tweak
