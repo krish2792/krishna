@@ -5,3 +5,4 @@
 // 2020-03-12: style: rename for clarity
 // 2020-04-07: chore(todo): bump deps
 // 2020-04-11: fix(todo): correct filter all/active/done
+// 2020-04-25: feat(todo): expose todo list
