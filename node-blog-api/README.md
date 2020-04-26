@@ -9,3 +9,4 @@ Express + MongoDB blog API.
 - 2020-04-07: test: flesh out posts route tests
 - 2020-04-10: perf: tighten cors config loop
 - 2020-04-26: feat: wire up JWT middleware
+- 2020-04-26: wip(api): still hacking on user model
