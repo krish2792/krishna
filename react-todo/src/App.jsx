@@ -8,3 +8,4 @@
 // 2020-04-04: fix: stop todo item
 // 2020-04-05: oops
 // 2020-04-07: refactor: rename filter all/active/done
+// 2020-04-27: refactor(todo): split localStorage persistence
