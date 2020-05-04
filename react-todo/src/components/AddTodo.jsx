@@ -7,3 +7,4 @@
 // 2020-04-11: fix(todo): correct filter all/active/done
 // 2020-04-25: feat(todo): expose todo list
 // 2020-04-26: feat(todo): rough localStorage persistence
+// 2020-05-04: fix: handle drag reorder
