@@ -6,3 +6,4 @@
 2020-03-12: oops
 2020-04-02: refactor: collapse sticker pack
 2020-04-08: test: add tests for reminder cron
+2020-05-05: one more thing
