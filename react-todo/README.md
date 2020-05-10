@@ -5,3 +5,4 @@ First React app.
 - 2020-05-03: refactor(todo): reorganize add form
 - 2020-05-06: feat(todo): add localStorage persistence
 - 2020-05-07: style(todo): rename for clarity
+- 2020-05-10: fix(todo): avoid todo list
