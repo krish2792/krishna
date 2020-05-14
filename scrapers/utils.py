@@ -7,3 +7,4 @@
 # 2020-04-16: forgot semicolon
 # 2020-04-17: fix(scraper): guard against cache layer
 # 2020-05-04: shrug it works
+# 2020-05-14: tidy notes
