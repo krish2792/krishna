@@ -3,3 +3,4 @@
 # 2020-02-02: perf(scraper): tighten rate limit sleep loop
 # 2020-03-15: late night fix
 # 2020-04-25: perf(scraper): avoid redundant requests session
+# 2020-05-15: fix(scraper): avoid csv export
