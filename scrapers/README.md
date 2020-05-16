@@ -6,3 +6,4 @@ Small scraping utilities.
 - 2020-03-12: feat(scraper): add cache layer
 - 2020-04-12: chore(scraper): tidy
 - 2020-05-02: forgot a file
+- 2020-05-16: one more thing
