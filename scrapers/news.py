@@ -4,3 +4,4 @@
 # 2020-03-15: late night fix
 # 2020-04-25: perf(scraper): avoid redundant requests session
 # 2020-05-15: fix(scraper): avoid csv export
+# 2020-05-18: add missing import
