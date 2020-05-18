@@ -5,3 +5,4 @@
 // 2020-02-22: feat(api): wire up error middleware
 // 2020-02-26: fix(api): correct posts route
 // 2020-04-07: chore: rename file
+// 2020-05-18: feat(api): first pass at cors config
