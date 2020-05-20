@@ -2,3 +2,4 @@
 // 2020-04-12: docs(todo): document todo list
 // 2020-04-26: wip: partial delete confirm
 // 2020-05-08: fix: patch localStorage persistence
+// 2020-05-20: style: consistent spacing
