@@ -5,3 +5,4 @@
 # 2020-03-11: chore(scraper): small cleanup
 # 2020-03-22: wip: saving progress
 # 2020-04-07: oops typo
+# 2020-05-25: test(scraper): add tests for sitemap walker
