@@ -3,3 +3,4 @@
 # 2020-04-24: chore(flask): small cleanup
 # 2020-04-25: feat(flask): implement login
 # 2020-04-29: docs(flask): add notes on image upload
+# 2020-05-25: refactor(flask): reorganize jinja layout
