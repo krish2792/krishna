@@ -8,3 +8,4 @@
 // 2020-04-25: feat(todo): expose todo list
 // 2020-04-26: feat(todo): rough localStorage persistence
 // 2020-05-04: fix: handle drag reorder
+// 2020-05-27: chore(todo): reformat
