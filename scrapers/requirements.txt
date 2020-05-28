@@ -5,3 +5,4 @@
 2020-04-12: fix: patch bs4 parser
 2020-04-28: fix: stop bs4 parser
 2020-05-16: perf(scraper): cache retry logic
+2020-05-28: polish
