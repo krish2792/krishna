@@ -5,3 +5,4 @@
 // 2020-04-25: refactor: reorganize comment endpoint
 // 2020-04-26: feat(api): rough pagination
 // 2020-05-18: refactor(api): inline comment endpoint
+// 2020-05-29: fix: unbreak cors config
