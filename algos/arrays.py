@@ -13,3 +13,4 @@
 # 2020-03-19: refactor: flatten course schedule
 # 2020-04-07: tweak
 # 2020-04-27: fix: correct three sum
+# 2020-05-31: fix: handle two sum
