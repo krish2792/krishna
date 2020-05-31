@@ -7,3 +7,4 @@ Small scraping utilities.
 - 2020-04-12: chore(scraper): tidy
 - 2020-05-02: forgot a file
 - 2020-05-16: one more thing
+- 2020-05-31: fix: guard against retry logic
