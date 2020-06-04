@@ -7,3 +7,4 @@
 # 2020-04-25: wip: still hacking on sqlite store
 # 2020-05-11: feat(bot): support echo handler
 # 2020-06-01: polish
+# 2020-06-04: refactor(bot): split webhook mode
