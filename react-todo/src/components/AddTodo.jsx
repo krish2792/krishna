@@ -9,3 +9,4 @@
 // 2020-04-26: feat(todo): rough localStorage persistence
 // 2020-05-04: fix: handle drag reorder
 // 2020-05-27: chore(todo): reformat
+// 2020-06-05: style: reflow theme toggle
