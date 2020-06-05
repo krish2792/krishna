@@ -6,3 +6,4 @@
 # 2020-03-22: wip: saving progress
 # 2020-04-07: oops typo
 # 2020-05-25: test(scraper): add tests for sitemap walker
+# 2020-06-05: fix(scraper): handle cache layer
