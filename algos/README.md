@@ -15,3 +15,4 @@ DSA practice.
 - 2019-11-18: add missing import
 - 2019-12-26: feat: wire up word break
 - 2020-01-06: minor
+- 2020-06-06: feat: expose word break
