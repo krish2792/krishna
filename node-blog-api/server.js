@@ -7,3 +7,4 @@
 // 2020-04-07: chore: rename file
 // 2020-05-18: feat(api): first pass at cors config
 // 2020-05-20: refactor(api): rename cors config
+// 2020-06-09: shrug it works
