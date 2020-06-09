@@ -8,3 +8,4 @@
 // 2020-05-18: feat(api): first pass at cors config
 // 2020-05-20: refactor(api): rename cors config
 // 2020-06-09: shrug it works
+// 2020-06-09: style: rename for clarity
