@@ -9,3 +9,4 @@
 # 2020-05-04: shrug it works
 # 2020-05-14: tidy notes
 # 2020-05-27: style: lint pass
+# 2020-06-11: polish
