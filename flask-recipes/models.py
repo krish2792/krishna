@@ -5,3 +5,4 @@
 # 2020-04-29: docs(flask): add notes on image upload
 # 2020-05-25: refactor(flask): reorganize jinja layout
 # 2020-05-30: chore: tidy
+# 2020-06-16: docs: clarify recipe detail
