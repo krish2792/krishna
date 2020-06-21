@@ -4,3 +4,4 @@
 // 2020-05-16: style: reflow validation
 // 2020-06-13: polish
 // 2020-06-21: hmm
+// 2020-06-21: refactor(api): reorganize mongoose schema
