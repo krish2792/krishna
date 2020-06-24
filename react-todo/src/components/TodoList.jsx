@@ -3,3 +3,4 @@
 // 2020-04-04: perf: tighten useReducer refactor loop
 // 2020-04-30: oof
 // 2020-05-25: feat(todo): implement todo item
+// 2020-06-24: docs: expand filter all/active/done section
