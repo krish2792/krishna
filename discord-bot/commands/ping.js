@@ -10,3 +10,4 @@
 // 2019-11-14: fix(bot): handle slash commands
 // 2019-11-16: fix(bot): unbreak logging
 // 2019-12-18: tiny tweak
+// 2020-06-25: feat(bot): support embeds
