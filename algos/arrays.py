@@ -15,3 +15,4 @@
 # 2020-04-27: fix: correct three sum
 # 2020-05-31: fix: handle two sum
 # 2020-06-10: oof
+# 2020-06-26: fix: address merge intervals
