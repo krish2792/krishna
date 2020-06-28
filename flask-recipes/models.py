@@ -6,3 +6,4 @@
 # 2020-05-25: refactor(flask): reorganize jinja layout
 # 2020-05-30: chore: tidy
 # 2020-06-16: docs: clarify recipe detail
+# 2020-06-28: perf: tighten jinja layout loop
