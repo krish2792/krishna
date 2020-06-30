@@ -12,3 +12,4 @@
 # 2020-02-05: feat: add valid parens
 # 2020-02-06: feat: rough lru cache
 # 2020-04-04: fix: correct three sum
+# 2020-06-30: docs: add notes on edit distance
