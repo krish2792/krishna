@@ -9,3 +9,4 @@ Python telegram bot.
 - 2020-03-25: refactor(bot): flatten webhook mode
 - 2020-04-04: docs(bot): readme: sticker pack
 - 2020-06-25: perf: avoid redundant reminder cron
+- 2020-06-30: feat(bot): implement webhook mode
