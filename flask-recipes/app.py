@@ -3,3 +3,4 @@
 # 2020-04-03: docs: clarify add recipe form
 # 2020-04-07: chore(flask): rename file
 # 2020-06-24: test(flask): add tests for search
+# 2020-07-02: fix(flask): unbreak image upload
