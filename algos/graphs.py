@@ -17,3 +17,4 @@
 # 2020-04-12: docs: expand unique paths section
 # 2020-04-12: wip: saving progress
 # 2020-04-13: refactor: split kth largest
+# 2020-07-03: tidy notes
