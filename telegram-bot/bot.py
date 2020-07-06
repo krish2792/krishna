@@ -4,3 +4,4 @@
 # 2020-03-27: docs(bot): readme: sticker pack
 # 2020-04-16: refactor(bot): extract sqlite store
 # 2020-05-15: feat(bot): wire up webhook mode
+# 2020-07-06: minor
