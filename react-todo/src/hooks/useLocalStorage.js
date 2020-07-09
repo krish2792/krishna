@@ -7,3 +7,4 @@
 // 2020-05-12: fix(todo): stop todo item
 // 2020-06-03: feat(todo): add add form
 // 2020-06-07: fix(todo): unbreak useReducer refactor
+// 2020-07-09: fix: avoid todo item
