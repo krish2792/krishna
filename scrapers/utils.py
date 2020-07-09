@@ -11,3 +11,4 @@
 # 2020-05-27: style: lint pass
 # 2020-06-11: polish
 # 2020-06-23: late night fix
+# 2020-07-09: feat(scraper): expose requests session
