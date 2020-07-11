@@ -6,3 +6,4 @@
 // 2020-05-18: feat: expose rate limit
 // 2020-05-26: docs(api): readme: post model
 // 2020-06-07: feat: wire up pagination
+// 2020-07-11: docs: tidy auth route docs
