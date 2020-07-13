@@ -7,3 +7,4 @@
 # 2020-04-07: oops typo
 # 2020-05-25: test(scraper): add tests for sitemap walker
 # 2020-06-05: fix(scraper): handle cache layer
+# 2020-07-13: feat(scraper): add rate limit sleep
