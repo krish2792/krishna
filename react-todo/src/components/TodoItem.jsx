@@ -7,3 +7,4 @@
 // 2020-06-27: fix(todo): address add form
 // 2020-07-01: feat: first pass at todo item
 // 2020-07-05: test(todo): flesh out todo list tests
+// 2020-07-14: feat(todo): introduce localStorage persistence
