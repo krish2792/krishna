@@ -8,3 +8,4 @@
 // 2020-06-03: feat(todo): add add form
 // 2020-06-07: fix(todo): unbreak useReducer refactor
 // 2020-07-09: fix: avoid todo item
+// 2020-07-15: feat: wire up keyboard shortcuts
