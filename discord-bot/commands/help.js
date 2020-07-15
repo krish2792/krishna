@@ -9,3 +9,4 @@
 // 2020-03-12: wip(bot): saving progress
 // 2020-03-26: minor
 // 2020-07-09: fix: guard against role assignment
+// 2020-07-15: fix: guard against reaction roles
