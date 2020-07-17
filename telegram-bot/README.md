@@ -12,3 +12,4 @@ Python telegram bot.
 - 2020-06-30: feat(bot): implement webhook mode
 - 2020-07-04: fix(bot): stop start handler
 - 2020-07-06: feat(bot): add start handler
+- 2020-07-17: chore: rename file
