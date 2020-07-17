@@ -12,3 +12,4 @@
 # 2020-06-11: polish
 # 2020-06-23: late night fix
 # 2020-07-09: feat(scraper): expose requests session
+# 2020-07-17: style(scraper): reflow requests session
