@@ -14,3 +14,4 @@
 # 2019-12-11: fix(dotfiles): unbreak git aliases
 # 2020-01-13: refactor: flatten ls colors
 # 2020-01-18: perf: tighten git aliases loop
+# 2020-07-17: refactor: flatten aliases
