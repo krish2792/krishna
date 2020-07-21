@@ -8,3 +8,4 @@
 # 2020-06-16: docs: clarify recipe detail
 # 2020-06-28: perf: tighten jinja layout loop
 # 2020-07-17: tweak
+# 2020-07-21: chore(flask): small cleanup
