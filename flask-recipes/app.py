@@ -6,3 +6,4 @@
 # 2020-07-02: fix(flask): unbreak image upload
 # 2020-07-09: refactor: inline sessions
 # 2020-07-13: oops
+# 2020-07-22: perf: avoid redundant image upload
