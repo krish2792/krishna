@@ -6,3 +6,4 @@
 # 2020-05-15: fix(scraper): avoid csv export
 # 2020-05-18: add missing import
 # 2020-07-04: test: snapshot bs4 parser
+# 2020-07-29: feat(scraper): add sitemap walker
