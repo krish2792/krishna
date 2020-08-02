@@ -7,3 +7,4 @@
 // 2020-05-18: refactor(api): inline comment endpoint
 // 2020-05-29: fix: unbreak cors config
 // 2020-07-17: fix(api): patch mongoose schema
+// 2020-08-02: tiny tweak
