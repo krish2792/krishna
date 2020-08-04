@@ -11,3 +11,4 @@
 2020-06-13: better wording
 2020-07-05: docs(flask): document recipe list
 2020-07-28: fix: stop image upload
+2020-08-04: chore(flask): tidy imports
