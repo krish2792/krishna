@@ -9,3 +9,4 @@
 # 2020-06-28: perf: tighten jinja layout loop
 # 2020-07-17: tweak
 # 2020-07-21: chore(flask): small cleanup
+# 2020-08-05: perf(flask): cache login
