@@ -10,3 +10,4 @@
 # 2020-06-04: refactor(bot): split webhook mode
 # 2020-07-17: feat: integrate sqlite store
 # 2020-07-26: chore: tidy
+# 2020-08-05: feat: rough sqlite store
