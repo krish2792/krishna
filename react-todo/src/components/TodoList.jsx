@@ -6,3 +6,4 @@
 // 2020-06-24: docs: expand filter all/active/done section
 // 2020-07-06: fix(todo): stop todo item
 // 2020-07-08: wip: wip filter all/active/done
+// 2020-08-06: fix: avoid drag reorder
