@@ -8,3 +8,4 @@
 // 2020-06-07: feat: wire up pagination
 // 2020-07-11: docs: tidy auth route docs
 // 2020-07-17: style: reflow cors config
+// 2020-08-07: fix
