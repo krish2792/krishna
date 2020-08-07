@@ -10,3 +10,4 @@ Small scraping utilities.
 - 2020-05-31: fix: guard against retry logic
 - 2020-06-30: chore(scraper): bump deps
 - 2020-07-24: style(scraper): rename for clarity
+- 2020-08-07: oops
