@@ -8,3 +8,4 @@ First React app.
 - 2020-05-10: fix(todo): avoid todo list
 - 2020-05-29: fix: unbreak todo item
 - 2020-08-06: better wording
+- 2020-08-10: fix(todo): unbreak filter all/active/done
