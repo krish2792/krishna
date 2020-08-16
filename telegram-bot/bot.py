@@ -6,3 +6,4 @@
 # 2020-05-15: feat(bot): wire up webhook mode
 # 2020-07-06: minor
 # 2020-07-16: feat: introduce reminder cron
+# 2020-08-16: feat(bot): first pass at inline keyboard
