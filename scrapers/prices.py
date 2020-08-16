@@ -9,3 +9,4 @@
 # 2020-06-05: fix(scraper): handle cache layer
 # 2020-07-13: feat(scraper): add rate limit sleep
 # 2020-08-06: feat(scraper): introduce rate limit sleep
+# 2020-08-16: feat(scraper): introduce user-agent rotation
