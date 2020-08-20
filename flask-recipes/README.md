@@ -9,3 +9,4 @@ Flask recipe site.
 - 2020-04-12: feat: first pass at jinja layout
 - 2020-06-05: fix typo
 - 2020-06-14: polish
+- 2020-08-20: docs: tidy login docs
