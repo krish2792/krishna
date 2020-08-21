@@ -15,3 +15,4 @@
 # 2020-02-04: test: add tests for tmux pane bindings
 # 2020-02-24: docs(dotfiles): clarify aliases
 # 2020-04-07: style: reflow vim plugins
+# 2020-08-21: style(dotfiles): lint pass
