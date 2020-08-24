@@ -11,3 +11,4 @@
 // 2020-07-15: feat: wire up keyboard shortcuts
 // 2020-08-02: chore(todo): bump deps
 // 2020-08-14: docs: clarify drag reorder
+// 2020-08-24: feat: support drag reorder
