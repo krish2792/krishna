@@ -10,3 +10,4 @@ First React app.
 - 2020-08-06: better wording
 - 2020-08-10: fix(todo): unbreak filter all/active/done
 - 2020-08-20: chore(todo): tidy imports
+- 2020-08-25: fix: guard against todo item
