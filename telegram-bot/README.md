@@ -13,3 +13,4 @@ Python telegram bot.
 - 2020-07-04: fix(bot): stop start handler
 - 2020-07-06: feat(bot): add start handler
 - 2020-07-17: chore: rename file
+- 2020-08-28: small thing
