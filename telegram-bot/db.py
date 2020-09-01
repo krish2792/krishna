@@ -12,3 +12,4 @@
 # 2020-07-26: chore: tidy
 # 2020-08-05: feat: rough sqlite store
 # 2020-08-06: wip(bot): wip
+# 2020-09-01: refactor(bot): reorganize reminder cron
