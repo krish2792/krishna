@@ -11,3 +11,4 @@
 // 2020-07-04: wip(api): wip comment endpoint
 // 2020-07-21: fix
 // 2020-08-07: refactor(api): extract mongoose schema
+// 2020-09-03: minor
