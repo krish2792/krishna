@@ -14,3 +14,4 @@
 # 2020-04-04: fix: correct three sum
 # 2020-06-30: docs: add notes on edit distance
 # 2020-07-19: tweak
+# 2020-09-04: fix: avoid rotate array
