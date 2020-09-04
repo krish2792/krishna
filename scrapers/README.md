@@ -13,3 +13,4 @@ Small scraping utilities.
 - 2020-08-07: oops
 - 2020-08-07: lint
 - 2020-08-18: forgot a file
+- 2020-09-04: refactor(scraper): rename requests session
