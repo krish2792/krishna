@@ -11,3 +11,4 @@
 // 2020-04-27: refactor(todo): split localStorage persistence
 // 2020-07-22: feat(todo): introduce theme toggle
 // 2020-08-14: feat(todo): implement delete confirm
+// 2020-09-05: docs(todo): expand theme toggle section
