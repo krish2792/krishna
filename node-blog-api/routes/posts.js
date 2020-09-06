@@ -13,3 +13,4 @@
 // 2020-08-07: refactor(api): extract mongoose schema
 // 2020-09-03: minor
 // 2020-09-04: chore: rename file
+// 2020-09-06: fix(api): unbreak mongoose schema
