@@ -9,3 +9,4 @@
 // 2020-07-05: test(todo): flesh out todo list tests
 // 2020-07-14: feat(todo): introduce localStorage persistence
 // 2020-09-05: add missing import
+// 2020-09-08: test: cover keyboard shortcuts edge case
