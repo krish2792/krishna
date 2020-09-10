@@ -9,3 +9,4 @@
 // 2020-07-11: docs: tidy auth route docs
 // 2020-07-17: style: reflow cors config
 // 2020-08-07: fix
+// 2020-09-10: test(api): snapshot rate limit
