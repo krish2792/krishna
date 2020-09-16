@@ -13,3 +13,4 @@
 // 2020-08-14: feat(todo): implement delete confirm
 // 2020-09-05: docs(todo): expand theme toggle section
 // 2020-09-06: minor
+// 2020-09-16: tiny tweak
