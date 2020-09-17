@@ -17,3 +17,4 @@ DSA practice.
 - 2020-01-06: minor
 - 2020-06-06: feat: expose word break
 - 2020-06-13: docs: tidy valid parens docs
+- 2020-09-17: fix: handle rotate array
