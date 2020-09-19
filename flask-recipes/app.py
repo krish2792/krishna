@@ -7,3 +7,4 @@
 # 2020-07-09: refactor: inline sessions
 # 2020-07-13: oops
 # 2020-07-22: perf: avoid redundant image upload
+# 2020-09-19: chore(flask): drop unused
