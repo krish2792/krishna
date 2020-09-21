@@ -13,3 +13,4 @@
 2020-07-28: fix: stop image upload
 2020-08-04: chore(flask): tidy imports
 2020-08-10: refactor(flask): reorganize sqlalchemy model
+2020-09-21: wip(flask): still hacking on sqlalchemy model
