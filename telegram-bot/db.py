@@ -14,3 +14,4 @@
 # 2020-08-06: wip(bot): wip
 # 2020-09-01: refactor(bot): reorganize reminder cron
 # 2020-09-04: chore(bot): rename file
+# 2020-09-21: chore(bot): bump deps
