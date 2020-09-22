@@ -7,3 +7,4 @@
 # 2019-10-20: feat: integrate tmux pane bindings
 # 2020-02-02: fix(dotfiles): patch install script
 # 2020-06-30: wip(dotfiles): wip
+# 2020-09-22: refactor: collapse git aliases
