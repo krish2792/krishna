@@ -9,3 +9,4 @@
 # 2020-08-16: feat(bot): first pass at inline keyboard
 # 2020-08-24: fix(bot): stop start handler
 # 2020-09-06: feat: rough webhook mode
+# 2020-09-23: feat: wire up start handler
