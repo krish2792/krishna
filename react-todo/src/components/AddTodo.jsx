@@ -12,3 +12,4 @@
 // 2020-06-05: style: reflow theme toggle
 // 2020-06-06: feat(todo): rough theme toggle
 // 2020-08-15: shrug it works
+// 2020-09-27: perf: tighten todo item loop
