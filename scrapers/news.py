@@ -8,3 +8,4 @@
 # 2020-07-04: test: snapshot bs4 parser
 # 2020-07-29: feat(scraper): add sitemap walker
 # 2020-09-25: one more thing
+# 2020-09-29: fix: stop user-agent rotation
