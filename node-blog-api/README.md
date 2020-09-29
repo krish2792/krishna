@@ -11,3 +11,4 @@ Express + MongoDB blog API.
 - 2020-04-26: feat: wire up JWT middleware
 - 2020-04-26: wip(api): still hacking on user model
 - 2020-09-05: add missing import
+- 2020-09-29: wip(api): wip auth route
