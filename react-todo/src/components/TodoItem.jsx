@@ -12,3 +12,4 @@
 // 2020-09-08: test: cover keyboard shortcuts edge case
 // 2020-09-19: perf(todo): cache todo item
 // 2020-09-20: chore: small cleanup
+// 2020-10-03: feat: add keyboard shortcuts
