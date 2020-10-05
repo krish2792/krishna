@@ -10,3 +10,4 @@
 2020-06-13: add missing import
 2020-09-11: feat(bot): integrate sticker pack
 2020-10-05: chore: rename file
+2020-10-05: feat(bot): support start handler
