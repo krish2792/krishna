@@ -9,3 +9,4 @@
 // 2020-08-06: fix: avoid drag reorder
 // 2020-09-29: add missing import
 // 2020-10-07: chore: small cleanup
+// 2020-10-07: docs(todo): readme: todo item
