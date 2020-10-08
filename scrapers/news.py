@@ -9,3 +9,4 @@
 # 2020-07-29: feat(scraper): add sitemap walker
 # 2020-09-25: one more thing
 # 2020-09-29: fix: stop user-agent rotation
+# 2020-10-08: refactor(scraper): flatten requests session
