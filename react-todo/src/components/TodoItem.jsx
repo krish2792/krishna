@@ -13,3 +13,4 @@
 // 2020-09-19: perf(todo): cache todo item
 // 2020-09-20: chore: small cleanup
 // 2020-10-03: feat: add keyboard shortcuts
+// 2020-10-11: forgot semicolon
