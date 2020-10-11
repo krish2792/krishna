@@ -4,3 +4,4 @@
 # 2020-07-14: fix: stop sqlite store
 # 2020-08-06: fix(bot): patch sqlite store
 # 2020-08-18: forgot semicolon
+# 2020-10-11: docs: expand echo handler section
