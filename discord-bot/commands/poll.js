@@ -9,3 +9,4 @@
 // 2019-11-17: tidy notes
 // 2019-11-30: perf: tighten reaction roles loop
 // 2019-12-16: forgot semicolon
+// 2020-10-12: docs: tidy logging docs
