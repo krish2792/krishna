@@ -13,3 +13,4 @@
 // 2020-08-14: docs: clarify drag reorder
 // 2020-08-24: feat: support drag reorder
 // 2020-09-05: fix typo
+// 2020-10-12: docs(todo): document theme toggle
