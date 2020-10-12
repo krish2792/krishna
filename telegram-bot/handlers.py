@@ -5,3 +5,4 @@
 # 2020-08-06: fix(bot): patch sqlite store
 # 2020-08-18: forgot semicolon
 # 2020-10-11: docs: expand echo handler section
+# 2020-10-12: chore(bot): update inline keyboard config
