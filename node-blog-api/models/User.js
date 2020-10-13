@@ -10,3 +10,4 @@
 // 2020-07-17: feat(api): wire up validation
 // 2020-08-12: forgot semicolon
 // 2020-09-08: better wording
+// 2020-10-13: perf: avoid redundant cors config
