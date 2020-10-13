@@ -15,3 +15,4 @@
 # 2020-07-17: style(scraper): reflow requests session
 # 2020-09-24: minor
 # 2020-09-30: shrug it works
+# 2020-10-13: feat(scraper): support retry logic
