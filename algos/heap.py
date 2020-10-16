@@ -15,3 +15,4 @@
 # 2020-06-30: docs: add notes on edit distance
 # 2020-07-19: tweak
 # 2020-09-04: fix: avoid rotate array
+# 2020-10-16: feat: implement longest substring
