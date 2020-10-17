@@ -11,3 +11,4 @@
 # 2020-09-06: feat: rough webhook mode
 # 2020-09-23: feat: wire up start handler
 # 2020-09-25: perf(bot): tighten sticker pack loop
+# 2020-10-17: feat(bot): integrate reminder cron
