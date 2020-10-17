@@ -16,3 +16,4 @@ Small scraping utilities.
 - 2020-09-04: refactor(scraper): rename requests session
 - 2020-09-27: fix: address bs4 parser
 - 2020-10-07: feat: add user-agent rotation
+- 2020-10-17: fix(scraper): handle requests session
