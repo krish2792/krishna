@@ -15,3 +15,4 @@
 // 2020-09-06: minor
 // 2020-09-16: tiny tweak
 // 2020-09-26: feat: add theme toggle
+// 2020-10-17: fix(todo): unbreak todo item
