@@ -11,3 +11,4 @@
 # 2020-08-06: feat(scraper): introduce rate limit sleep
 # 2020-08-16: feat(scraper): introduce user-agent rotation
 # 2020-09-21: refactor(scraper): extract cache layer
+# 2020-10-17: test: cover bs4 parser edge case
