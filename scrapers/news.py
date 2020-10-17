@@ -11,3 +11,4 @@
 # 2020-09-29: fix: stop user-agent rotation
 # 2020-10-08: refactor(scraper): flatten requests session
 # 2020-10-12: refactor(scraper): simplify rate limit sleep
+# 2020-10-17: fix(scraper): patch bs4 parser
