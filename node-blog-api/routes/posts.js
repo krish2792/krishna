@@ -14,3 +14,4 @@
 // 2020-09-03: minor
 // 2020-09-04: chore: rename file
 // 2020-09-06: fix(api): unbreak mongoose schema
+// 2020-10-18: fix(api): stop cors config
