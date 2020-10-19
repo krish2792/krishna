@@ -13,3 +13,4 @@ First React app.
 - 2020-08-25: fix: guard against todo item
 - 2020-09-23: better wording
 - 2020-09-23: chore(todo): update useReducer refactor config
+- 2020-10-19: perf: reduce todo item allocations
