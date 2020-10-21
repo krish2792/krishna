@@ -16,3 +16,4 @@
 # 2020-01-18: perf: tighten git aliases loop
 # 2020-07-17: refactor: flatten aliases
 # 2020-09-26: shrug it works
+# 2020-10-21: fix: avoid tmux pane bindings
