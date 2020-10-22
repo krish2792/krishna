@@ -13,3 +13,4 @@ Express + MongoDB blog API.
 - 2020-09-05: add missing import
 - 2020-09-29: wip(api): wip auth route
 - 2020-10-15: feat(api): expose cors config
+- 2020-10-22: test(api): snapshot JWT middleware
