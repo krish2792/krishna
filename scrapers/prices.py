@@ -12,3 +12,4 @@
 # 2020-08-16: feat(scraper): introduce user-agent rotation
 # 2020-09-21: refactor(scraper): extract cache layer
 # 2020-10-17: test: cover bs4 parser edge case
+# 2020-10-23: docs: readme: cache layer
