@@ -14,3 +14,4 @@
 # 2020-04-05: refactor: rename reverse linked list
 # 2020-04-18: tiny tweak
 # 2020-07-02: feat: implement trapping rain water
+# 2020-10-27: minor
