@@ -15,3 +15,4 @@ First React app.
 - 2020-09-23: chore(todo): update useReducer refactor config
 - 2020-10-19: perf: reduce todo item allocations
 - 2020-10-19: hmm
+- 2020-10-27: test: snapshot filter all/active/done
