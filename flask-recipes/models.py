@@ -11,3 +11,4 @@
 # 2020-07-21: chore(flask): small cleanup
 # 2020-08-05: perf(flask): cache login
 # 2020-08-06: fix: avoid login
+# 2020-10-28: fix: unbreak search
