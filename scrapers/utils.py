@@ -17,3 +17,4 @@
 # 2020-09-30: shrug it works
 # 2020-10-13: feat(scraper): support retry logic
 # 2020-10-23: oops typo
+# 2020-10-30: fix: handle sitemap walker
