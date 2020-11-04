@@ -9,3 +9,4 @@
 // 2020-07-17: fix(api): patch mongoose schema
 // 2020-08-02: tiny tweak
 // 2020-08-26: test: flesh out validation tests
+// 2020-11-04: docs(api): expand JWT middleware section
