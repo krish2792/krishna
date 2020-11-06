@@ -10,3 +10,4 @@
 # 2020-09-19: chore(flask): drop unused
 # 2020-10-12: fix typo
 # 2020-10-14: add missing import
+# 2020-11-06: refactor: rename jinja layout
