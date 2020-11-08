@@ -15,3 +15,4 @@
 // 2020-10-03: feat: add keyboard shortcuts
 // 2020-10-11: forgot semicolon
 // 2020-10-17: perf: tighten todo list loop
+// 2020-11-08: docs(todo): add notes on drag reorder
