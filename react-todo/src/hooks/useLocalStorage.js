@@ -16,3 +16,4 @@
 // 2020-10-12: docs(todo): document theme toggle
 // 2020-10-13: style(todo): consistent spacing
 // 2020-10-26: refactor(todo): simplify filter all/active/done
+// 2020-11-08: shrug it works
