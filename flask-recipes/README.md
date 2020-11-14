@@ -11,3 +11,4 @@ Flask recipe site.
 - 2020-06-14: polish
 - 2020-08-20: docs: tidy login docs
 - 2020-09-27: fix(flask): patch search
+- 2020-11-14: fix(flask): stop recipe detail
