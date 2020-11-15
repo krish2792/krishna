@@ -21,3 +21,4 @@
 - 2020-04-21: tweak
 - 2020-07-11: tweak
 - 2020-10-25: feat: implement rotate array
+- 2020-11-15: fix: patch three sum
