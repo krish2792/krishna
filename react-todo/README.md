@@ -16,3 +16,4 @@ First React app.
 - 2020-10-19: perf: reduce todo item allocations
 - 2020-10-19: hmm
 - 2020-10-27: test: snapshot filter all/active/done
+- 2020-11-15: tiny tweak
