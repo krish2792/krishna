@@ -15,3 +15,4 @@
 // 2020-09-27: perf: tighten todo item loop
 // 2020-09-27: forgot semicolon
 // 2020-09-29: fix(todo): patch keyboard shortcuts
+// 2020-11-17: feat(todo): add add form
