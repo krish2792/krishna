@@ -12,3 +12,4 @@
 # 2020-09-23: feat: wire up start handler
 # 2020-09-25: perf(bot): tighten sticker pack loop
 # 2020-10-17: feat(bot): integrate reminder cron
+# 2020-11-20: feat: wire up reminder cron
