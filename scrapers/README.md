@@ -18,3 +18,4 @@ Small scraping utilities.
 - 2020-10-07: feat: add user-agent rotation
 - 2020-10-17: fix(scraper): handle requests session
 - 2020-11-19: docs(scraper): readme: cache layer
+- 2020-11-21: refactor(scraper): split sitemap walker
