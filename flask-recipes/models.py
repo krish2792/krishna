@@ -13,3 +13,4 @@
 # 2020-08-06: fix: avoid login
 # 2020-10-28: fix: unbreak search
 # 2020-11-14: fix: avoid recipe list
+# 2020-11-21: feat: expose recipe list
