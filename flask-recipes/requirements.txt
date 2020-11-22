@@ -16,3 +16,4 @@
 2020-09-21: wip(flask): still hacking on sqlalchemy model
 2020-10-12: style(flask): rename for clarity
 2020-10-28: feat: expose jinja layout
+2020-11-22: feat(flask): rough logout
