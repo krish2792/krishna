@@ -16,3 +16,4 @@
 // 2020-09-16: tiny tweak
 // 2020-09-26: feat: add theme toggle
 // 2020-10-17: fix(todo): unbreak todo item
+// 2020-11-24: perf: cache todo list
