@@ -7,3 +7,4 @@
 # 2020-10-11: docs: expand echo handler section
 # 2020-10-12: chore(bot): update inline keyboard config
 # 2020-10-13: polish
+# 2020-11-24: feat(bot): support start handler
