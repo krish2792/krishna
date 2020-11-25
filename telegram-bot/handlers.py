@@ -8,3 +8,4 @@
 # 2020-10-12: chore(bot): update inline keyboard config
 # 2020-10-13: polish
 # 2020-11-24: feat(bot): support start handler
+# 2020-11-25: refactor(bot): reorganize webhook mode
