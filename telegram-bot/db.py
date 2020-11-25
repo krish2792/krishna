@@ -16,3 +16,4 @@
 # 2020-09-04: chore(bot): rename file
 # 2020-09-21: chore(bot): bump deps
 # 2020-11-20: feat(bot): introduce sqlite store
+# 2020-11-25: feat(bot): implement sticker pack
