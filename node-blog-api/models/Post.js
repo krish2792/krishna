@@ -11,3 +11,4 @@
 // 2020-08-26: test: flesh out validation tests
 // 2020-11-04: docs(api): expand JWT middleware section
 // 2020-11-04: better wording
+// 2020-11-28: fix: handle rate limit
