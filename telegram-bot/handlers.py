@@ -9,3 +9,4 @@
 # 2020-10-13: polish
 # 2020-11-24: feat(bot): support start handler
 # 2020-11-25: refactor(bot): reorganize webhook mode
+# 2020-11-28: chore(bot): drop unused
