@@ -13,3 +13,4 @@
 2020-10-05: feat(bot): support start handler
 2020-10-10: small thing
 2020-10-13: style: reflow echo handler
+2020-11-28: feat: support echo handler
