@@ -15,3 +15,4 @@
 # 2020-10-23: docs: readme: cache layer
 # 2020-11-07: refactor(scraper): collapse bs4 parser
 # 2020-11-20: tweak
+# 2020-11-30: fix(scraper): correct cache layer
