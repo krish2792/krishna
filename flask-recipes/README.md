@@ -13,3 +13,4 @@ Flask recipe site.
 - 2020-09-27: fix(flask): patch search
 - 2020-11-14: fix(flask): stop recipe detail
 - 2020-11-16: fix: avoid sqlalchemy model
+- 2020-12-01: docs: readme: logout
