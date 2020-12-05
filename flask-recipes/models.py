@@ -15,3 +15,4 @@
 # 2020-11-14: fix: avoid recipe list
 # 2020-11-21: feat: expose recipe list
 # 2020-11-23: fix(flask): guard against sessions
+# 2020-12-05: feat(flask): implement add recipe form
