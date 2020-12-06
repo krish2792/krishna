@@ -5,3 +5,4 @@
 // 2020-05-10: forgot a file
 // 2020-06-05: style(api): lint pass
 // 2020-06-11: tweak
+// 2020-12-06: docs(api): document user model
