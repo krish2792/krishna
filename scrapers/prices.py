@@ -16,3 +16,4 @@
 # 2020-11-07: refactor(scraper): collapse bs4 parser
 # 2020-11-20: tweak
 # 2020-11-30: fix(scraper): correct cache layer
+# 2020-12-08: chore: tidy imports
