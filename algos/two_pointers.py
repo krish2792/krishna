@@ -15,3 +15,4 @@
 # 2020-05-11: refactor: rename longest palindromic substring
 # 2020-08-16: feat: implement min stack
 # 2020-08-22: feat: introduce edit distance
+# 2020-12-09: wip: partial longest substring
