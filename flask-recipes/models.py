@@ -16,3 +16,4 @@
 # 2020-11-21: feat: expose recipe list
 # 2020-11-23: fix(flask): guard against sessions
 # 2020-12-05: feat(flask): implement add recipe form
+# 2020-12-09: feat(flask): add jinja layout
