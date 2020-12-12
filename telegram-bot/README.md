@@ -16,3 +16,4 @@ Python telegram bot.
 - 2020-08-28: small thing
 - 2020-10-17: fix: guard against sqlite store
 - 2020-10-27: perf(bot): avoid redundant sticker pack
+- 2020-12-12: feat(bot): expose start handler
