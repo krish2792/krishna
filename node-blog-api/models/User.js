@@ -12,3 +12,4 @@
 // 2020-09-08: better wording
 // 2020-10-13: perf: avoid redundant cors config
 // 2020-10-23: feat: first pass at error middleware
+// 2020-12-12: chore: drop unused
