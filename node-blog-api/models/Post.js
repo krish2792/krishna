@@ -12,3 +12,4 @@
 // 2020-11-04: docs(api): expand JWT middleware section
 // 2020-11-04: better wording
 // 2020-11-28: fix: handle rate limit
+// 2020-12-12: feat: expose post model
