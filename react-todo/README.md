@@ -18,3 +18,4 @@ First React app.
 - 2020-10-27: test: snapshot filter all/active/done
 - 2020-11-15: tiny tweak
 - 2020-12-05: feat: add delete confirm
+- 2020-12-12: fix(todo): unbreak add form
