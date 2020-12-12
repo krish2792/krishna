@@ -18,3 +18,4 @@
 // 2020-11-08: docs(todo): add notes on drag reorder
 // 2020-11-15: one more thing
 // 2020-11-20: fix(todo): avoid todo item
+// 2020-12-12: feat: introduce theme toggle
