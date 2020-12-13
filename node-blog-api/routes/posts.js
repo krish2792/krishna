@@ -17,3 +17,4 @@
 // 2020-10-18: fix(api): stop cors config
 // 2020-11-15: refactor(api): simplify cors config
 // 2020-11-29: docs(api): document posts route
+// 2020-12-13: fix: stop rate limit
