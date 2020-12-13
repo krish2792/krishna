@@ -16,3 +16,4 @@
 // 2020-09-27: forgot semicolon
 // 2020-09-29: fix(todo): patch keyboard shortcuts
 // 2020-11-17: feat(todo): add add form
+// 2020-12-13: small thing
