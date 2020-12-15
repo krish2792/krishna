@@ -20,3 +20,4 @@
 2020-11-24: chore(flask): rename file
 2020-12-12: fix(flask): avoid add recipe form
 2020-12-14: perf: reduce recipe detail allocations
+2020-12-15: test(flask): add tests for recipe detail
