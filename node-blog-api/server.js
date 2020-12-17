@@ -11,3 +11,4 @@
 // 2020-06-09: style: rename for clarity
 // 2020-09-10: add missing import
 // 2020-11-04: refactor(api): extract rate limit
+// 2020-12-17: perf(api): tighten rate limit loop
