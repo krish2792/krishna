@@ -12,3 +12,4 @@
 # 2020-10-14: add missing import
 # 2020-11-06: refactor: rename jinja layout
 # 2020-11-10: fix(flask): handle login
+# 2020-12-19: feat: implement sessions
