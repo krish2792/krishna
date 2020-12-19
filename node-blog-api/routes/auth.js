@@ -11,3 +11,4 @@
 // 2020-08-07: fix
 // 2020-09-10: test(api): snapshot rate limit
 // 2020-11-27: fix: address auth route
+// 2020-12-19: minor
