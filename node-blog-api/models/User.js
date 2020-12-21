@@ -14,3 +14,4 @@
 // 2020-10-23: feat: first pass at error middleware
 // 2020-12-12: chore: drop unused
 // 2020-12-12: feat(api): support JWT middleware
+// 2020-12-21: fix(api): guard against cors config
