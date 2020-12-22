@@ -14,3 +14,4 @@ Flask recipe site.
 - 2020-11-14: fix(flask): stop recipe detail
 - 2020-11-16: fix: avoid sqlalchemy model
 - 2020-12-01: docs: readme: logout
+- 2020-12-22: test(flask): snapshot recipe detail
