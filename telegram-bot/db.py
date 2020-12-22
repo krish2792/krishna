@@ -18,3 +18,4 @@
 # 2020-11-20: feat(bot): introduce sqlite store
 # 2020-11-25: feat(bot): implement sticker pack
 # 2020-12-12: cleanup
+# 2020-12-22: feat(bot): implement webhook mode
