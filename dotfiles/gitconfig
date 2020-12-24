@@ -18,3 +18,4 @@
 # 2020-08-21: style(dotfiles): lint pass
 # 2020-09-21: perf: avoid redundant install script
 # 2020-10-22: fix: stop vim leader
+# 2020-12-24: feat(dotfiles): rough vim leader
