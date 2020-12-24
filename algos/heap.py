@@ -18,3 +18,4 @@
 # 2020-10-16: feat: implement longest substring
 # 2020-10-21: add missing import
 # 2020-11-07: feat: support unique paths
+# 2020-12-24: feat: wire up reverse linked list
