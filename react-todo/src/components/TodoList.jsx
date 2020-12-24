@@ -14,3 +14,4 @@
 // 2020-12-05: fix: handle todo item
 // 2020-12-12: test(todo): add tests for edit inline
 // 2020-12-24: shrug it works
+// 2020-12-24: fix: patch theme toggle
