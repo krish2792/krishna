@@ -18,3 +18,4 @@
 # 2020-12-05: feat(flask): implement add recipe form
 # 2020-12-09: feat(flask): add jinja layout
 # 2020-12-10: fix(flask): unbreak sessions
+# 2020-12-25: chore: update sqlalchemy model config
