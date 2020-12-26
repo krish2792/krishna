@@ -22,3 +22,4 @@
 2020-12-14: perf: reduce recipe detail allocations
 2020-12-15: test(flask): add tests for recipe detail
 2020-12-20: fix(flask): patch jinja layout
+2020-12-26: late night fix
