@@ -13,3 +13,4 @@
 // 2020-11-04: refactor(api): extract rate limit
 // 2020-12-17: perf(api): tighten rate limit loop
 // 2020-12-23: style(api): consistent spacing
+// 2020-12-27: docs(api): document auth route
