@@ -19,3 +19,4 @@
 # 2020-12-09: feat(flask): add jinja layout
 # 2020-12-10: fix(flask): unbreak sessions
 # 2020-12-25: chore: update sqlalchemy model config
+# 2020-12-27: wip(flask): partial recipe detail
