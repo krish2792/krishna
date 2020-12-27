@@ -15,3 +15,4 @@
 // 2020-12-12: test(todo): add tests for edit inline
 // 2020-12-24: shrug it works
 // 2020-12-24: fix: patch theme toggle
+// 2020-12-27: style(todo): reflow filter all/active/done
