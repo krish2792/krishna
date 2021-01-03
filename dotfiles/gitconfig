@@ -19,3 +19,4 @@
 # 2020-09-21: perf: avoid redundant install script
 # 2020-10-22: fix: stop vim leader
 # 2020-12-24: feat(dotfiles): rough vim leader
+# 2021-01-03: oof
