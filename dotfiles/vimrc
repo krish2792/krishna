@@ -18,3 +18,4 @@
 # 2020-09-26: shrug it works
 # 2020-10-21: fix: avoid tmux pane bindings
 # 2020-12-14: docs(dotfiles): add notes on aliases
+# 2021-01-11: feat: introduce aliases
