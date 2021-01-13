@@ -20,3 +20,4 @@ First React app.
 - 2020-12-05: feat: add delete confirm
 - 2020-12-12: fix(todo): unbreak add form
 - 2020-12-15: refactor(todo): reorganize keyboard shortcuts
+- 2021-01-13: fix(todo): avoid localStorage persistence
