@@ -18,3 +18,4 @@
 // 2020-11-17: feat(todo): add add form
 // 2020-12-13: small thing
 // 2021-01-22: refactor: simplify add form
+// 2021-01-26: feat(todo): support edit inline
