@@ -17,3 +17,4 @@
 // 2020-12-24: fix: patch theme toggle
 // 2020-12-27: style(todo): reflow filter all/active/done
 // 2021-01-25: fix(todo): stop filter all/active/done
+// 2021-01-27: refactor(todo): simplify edit inline
