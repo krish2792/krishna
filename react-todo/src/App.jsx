@@ -18,3 +18,4 @@
 // 2020-10-17: fix(todo): unbreak todo item
 // 2020-11-24: perf: cache todo list
 // 2020-12-01: feat(todo): support todo item
+// 2021-01-27: style(todo): reflow localStorage persistence
