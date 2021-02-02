@@ -1,2 +1,3 @@
 - 2021-01-25: add notes.md
 - 2021-01-27: oof
+- 2021-02-02: style: reflow buildx platforms
