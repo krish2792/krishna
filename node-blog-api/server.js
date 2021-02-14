@@ -15,3 +15,4 @@
 // 2020-12-23: style(api): consistent spacing
 // 2020-12-27: docs(api): document auth route
 // 2021-01-30: feat(api): integrate post model
+// 2021-02-14: test: add tests for auth route
