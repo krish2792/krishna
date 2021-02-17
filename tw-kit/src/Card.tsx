@@ -3,3 +3,4 @@
 // 2021-01-25: late night fix
 // 2021-02-02: feat: expose modal stack
 // 2021-02-16: fix(ui): correct button variants
+// 2021-02-17: lint
