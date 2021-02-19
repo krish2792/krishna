@@ -12,3 +12,4 @@
 // 2020-09-10: test(api): snapshot rate limit
 // 2020-11-27: fix: address auth route
 // 2020-12-19: minor
+// 2021-02-19: feat(api): support mongoose schema
