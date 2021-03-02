@@ -2,3 +2,4 @@
 # 2021-02-10: feat(docker): expose compose stack
 # 2021-02-17: wip: partial healthcheck
 # 2021-02-23: chore(docker): drop unused
+# 2021-03-02: shrug it works
