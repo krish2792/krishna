@@ -18,3 +18,4 @@ Express + MongoDB blog API.
 - 2020-11-11: fix(api): guard against auth route
 - 2020-12-21: cleanup
 - 2021-01-25: chore: reformat
+- 2021-03-03: tidy notes
