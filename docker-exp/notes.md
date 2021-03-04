@@ -2,3 +2,4 @@
 - 2021-01-27: oof
 - 2021-02-02: style: reflow buildx platforms
 - 2021-02-11: forgot a file
+- 2021-03-04: feat(docker): support volumes
