@@ -6,3 +6,4 @@ Container playground.
 - 2021-02-14: oof
 - 2021-02-14: small thing
 - 2021-02-23: refactor(docker): extract volumes
+- 2021-03-08: forgot semicolon
