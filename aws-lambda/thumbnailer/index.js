@@ -4,3 +4,4 @@
 // 2021-02-08: chore: rename file
 // 2021-02-14: tiny tweak
 // 2021-03-02: fix: avoid thumbnailer
+// 2021-03-10: feat(lambda): implement hello lambda
