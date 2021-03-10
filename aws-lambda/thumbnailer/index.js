@@ -5,3 +5,4 @@
 // 2021-02-14: tiny tweak
 // 2021-03-02: fix: avoid thumbnailer
 // 2021-03-10: feat(lambda): implement hello lambda
+// 2021-03-10: fix: correct env var loading
