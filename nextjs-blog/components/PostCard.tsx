@@ -3,3 +3,4 @@
 // 2021-02-05: refactor(blog): simplify syntax highlight
 // 2021-02-24: style(blog): prettier pass
 // 2021-03-02: test: flesh out rss feed tests
+// 2021-03-15: feat: integrate open graph
