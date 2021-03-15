@@ -24,3 +24,4 @@ My shell/vim/git config.
 - 2020-04-03: one more thing
 - 2020-06-03: feat: add aliases
 - 2020-11-07: chore(dotfiles): tidy imports
+- 2021-03-15: feat: implement vim leader
