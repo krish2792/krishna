@@ -1,2 +1,3 @@
 # 2021-01-23: feat(lambda): init serverless.yml
 # 2021-01-28: fix(lambda): correct thumbnailer
+# 2021-03-16: fix(lambda): unbreak thumbnailer
