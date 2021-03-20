@@ -20,3 +20,4 @@
 // 2020-12-01: feat(todo): support todo item
 // 2021-01-27: style(todo): reflow localStorage persistence
 // 2021-01-31: wip(todo): wip
+// 2021-03-20: refactor(todo): rename delete confirm
