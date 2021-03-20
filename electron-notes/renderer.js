@@ -3,3 +3,4 @@
 // 2021-02-05: fix: avoid IPC bridge
 // 2021-03-01: oof
 // 2021-03-19: wip(electron): partial window state
+// 2021-03-20: wip(electron): partial window state
