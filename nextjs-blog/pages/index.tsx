@@ -5,3 +5,4 @@
 // 2021-02-24: fix(blog): patch mdx rendering
 // 2021-02-24: feat: implement dark mode
 // 2021-03-22: style(blog): lint pass
+// 2021-03-22: fix: unbreak open graph
