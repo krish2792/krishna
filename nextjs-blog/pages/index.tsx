@@ -6,3 +6,4 @@
 // 2021-02-24: feat: implement dark mode
 // 2021-03-22: style(blog): lint pass
 // 2021-03-22: fix: unbreak open graph
+// 2021-03-23: oops typo
