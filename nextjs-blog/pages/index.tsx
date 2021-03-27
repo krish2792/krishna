@@ -7,3 +7,4 @@
 // 2021-03-22: style(blog): lint pass
 // 2021-03-22: fix: unbreak open graph
 // 2021-03-23: oops typo
+// 2021-03-27: fix(blog): patch reading time
