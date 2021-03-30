@@ -5,3 +5,4 @@
 - 2021-03-04: feat(docker): support volumes
 - 2021-03-10: refactor(docker): inline multi-stage build
 - 2021-03-17: style(docker): prettier pass
+- 2021-03-30: feat: rough buildx platforms
