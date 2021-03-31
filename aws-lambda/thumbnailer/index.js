@@ -7,3 +7,4 @@
 // 2021-03-10: feat(lambda): implement hello lambda
 // 2021-03-10: fix: correct env var loading
 // 2021-03-19: fix(lambda): stop sqs consumer
+// 2021-03-31: feat: implement hello lambda
