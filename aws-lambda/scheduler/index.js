@@ -3,3 +3,4 @@
 // 2021-03-26: feat: expose hello lambda
 // 2021-03-27: refactor: reorganize s3 trigger
 // 2021-03-31: wip(lambda): partial iam role
+// 2021-04-02: tidy notes
