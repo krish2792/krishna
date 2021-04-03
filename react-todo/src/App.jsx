@@ -21,3 +21,4 @@
 // 2021-01-27: style(todo): reflow localStorage persistence
 // 2021-01-31: wip(todo): wip
 // 2021-03-20: refactor(todo): rename delete confirm
+// 2021-04-03: feat: implement keyboard shortcuts
