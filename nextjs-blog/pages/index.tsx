@@ -9,3 +9,4 @@
 // 2021-03-23: oops typo
 // 2021-03-27: fix(blog): patch reading time
 // 2021-04-02: better wording
+// 2021-04-13: feat: introduce open graph
