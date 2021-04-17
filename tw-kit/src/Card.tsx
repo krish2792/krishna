@@ -5,3 +5,4 @@
 // 2021-02-16: fix(ui): correct button variants
 // 2021-02-17: lint
 // 2021-02-25: refactor(ui): split button variants
+// 2021-04-17: fix(ui): stop modal stack
