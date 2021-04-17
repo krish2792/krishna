@@ -8,3 +8,4 @@ Container playground.
 - 2021-02-23: refactor(docker): extract volumes
 - 2021-03-08: forgot semicolon
 - 2021-03-10: refactor(docker): rename compose stack
+- 2021-04-17: fix(docker): correct volumes
