@@ -4,3 +4,4 @@
 # 2021-03-20: polish
 # 2021-03-27: refactor(lambda): flatten cold start fix
 # 2021-04-11: add missing import
+# 2021-04-17: docs(lambda): clarify sqs consumer
