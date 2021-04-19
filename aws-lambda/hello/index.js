@@ -4,3 +4,4 @@
 // 2021-03-05: shrug it works
 // 2021-03-28: tidy notes
 // 2021-04-03: refactor: inline thumbnailer
+// 2021-04-19: docs: tidy cold start fix docs
