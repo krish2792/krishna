@@ -8,3 +8,4 @@ Serverless playground.
 - 2021-02-28: style: prettier pass
 - 2021-03-16: refactor(lambda): reorganize cold start fix
 - 2021-04-21: wip(lambda): saving progress
+- 2021-04-21: fix: patch hello lambda
