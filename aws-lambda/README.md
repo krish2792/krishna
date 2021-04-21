@@ -7,3 +7,4 @@ Serverless playground.
 - 2021-02-10: feat(lambda): introduce sqs consumer
 - 2021-02-28: style: prettier pass
 - 2021-03-16: refactor(lambda): reorganize cold start fix
+- 2021-04-21: wip(lambda): saving progress
