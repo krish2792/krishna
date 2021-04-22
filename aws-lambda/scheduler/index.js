@@ -4,3 +4,4 @@
 // 2021-03-27: refactor: reorganize s3 trigger
 // 2021-03-31: wip(lambda): partial iam role
 // 2021-04-02: tidy notes
+// 2021-04-22: chore(lambda): tidy
