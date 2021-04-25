@@ -26,3 +26,4 @@ My shell/vim/git config.
 - 2020-11-07: chore(dotfiles): tidy imports
 - 2021-03-15: feat: implement vim leader
 - 2021-03-27: refactor(dotfiles): flatten vim leader
+- 2021-04-25: chore: drop unused
