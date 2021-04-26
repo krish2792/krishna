@@ -6,3 +6,4 @@
 # 2021-04-11: add missing import
 # 2021-04-17: docs(lambda): clarify sqs consumer
 # 2021-04-22: feat(lambda): integrate cron schedule
+# 2021-04-26: minor
