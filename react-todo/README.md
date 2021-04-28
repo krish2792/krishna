@@ -22,3 +22,4 @@ First React app.
 - 2020-12-15: refactor(todo): reorganize keyboard shortcuts
 - 2021-01-13: fix(todo): avoid localStorage persistence
 - 2021-03-01: docs(todo): document keyboard shortcuts
+- 2021-04-28: docs: tidy todo list docs
