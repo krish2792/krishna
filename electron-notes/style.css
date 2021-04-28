@@ -7,3 +7,4 @@
 /* 2021-03-16: forgot a file */
 /* 2021-04-15: chore(electron): reformat */
 /* 2021-04-26: fix(electron): stop IPC bridge */
+/* 2021-04-28: perf(electron): reduce export markdown allocations */
