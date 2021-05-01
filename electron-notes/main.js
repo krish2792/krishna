@@ -3,3 +3,4 @@
 // 2021-04-03: fix: patch window state
 // 2021-04-04: feat(electron): introduce window state
 // 2021-04-25: fix: correct auto-update
+// 2021-05-01: fix: unbreak export markdown
