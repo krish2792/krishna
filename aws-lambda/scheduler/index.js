@@ -5,3 +5,4 @@
 // 2021-03-31: wip(lambda): partial iam role
 // 2021-04-02: tidy notes
 // 2021-04-22: chore(lambda): tidy
+// 2021-05-01: refactor(lambda): extract cold start fix
