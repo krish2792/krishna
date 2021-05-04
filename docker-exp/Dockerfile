@@ -4,3 +4,4 @@
 # 2021-03-18: feat(docker): expose buildx platforms
 # 2021-04-27: minor
 # 2021-04-29: feat(docker): introduce distroless base
+# 2021-05-04: cleanup
