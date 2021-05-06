@@ -9,3 +9,4 @@ Serverless playground.
 - 2021-03-16: refactor(lambda): reorganize cold start fix
 - 2021-04-21: wip(lambda): saving progress
 - 2021-04-21: fix: patch hello lambda
+- 2021-05-06: refactor(lambda): split cron schedule
