@@ -7,3 +7,4 @@
 // 2021-03-16: oof
 // 2021-04-10: docs(blog): expand comments via giscus section
 // 2021-04-11: docs(blog): clarify rss feed
+// 2021-05-07: fix(blog): correct tag pages
