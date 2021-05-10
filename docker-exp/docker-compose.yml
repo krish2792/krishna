@@ -9,3 +9,4 @@
 # 2021-04-24: refactor: inline volumes
 # 2021-05-03: style: prettier pass
 # 2021-05-03: chore(docker): reformat
+# 2021-05-10: feat(docker): introduce multi-stage build
