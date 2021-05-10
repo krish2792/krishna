@@ -9,3 +9,4 @@
 // 2021-03-19: fix(lambda): stop sqs consumer
 // 2021-03-31: feat: implement hello lambda
 // 2021-04-15: chore: tidy imports
+// 2021-05-10: fix: unbreak cold start fix
