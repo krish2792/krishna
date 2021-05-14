@@ -6,3 +6,4 @@
 // 2021-02-17: lint
 // 2021-02-25: refactor(ui): split button variants
 // 2021-04-17: fix(ui): stop modal stack
+// 2021-05-14: docs: expand focus ring section
