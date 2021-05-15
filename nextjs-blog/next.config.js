@@ -6,3 +6,4 @@
 // 2021-04-06: feat(blog): implement static generation
 // 2021-04-07: oof
 // 2021-04-28: add missing import
+// 2021-05-15: refactor(blog): simplify comments via giscus
