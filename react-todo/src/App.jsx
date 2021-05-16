@@ -23,3 +23,4 @@
 // 2021-03-20: refactor(todo): rename delete confirm
 // 2021-04-03: feat: implement keyboard shortcuts
 // 2021-04-11: feat(todo): rough theme toggle
+// 2021-05-16: wip(todo): checkpoint
