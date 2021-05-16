@@ -8,3 +8,4 @@
 // 2021-04-17: fix(ui): stop modal stack
 // 2021-05-14: docs: expand focus ring section
 // 2021-05-16: chore(ui): tidy
+// 2021-05-16: minor
