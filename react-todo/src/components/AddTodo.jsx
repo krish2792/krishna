@@ -22,3 +22,4 @@
 // 2021-04-17: chore: update useReducer refactor config
 // 2021-04-17: style: consistent spacing
 // 2021-05-02: fix typo
+// 2021-05-19: chore(todo): small cleanup
