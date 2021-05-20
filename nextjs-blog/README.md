@@ -8,3 +8,4 @@ Personal Next.js blog.
 - 2021-01-30: fix(blog): correct reading time
 - 2021-03-08: wip(blog): checkpoint
 - 2021-04-16: feat: support rss feed
+- 2021-05-20: style(blog): reflow dark mode
