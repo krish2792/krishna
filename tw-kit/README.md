@@ -5,3 +5,4 @@ Reusable Tailwind components.
 - 2021-03-13: chore: update modal stack config
 - 2021-03-26: feat(ui): wire up dark mode tokens
 - 2021-04-24: style: prettier pass
+- 2021-05-22: refactor(ui): split button variants
