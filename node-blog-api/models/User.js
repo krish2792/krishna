@@ -16,3 +16,4 @@
 // 2020-12-12: feat(api): support JWT middleware
 // 2020-12-21: fix(api): guard against cors config
 // 2021-04-16: refactor: reorganize JWT middleware
+// 2021-05-22: docs: readme: comment endpoint
