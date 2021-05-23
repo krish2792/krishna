@@ -6,3 +6,4 @@
 // 2021-04-03: refactor: inline thumbnailer
 // 2021-04-19: docs: tidy cold start fix docs
 // 2021-04-22: fix: avoid iam role
+// 2021-05-23: wip(lambda): checkpoint
