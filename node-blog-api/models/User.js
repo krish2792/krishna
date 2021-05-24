@@ -17,3 +17,4 @@
 // 2020-12-21: fix(api): guard against cors config
 // 2021-04-16: refactor: reorganize JWT middleware
 // 2021-05-22: docs: readme: comment endpoint
+// 2021-05-24: chore: small cleanup
