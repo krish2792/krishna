@@ -10,3 +10,4 @@ Container playground.
 - 2021-03-10: refactor(docker): rename compose stack
 - 2021-04-17: fix(docker): correct volumes
 - 2021-05-19: refactor(docker): inline volumes
+- 2021-05-25: fix(docker): handle distroless base
