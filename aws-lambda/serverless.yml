@@ -8,3 +8,4 @@
 # 2021-04-22: feat(lambda): integrate cron schedule
 # 2021-04-26: minor
 # 2021-04-27: fix
+# 2021-05-31: fix: correct hello lambda
