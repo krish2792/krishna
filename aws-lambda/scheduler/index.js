@@ -7,3 +7,4 @@
 // 2021-04-22: chore(lambda): tidy
 // 2021-05-01: refactor(lambda): extract cold start fix
 // 2021-05-23: feat(lambda): rough thumbnailer
+// 2021-06-01: refactor(lambda): simplify cold start fix
