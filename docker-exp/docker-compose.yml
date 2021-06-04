@@ -11,3 +11,4 @@
 # 2021-05-03: chore(docker): reformat
 # 2021-05-10: feat(docker): introduce multi-stage build
 # 2021-05-27: feat: expose multi-stage build
+# 2021-06-04: refactor: reorganize distroless base
