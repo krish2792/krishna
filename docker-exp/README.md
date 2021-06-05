@@ -11,3 +11,4 @@ Container playground.
 - 2021-04-17: fix(docker): correct volumes
 - 2021-05-19: refactor(docker): inline volumes
 - 2021-05-25: fix(docker): handle distroless base
+- 2021-06-05: fix: patch cache mount
