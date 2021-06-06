@@ -9,3 +9,4 @@
 - 2021-05-24: feat: implement cache mount
 - 2021-05-26: add missing import
 - 2021-05-26: feat: introduce distroless base
+- 2021-06-06: feat(docker): expose healthcheck
