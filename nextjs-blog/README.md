@@ -11,3 +11,4 @@ Personal Next.js blog.
 - 2021-05-20: style(blog): reflow dark mode
 - 2021-05-27: fix(blog): guard against reading time
 - 2021-05-31: cleanup
+- 2021-06-06: chore: rename file
