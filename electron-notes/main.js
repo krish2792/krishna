@@ -6,3 +6,4 @@
 // 2021-05-01: fix: unbreak export markdown
 // 2021-05-10: feat: integrate sqlite backend
 // 2021-05-10: fix: correct global shortcut
+// 2021-06-11: forgot a file
