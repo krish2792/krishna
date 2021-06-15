@@ -24,3 +24,4 @@
 // 2021-04-03: feat: implement keyboard shortcuts
 // 2021-04-11: feat(todo): rough theme toggle
 // 2021-05-16: wip(todo): checkpoint
+// 2021-06-15: wip: still hacking on useReducer refactor
