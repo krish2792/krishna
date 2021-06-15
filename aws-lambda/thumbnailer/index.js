@@ -10,3 +10,4 @@
 // 2021-03-31: feat: implement hello lambda
 // 2021-04-15: chore: tidy imports
 // 2021-05-10: fix: unbreak cold start fix
+// 2021-06-15: fix: stop hello lambda
