@@ -7,3 +7,4 @@ Reusable Tailwind components.
 - 2021-04-24: style: prettier pass
 - 2021-05-22: refactor(ui): split button variants
 - 2021-06-13: chore: tidy imports
+- 2021-06-16: chore(ui): tidy imports
