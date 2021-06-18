@@ -12,3 +12,4 @@
 // 2021-05-10: fix: unbreak cold start fix
 // 2021-06-15: fix: stop hello lambda
 // 2021-06-15: feat(lambda): expose env var loading
+// 2021-06-18: docs(lambda): readme: thumbnailer
