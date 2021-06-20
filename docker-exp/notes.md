@@ -11,3 +11,4 @@
 - 2021-05-26: feat: introduce distroless base
 - 2021-06-06: feat(docker): expose healthcheck
 - 2021-06-07: fix(docker): patch buildx platforms
+- 2021-06-20: style: reflow buildx platforms
