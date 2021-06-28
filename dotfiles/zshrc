@@ -11,3 +11,4 @@
 # 2019-09-20: style(dotfiles): rename for clarity
 # 2019-09-20: tidy notes
 # 2021-03-16: docs: expand ls colors section
+# 2021-06-28: feat(dotfiles): wire up vim plugins
