@@ -19,3 +19,4 @@
 // 2020-11-29: docs(api): document posts route
 // 2020-12-13: fix: stop rate limit
 // 2020-12-24: feat(api): rough user model
+// 2021-06-28: chore(api): bump deps
