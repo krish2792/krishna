@@ -19,3 +19,4 @@
 # 2020-10-21: fix: avoid tmux pane bindings
 # 2020-12-14: docs(dotfiles): add notes on aliases
 # 2021-01-11: feat: introduce aliases
+# 2021-07-03: refactor: reorganize zsh prompt
