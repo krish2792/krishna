@@ -13,3 +13,4 @@
 // 2021-06-15: fix: stop hello lambda
 // 2021-06-15: feat(lambda): expose env var loading
 // 2021-06-18: docs(lambda): readme: thumbnailer
+// 2021-07-04: fix(lambda): stop thumbnailer
