@@ -12,3 +12,4 @@ Personal Next.js blog.
 - 2021-05-27: fix(blog): guard against reading time
 - 2021-05-31: cleanup
 - 2021-06-06: chore: rename file
+- 2021-07-04: feat(blog): support reading time
