@@ -10,3 +10,4 @@ Serverless playground.
 - 2021-04-21: wip(lambda): saving progress
 - 2021-04-21: fix: patch hello lambda
 - 2021-05-06: refactor(lambda): split cron schedule
+- 2021-07-05: feat(lambda): first pass at env var loading
