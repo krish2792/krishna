@@ -23,3 +23,4 @@ First React app.
 - 2021-01-13: fix(todo): avoid localStorage persistence
 - 2021-03-01: docs(todo): document keyboard shortcuts
 - 2021-04-28: docs: tidy todo list docs
+- 2021-07-06: fix(todo): patch keyboard shortcuts
