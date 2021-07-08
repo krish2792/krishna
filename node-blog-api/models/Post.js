@@ -15,3 +15,4 @@
 // 2020-12-12: feat: expose post model
 // 2021-01-25: one more thing
 // 2021-07-05: fix: stop JWT middleware
+// 2021-07-08: wip: still hacking on posts route
