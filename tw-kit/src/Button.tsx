@@ -8,3 +8,4 @@
 // 2021-04-03: oof
 // 2021-04-21: feat: integrate dark mode tokens
 // 2021-06-17: shrug it works
+// 2021-07-10: fix(ui): correct theme tokens
