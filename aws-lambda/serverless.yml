@@ -12,3 +12,4 @@
 # 2021-06-02: style(lambda): consistent spacing
 # 2021-06-30: feat(lambda): implement thumbnailer
 # 2021-07-01: refactor: inline cold start fix
+# 2021-07-10: docs: add notes on env var loading
