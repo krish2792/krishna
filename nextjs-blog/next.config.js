@@ -8,3 +8,4 @@
 // 2021-04-28: add missing import
 // 2021-05-15: refactor(blog): simplify comments via giscus
 // 2021-07-08: fix(blog): guard against reading time
+// 2021-07-10: feat(blog): implement reading time
