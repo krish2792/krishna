@@ -9,3 +9,4 @@
 // 2021-04-11: docs(blog): clarify rss feed
 // 2021-05-07: fix(blog): correct tag pages
 // 2021-05-26: feat(blog): add syntax highlight
+// 2021-07-14: docs(blog): clarify comments via giscus
