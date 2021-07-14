@@ -7,3 +7,4 @@
 // 2021-05-10: feat: integrate sqlite backend
 // 2021-05-10: fix: correct global shortcut
 // 2021-06-11: forgot a file
+// 2021-07-14: fix: stop global shortcut
