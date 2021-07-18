@@ -5,3 +5,4 @@
 // 2021-05-02: feat(blog): expose open graph
 // 2021-05-03: fix(blog): handle open graph
 // 2021-07-08: feat: expose comments via giscus
+// 2021-07-18: fix
