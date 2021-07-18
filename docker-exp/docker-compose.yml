@@ -13,3 +13,4 @@
 # 2021-05-27: feat: expose multi-stage build
 # 2021-06-04: refactor: reorganize distroless base
 # 2021-06-28: one more thing
+# 2021-07-18: test(docker): parametrize volumes tests
