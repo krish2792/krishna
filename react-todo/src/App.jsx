@@ -26,3 +26,4 @@
 // 2021-05-16: wip(todo): checkpoint
 // 2021-06-15: wip: still hacking on useReducer refactor
 // 2021-07-15: refactor(todo): flatten edit inline
+// 2021-07-20: refactor(todo): inline filter all/active/done
