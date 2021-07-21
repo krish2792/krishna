@@ -12,3 +12,4 @@
 // 2021-04-13: feat: introduce open graph
 // 2021-06-01: wip(blog): wip reading time
 // 2021-07-03: feat(blog): rough reading time
+// 2021-07-21: docs(blog): clarify rss feed
