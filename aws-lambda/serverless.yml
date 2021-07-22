@@ -14,3 +14,4 @@
 # 2021-07-01: refactor: inline cold start fix
 # 2021-07-10: docs: add notes on env var loading
 # 2021-07-18: refactor(lambda): split env var loading
+# 2021-07-22: chore(lambda): small cleanup
