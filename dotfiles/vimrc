@@ -20,3 +20,4 @@
 # 2020-12-14: docs(dotfiles): add notes on aliases
 # 2021-01-11: feat: introduce aliases
 # 2021-07-03: refactor: reorganize zsh prompt
+# 2021-07-22: feat: first pass at plugins
