@@ -15,3 +15,4 @@
 // 2021-06-18: docs(lambda): readme: thumbnailer
 // 2021-07-04: fix(lambda): stop thumbnailer
 // 2021-07-09: refactor: extract s3 trigger
+// 2021-07-22: feat(lambda): first pass at sqs consumer
