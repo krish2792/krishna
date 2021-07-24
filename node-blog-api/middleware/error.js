@@ -8,3 +8,4 @@
 // 2020-09-25: fix(api): handle mongoose schema
 // 2020-10-12: one more thing
 // 2021-04-27: test: parametrize pagination tests
+// 2021-07-24: fix(api): patch pagination
