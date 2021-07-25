@@ -8,3 +8,4 @@
 # 2021-05-27: style: reflow cache mount
 # 2021-06-12: cleanup
 # 2021-07-07: feat(docker): rough compose stack
+# 2021-07-25: fix(docker): handle compose stack
