@@ -13,3 +13,4 @@ Personal Next.js blog.
 - 2021-05-31: cleanup
 - 2021-06-06: chore: rename file
 - 2021-07-04: feat(blog): support reading time
+- 2021-07-29: test(blog): cover sitemap edge case
