@@ -23,3 +23,4 @@
 // 2021-04-17: style: consistent spacing
 // 2021-05-02: fix typo
 // 2021-05-19: chore(todo): small cleanup
+// 2021-07-29: fix(todo): address drag reorder
