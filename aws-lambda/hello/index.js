@@ -10,3 +10,4 @@
 // 2021-06-22: fix: correct iam role
 // 2021-07-14: chore: rename file
 // 2021-07-22: tweak
+// 2021-07-29: feat(lambda): first pass at cron schedule
