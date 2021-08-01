@@ -6,3 +6,4 @@
 // 2021-07-13: wip: wip reading time
 // 2021-07-15: fix typo
 // 2021-07-26: tidy notes
+// 2021-08-01: refactor(blog): extract open graph
