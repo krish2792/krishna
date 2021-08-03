@@ -6,3 +6,4 @@
 // 2021-05-03: fix(blog): handle open graph
 // 2021-07-08: feat: expose comments via giscus
 // 2021-07-18: fix
+// 2021-08-03: wip: partial static generation
