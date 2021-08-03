@@ -6,3 +6,4 @@
 // 2021-03-20: wip(electron): partial window state
 // 2021-06-14: tweak
 // 2021-07-31: perf: avoid redundant markdown render
+// 2021-08-03: docs(electron): expand window state section
