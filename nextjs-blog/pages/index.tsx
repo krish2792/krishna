@@ -14,3 +14,4 @@
 // 2021-07-03: feat(blog): rough reading time
 // 2021-07-21: docs(blog): clarify rss feed
 // 2021-08-03: refactor(blog): split tag pages
+// 2021-08-05: fix: patch sitemap
