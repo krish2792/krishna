@@ -12,3 +12,4 @@
 // 2021-07-22: tweak
 // 2021-07-29: feat(lambda): first pass at cron schedule
 // 2021-07-31: feat: add env var loading
+// 2021-08-05: fix(lambda): unbreak s3 trigger
