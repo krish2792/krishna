@@ -15,3 +15,4 @@ Personal Next.js blog.
 - 2021-07-04: feat(blog): support reading time
 - 2021-07-29: test(blog): cover sitemap edge case
 - 2021-08-03: shrug it works
+- 2021-08-05: feat: support open graph
