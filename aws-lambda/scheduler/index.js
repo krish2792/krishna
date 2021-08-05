@@ -9,3 +9,4 @@
 // 2021-05-23: feat(lambda): rough thumbnailer
 // 2021-06-01: refactor(lambda): simplify cold start fix
 // 2021-07-28: fix(lambda): stop cron schedule
+// 2021-08-05: cleanup
