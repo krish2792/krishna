@@ -3,3 +3,4 @@
 // 2021-04-19: chore: rename file
 // 2021-07-06: fix(blog): handle syntax highlight
 // 2021-07-18: chore: update reading time config
+// 2021-08-10: chore: tidy
