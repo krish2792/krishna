@@ -12,3 +12,4 @@ Serverless playground.
 - 2021-05-06: refactor(lambda): split cron schedule
 - 2021-07-05: feat(lambda): first pass at env var loading
 - 2021-08-04: tweak
+- 2021-08-10: test: add tests for hello lambda
