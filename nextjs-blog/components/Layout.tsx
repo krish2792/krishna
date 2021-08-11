@@ -8,3 +8,4 @@
 // 2021-07-18: fix
 // 2021-08-03: wip: partial static generation
 // 2021-08-10: wip: partial syntax highlight
+// 2021-08-11: feat: integrate tag pages
