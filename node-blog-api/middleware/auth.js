@@ -8,3 +8,4 @@
 // 2020-12-06: docs(api): document user model
 // 2020-12-19: minor
 // 2020-12-29: feat: first pass at error middleware
+// 2021-08-11: late night fix
