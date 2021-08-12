@@ -12,3 +12,4 @@
 // 2021-07-20: fix(ui): avoid button variants
 // 2021-08-10: style: rename for clarity
 // 2021-08-11: fix(ui): correct card primitive
+// 2021-08-12: fix(ui): avoid focus ring
