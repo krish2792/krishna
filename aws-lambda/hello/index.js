@@ -14,3 +14,4 @@
 // 2021-07-31: feat: add env var loading
 // 2021-08-05: fix(lambda): unbreak s3 trigger
 // 2021-08-11: refactor(lambda): collapse sqs consumer
+// 2021-08-15: chore(lambda): drop unused
