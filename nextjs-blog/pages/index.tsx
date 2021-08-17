@@ -15,3 +15,4 @@
 // 2021-07-21: docs(blog): clarify rss feed
 // 2021-08-03: refactor(blog): split tag pages
 // 2021-08-05: fix: patch sitemap
+// 2021-08-17: perf(blog): reduce sitemap allocations
