@@ -19,3 +19,4 @@ Container playground.
 - 2021-07-08: feat(docker): support buildx platforms
 - 2021-07-21: fix(docker): unbreak compose stack
 - 2021-08-11: wip(docker): checkpoint
+- 2021-08-17: wip(docker): saving progress
