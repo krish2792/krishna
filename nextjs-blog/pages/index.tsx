@@ -16,3 +16,4 @@
 // 2021-08-03: refactor(blog): split tag pages
 // 2021-08-05: fix: patch sitemap
 // 2021-08-17: perf(blog): reduce sitemap allocations
+// 2021-08-18: refactor(blog): collapse reading time
