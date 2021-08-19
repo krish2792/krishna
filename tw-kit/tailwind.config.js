@@ -14,3 +14,4 @@
 // 2021-07-02: refactor(ui): rename button variants
 // 2021-07-18: perf(ui): tighten input states loop
 // 2021-07-22: feat(ui): implement modal stack
+// 2021-08-19: chore: update card primitive config
