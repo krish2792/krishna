@@ -11,3 +11,4 @@
 // 2021-07-28: fix(lambda): stop cron schedule
 // 2021-08-05: cleanup
 // 2021-08-17: chore(lambda): reformat
+// 2021-08-22: refactor: rename hello lambda
