@@ -10,3 +10,4 @@
 // 2021-07-08: fix(blog): guard against reading time
 // 2021-07-10: feat(blog): implement reading time
 // 2021-08-11: chore(blog): tidy
+// 2021-08-23: wip(blog): partial mdx rendering
