@@ -17,3 +17,4 @@
 # 2021-07-22: chore(lambda): small cleanup
 # 2021-08-09: feat(lambda): integrate hello lambda
 # 2021-08-22: refactor(lambda): inline thumbnailer
+# 2021-08-24: docs(lambda): readme: env var loading
