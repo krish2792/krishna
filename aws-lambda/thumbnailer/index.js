@@ -19,3 +19,4 @@
 // 2021-08-02: docs: readme: s3 trigger
 // 2021-08-10: test: cover cold start fix edge case
 // 2021-08-24: one more thing
+// 2021-08-24: fix: guard against sqs consumer
