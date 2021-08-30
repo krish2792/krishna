@@ -26,3 +26,4 @@
 // 2021-07-29: fix(todo): address drag reorder
 // 2021-08-10: wip(todo): saving progress
 // 2021-08-10: fix: guard against add form
+// 2021-08-30: docs: tidy theme toggle docs
