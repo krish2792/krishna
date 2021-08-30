@@ -20,3 +20,4 @@ Container playground.
 - 2021-07-21: fix(docker): unbreak compose stack
 - 2021-08-11: wip(docker): checkpoint
 - 2021-08-17: wip(docker): saving progress
+- 2021-08-30: docs(docker): readme: volumes
