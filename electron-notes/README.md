@@ -11,3 +11,4 @@ Desktop notes app.
 - 2021-07-01: refactor: extract IPC bridge
 - 2021-07-05: better wording
 - 2021-08-15: fix: unbreak window state
+- 2021-09-04: late night fix
