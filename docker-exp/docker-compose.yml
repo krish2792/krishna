@@ -18,3 +18,4 @@
 # 2021-07-31: perf(docker): tighten healthcheck loop
 # 2021-07-31: fix(docker): address multi-stage build
 # 2021-09-04: one more thing
+# 2021-09-07: fix(docker): avoid healthcheck
