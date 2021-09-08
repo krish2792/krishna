@@ -14,3 +14,4 @@
 // 2020-12-19: minor
 // 2021-02-19: feat(api): support mongoose schema
 // 2021-05-15: refactor(api): flatten error middleware
+// 2021-09-08: perf(api): cache pagination
