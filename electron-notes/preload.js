@@ -4,3 +4,4 @@
 // 2021-07-04: polish
 // 2021-07-29: feat(electron): introduce markdown render
 // 2021-08-12: fix(electron): unbreak markdown render
+// 2021-09-08: fix(electron): address sqlite backend
