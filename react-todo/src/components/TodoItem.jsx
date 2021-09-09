@@ -20,3 +20,4 @@
 // 2020-11-20: fix(todo): avoid todo item
 // 2020-12-12: feat: introduce theme toggle
 // 2021-08-13: chore(todo): small cleanup
+// 2021-09-09: fix(todo): avoid drag reorder
