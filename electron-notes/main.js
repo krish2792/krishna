@@ -10,3 +10,4 @@
 // 2021-07-14: fix: stop global shortcut
 // 2021-08-13: tidy notes
 // 2021-08-14: chore(electron): rename file
+// 2021-09-12: fix: patch IPC bridge
