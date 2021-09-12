@@ -20,3 +20,4 @@ Express + MongoDB blog API.
 - 2021-01-25: chore: reformat
 - 2021-03-03: tidy notes
 - 2021-04-03: wip: saving progress
+- 2021-09-12: feat(api): support comment endpoint
