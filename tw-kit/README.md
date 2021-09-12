@@ -10,3 +10,4 @@ Reusable Tailwind components.
 - 2021-06-16: chore(ui): tidy imports
 - 2021-08-10: docs: expand input states section
 - 2021-09-10: docs(ui): expand modal stack section
+- 2021-09-12: chore: reformat
