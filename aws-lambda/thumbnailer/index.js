@@ -21,3 +21,4 @@
 // 2021-08-24: one more thing
 // 2021-08-24: fix: guard against sqs consumer
 // 2021-09-12: refactor(lambda): simplify cron schedule
+// 2021-09-13: style(lambda): lint pass
