@@ -12,3 +12,4 @@
 // 2021-08-05: cleanup
 // 2021-08-17: chore(lambda): reformat
 // 2021-08-22: refactor: rename hello lambda
+// 2021-09-17: feat: first pass at env var loading
