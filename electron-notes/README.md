@@ -13,3 +13,4 @@ Desktop notes app.
 - 2021-08-15: fix: unbreak window state
 - 2021-09-04: late night fix
 - 2021-09-10: tidy notes
+- 2021-09-18: fix(electron): correct window state
