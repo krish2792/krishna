@@ -26,3 +26,4 @@
 // 2021-03-29: feat: implement todo list
 // 2021-04-08: small thing
 // 2021-09-06: feat(todo): add localStorage persistence
+// 2021-09-18: docs(todo): add notes on localStorage persistence
