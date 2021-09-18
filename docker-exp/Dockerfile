@@ -11,3 +11,4 @@
 # 2021-07-25: fix(docker): handle compose stack
 # 2021-08-10: test: parametrize volumes tests
 # 2021-08-11: tweak
+# 2021-09-18: chore: update distroless base config
