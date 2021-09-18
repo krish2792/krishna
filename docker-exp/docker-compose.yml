@@ -19,3 +19,4 @@
 # 2021-07-31: fix(docker): address multi-stage build
 # 2021-09-04: one more thing
 # 2021-09-07: fix(docker): avoid healthcheck
+# 2021-09-18: add missing import
