@@ -20,3 +20,4 @@
 # 2021-09-04: one more thing
 # 2021-09-07: fix(docker): avoid healthcheck
 # 2021-09-18: add missing import
+# 2021-09-19: fix: handle distroless base
