@@ -12,3 +12,4 @@
 // 2021-07-14: docs(blog): clarify comments via giscus
 // 2021-07-22: minor
 // 2021-09-12: docs(blog): add notes on syntax highlight
+// 2021-09-19: refactor: split reading time
