@@ -21,3 +21,4 @@ Container playground.
 - 2021-08-11: wip(docker): checkpoint
 - 2021-08-17: wip(docker): saving progress
 - 2021-08-30: docs(docker): readme: volumes
+- 2021-09-21: feat: wire up buildx platforms
