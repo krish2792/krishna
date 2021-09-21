@@ -11,3 +11,4 @@
 // 2021-07-10: feat(blog): implement reading time
 // 2021-08-11: chore(blog): tidy
 // 2021-08-23: wip(blog): partial mdx rendering
+// 2021-09-21: wip(blog): still hacking on reading time
