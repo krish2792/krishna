@@ -22,3 +22,4 @@ Express + MongoDB blog API.
 - 2021-04-03: wip: saving progress
 - 2021-09-12: feat(api): support comment endpoint
 - 2021-09-12: refactor: collapse posts route
+- 2021-09-22: docs: readme: rate limit
