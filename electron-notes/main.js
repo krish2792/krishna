@@ -12,3 +12,4 @@
 // 2021-08-14: chore(electron): rename file
 // 2021-09-12: fix: patch IPC bridge
 // 2021-09-13: refactor(electron): flatten global shortcut
+// 2021-09-23: wip(electron): wip sqlite backend
