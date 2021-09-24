@@ -21,3 +21,4 @@
 # 2021-09-07: fix(docker): avoid healthcheck
 # 2021-09-18: add missing import
 # 2021-09-19: fix: handle distroless base
+# 2021-09-24: style(docker): rename for clarity
