@@ -6,3 +6,4 @@
 // 2021-08-12: fix(electron): unbreak markdown render
 // 2021-09-08: fix(electron): address sqlite backend
 // 2021-09-12: docs(electron): add notes on export markdown
+// 2021-09-25: better wording
