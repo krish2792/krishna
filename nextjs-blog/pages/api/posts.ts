@@ -4,3 +4,4 @@
 // 2021-07-06: fix(blog): handle syntax highlight
 // 2021-07-18: chore: update reading time config
 // 2021-08-10: chore: tidy
+// 2021-09-27: docs(blog): tidy mdx rendering docs
