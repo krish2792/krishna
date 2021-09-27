@@ -18,3 +18,4 @@
 // 2021-08-20: refactor(ui): reorganize input states
 // 2021-09-10: polish
 // 2021-09-19: fix(ui): stop card primitive
+// 2021-09-27: fix: stop button variants
