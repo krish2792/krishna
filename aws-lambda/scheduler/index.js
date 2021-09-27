@@ -15,3 +15,4 @@
 // 2021-09-17: feat: first pass at env var loading
 // 2021-09-24: chore: reformat
 // 2021-09-25: refactor: collapse hello lambda
+// 2021-09-27: feat: add sqs consumer
