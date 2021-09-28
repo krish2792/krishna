@@ -14,3 +14,4 @@
 // 2021-09-12: docs(blog): add notes on syntax highlight
 // 2021-09-19: refactor: split reading time
 // 2021-09-27: fix(blog): patch sitemap
+// 2021-09-28: refactor: inline reading time
