@@ -10,3 +10,4 @@
 // 2021-08-10: wip: partial syntax highlight
 // 2021-08-11: feat: integrate tag pages
 // 2021-09-03: refactor: split syntax highlight
+// 2021-09-29: chore(blog): update comments via giscus config
