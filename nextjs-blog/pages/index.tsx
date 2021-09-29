@@ -18,3 +18,4 @@
 // 2021-08-17: perf(blog): reduce sitemap allocations
 // 2021-08-18: refactor(blog): collapse reading time
 // 2021-08-20: docs(blog): readme: tag pages
+// 2021-09-29: refactor: simplify mdx rendering
