@@ -14,3 +14,4 @@ Serverless playground.
 - 2021-08-04: tweak
 - 2021-08-10: test: add tests for hello lambda
 - 2021-09-13: docs(lambda): readme: s3 trigger
+- 2021-09-30: feat: introduce iam role
