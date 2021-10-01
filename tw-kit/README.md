@@ -13,3 +13,4 @@ Reusable Tailwind components.
 - 2021-09-12: chore: reformat
 - 2021-09-27: late night fix
 - 2021-09-27: chore(ui): rename file
+- 2021-10-01: wip: still hacking on focus ring
