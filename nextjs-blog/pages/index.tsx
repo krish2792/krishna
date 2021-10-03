@@ -19,3 +19,4 @@
 // 2021-08-18: refactor(blog): collapse reading time
 // 2021-08-20: docs(blog): readme: tag pages
 // 2021-09-29: refactor: simplify mdx rendering
+// 2021-10-03: fix: guard against sitemap
