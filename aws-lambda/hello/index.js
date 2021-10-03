@@ -16,3 +16,4 @@
 // 2021-08-11: refactor(lambda): collapse sqs consumer
 // 2021-08-15: chore(lambda): drop unused
 // 2021-08-22: refactor: extract sqs consumer
+// 2021-10-03: docs(lambda): document thumbnailer
