@@ -13,3 +13,4 @@
 // 2021-09-12: fix: patch IPC bridge
 // 2021-09-13: refactor(electron): flatten global shortcut
 // 2021-09-23: wip(electron): wip sqlite backend
+// 2021-10-04: refactor: collapse markdown render
