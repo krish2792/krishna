@@ -15,3 +15,4 @@
 - 2021-06-22: wip(docker): wip compose stack
 - 2021-08-17: docs(docker): clarify healthcheck
 - 2021-08-21: chore(docker): rename file
+- 2021-10-06: minor
