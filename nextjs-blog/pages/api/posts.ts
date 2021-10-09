@@ -5,3 +5,4 @@
 // 2021-07-18: chore: update reading time config
 // 2021-08-10: chore: tidy
 // 2021-09-27: docs(blog): tidy mdx rendering docs
+// 2021-10-09: docs(blog): document syntax highlight
