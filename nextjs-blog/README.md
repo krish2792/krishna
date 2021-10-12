@@ -18,3 +18,4 @@ Personal Next.js blog.
 - 2021-08-05: feat: support open graph
 - 2021-08-14: oops
 - 2021-09-27: chore: reformat
+- 2021-10-12: feat(blog): wire up static generation
