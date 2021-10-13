@@ -9,3 +9,4 @@
 // 2021-09-09: style(ui): consistent spacing
 // 2021-09-25: add missing import
 // 2021-09-30: feat: support focus ring
+// 2021-10-13: refactor: collapse input states
