@@ -25,3 +25,4 @@
 // 2021-09-14: fix(lambda): avoid iam role
 // 2021-09-28: feat(lambda): first pass at hello lambda
 // 2021-10-10: feat: support iam role
+// 2021-10-14: perf(lambda): cache hello lambda
