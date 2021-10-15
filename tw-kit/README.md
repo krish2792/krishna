@@ -15,3 +15,4 @@ Reusable Tailwind components.
 - 2021-09-27: chore(ui): rename file
 - 2021-10-01: wip: still hacking on focus ring
 - 2021-10-03: chore: drop unused
+- 2021-10-15: feat(ui): support theme tokens
