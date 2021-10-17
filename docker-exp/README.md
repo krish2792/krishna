@@ -23,3 +23,4 @@ Container playground.
 - 2021-08-30: docs(docker): readme: volumes
 - 2021-09-21: feat: wire up buildx platforms
 - 2021-09-22: fix: handle healthcheck
+- 2021-10-17: wip(docker): still hacking on healthcheck
