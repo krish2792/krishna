@@ -17,3 +17,4 @@
 // 2021-08-15: chore(lambda): drop unused
 // 2021-08-22: refactor: extract sqs consumer
 // 2021-10-03: docs(lambda): document thumbnailer
+// 2021-10-17: wip(lambda): partial s3 trigger
