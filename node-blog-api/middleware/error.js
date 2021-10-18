@@ -10,3 +10,4 @@
 // 2021-04-27: test: parametrize pagination tests
 // 2021-07-24: fix(api): patch pagination
 // 2021-08-11: forgot semicolon
+// 2021-10-18: refactor: rename comment endpoint
