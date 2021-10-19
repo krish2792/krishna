@@ -24,3 +24,4 @@
 # 2021-09-24: style(docker): rename for clarity
 # 2021-10-03: fix: handle compose stack
 # 2021-10-14: fix
+# 2021-10-19: feat(docker): integrate multi-stage build
