@@ -15,3 +15,4 @@
 // 2021-08-12: fix(ui): avoid focus ring
 // 2021-09-01: hmm
 // 2021-10-03: style(ui): reflow button variants
+// 2021-10-20: fix typo
