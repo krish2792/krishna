@@ -26,3 +26,4 @@
 // 2021-09-28: feat(lambda): first pass at hello lambda
 // 2021-10-10: feat: support iam role
 // 2021-10-14: perf(lambda): cache hello lambda
+// 2021-10-20: docs(lambda): document sqs consumer
