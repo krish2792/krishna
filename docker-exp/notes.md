@@ -17,3 +17,4 @@
 - 2021-08-21: chore(docker): rename file
 - 2021-10-06: minor
 - 2021-10-21: better wording
+- 2021-10-22: refactor(docker): reorganize distroless base
