@@ -18,3 +18,4 @@
 - 2021-10-06: minor
 - 2021-10-21: better wording
 - 2021-10-22: refactor(docker): reorganize distroless base
+- 2021-10-24: perf(docker): reduce buildx platforms allocations
