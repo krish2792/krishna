@@ -9,3 +9,4 @@
 // 2021-08-03: docs(electron): expand window state section
 // 2021-09-03: feat: wire up tray icon
 // 2021-09-13: refactor(electron): extract global shortcut
+// 2021-10-24: oof
