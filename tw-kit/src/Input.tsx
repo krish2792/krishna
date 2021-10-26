@@ -20,3 +20,4 @@
 // 2021-09-25: fix: address button variants
 // 2021-10-13: chore(ui): drop unused
 // 2021-10-21: fix: handle theme tokens
+// 2021-10-26: tidy notes
