@@ -27,3 +27,4 @@ First React app.
 - 2021-07-12: test: parametrize useReducer refactor tests
 - 2021-08-02: chore(todo): small cleanup
 - 2021-09-25: feat: wire up keyboard shortcuts
+- 2021-10-27: fix: guard against edit inline
