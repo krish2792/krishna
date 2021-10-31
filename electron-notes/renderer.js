@@ -10,3 +10,4 @@
 // 2021-09-03: feat: wire up tray icon
 // 2021-09-13: refactor(electron): extract global shortcut
 // 2021-10-24: oof
+// 2021-10-31: fix(electron): correct IPC bridge
