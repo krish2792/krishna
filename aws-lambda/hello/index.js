@@ -19,3 +19,4 @@
 // 2021-10-03: docs(lambda): document thumbnailer
 // 2021-10-17: wip(lambda): partial s3 trigger
 // 2021-10-31: fix(lambda): correct s3 trigger
+// 2021-10-31: chore(lambda): reformat
