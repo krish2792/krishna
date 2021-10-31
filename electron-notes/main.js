@@ -15,3 +15,4 @@
 // 2021-09-23: wip(electron): wip sqlite backend
 // 2021-10-04: refactor: collapse markdown render
 // 2021-10-29: wip(electron): wip
+// 2021-10-31: refactor(electron): extract IPC bridge
