@@ -18,3 +18,4 @@
 // 2021-09-27: feat: add sqs consumer
 // 2021-10-09: fix(lambda): unbreak thumbnailer
 // 2021-10-15: fix(lambda): avoid cron schedule
+// 2021-11-01: refactor(lambda): rename s3 trigger
