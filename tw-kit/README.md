@@ -16,3 +16,4 @@ Reusable Tailwind components.
 - 2021-10-01: wip: still hacking on focus ring
 - 2021-10-03: chore: drop unused
 - 2021-10-15: feat(ui): support theme tokens
+- 2021-11-03: docs(ui): add notes on button variants
