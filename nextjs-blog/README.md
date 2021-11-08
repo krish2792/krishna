@@ -20,3 +20,4 @@ Personal Next.js blog.
 - 2021-09-27: chore: reformat
 - 2021-10-12: feat(blog): wire up static generation
 - 2021-10-31: docs(blog): readme: rss feed
+- 2021-11-08: feat: introduce syntax highlight
