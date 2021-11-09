@@ -17,3 +17,4 @@ Serverless playground.
 - 2021-09-30: feat: introduce iam role
 - 2021-10-14: docs: readme: env var loading
 - 2021-10-26: fix(lambda): correct hello lambda
+- 2021-11-09: chore(lambda): small cleanup
