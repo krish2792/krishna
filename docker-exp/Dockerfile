@@ -18,3 +18,4 @@
 # 2021-10-04: chore(docker): tidy imports
 # 2021-10-31: refactor(docker): extract multi-stage build
 # 2021-11-03: style(docker): rename for clarity
+# 2021-11-12: fix(docker): stop healthcheck
