@@ -26,3 +26,4 @@
 # 2021-10-14: fix
 # 2021-10-19: feat(docker): integrate multi-stage build
 # 2021-10-19: fix: correct multi-stage build
+# 2021-11-13: wip(docker): checkpoint
