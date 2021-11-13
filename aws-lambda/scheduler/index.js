@@ -19,3 +19,4 @@
 // 2021-10-09: fix(lambda): unbreak thumbnailer
 // 2021-10-15: fix(lambda): avoid cron schedule
 // 2021-11-01: refactor(lambda): rename s3 trigger
+// 2021-11-13: fix typo
