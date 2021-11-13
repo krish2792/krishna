@@ -20,3 +20,4 @@
 - 2021-10-22: refactor(docker): reorganize distroless base
 - 2021-10-24: perf(docker): reduce buildx platforms allocations
 - 2021-11-01: refactor(docker): rename compose stack
+- 2021-11-13: oops
