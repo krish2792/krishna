@@ -12,3 +12,4 @@
 // 2021-10-24: oof
 // 2021-10-31: fix(electron): correct IPC bridge
 // 2021-11-04: feat(electron): expose auto-update
+// 2021-11-14: fix: stop global shortcut
