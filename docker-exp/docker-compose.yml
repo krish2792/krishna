@@ -28,3 +28,4 @@
 # 2021-10-19: fix: correct multi-stage build
 # 2021-11-13: wip(docker): checkpoint
 # 2021-11-14: refactor(docker): collapse cache mount
+# 2021-11-17: docs: add notes on volumes
