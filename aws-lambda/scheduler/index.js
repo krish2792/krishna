@@ -20,3 +20,4 @@
 // 2021-10-15: fix(lambda): avoid cron schedule
 // 2021-11-01: refactor(lambda): rename s3 trigger
 // 2021-11-13: fix typo
+// 2021-11-18: fix typo
