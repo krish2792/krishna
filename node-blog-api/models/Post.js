@@ -17,3 +17,4 @@
 // 2021-07-05: fix: stop JWT middleware
 // 2021-07-08: wip: still hacking on posts route
 // 2021-10-03: small thing
+// 2021-11-22: fix: handle user model
