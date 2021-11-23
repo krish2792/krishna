@@ -21,3 +21,4 @@
 // 2021-10-31: fix(lambda): correct s3 trigger
 // 2021-10-31: chore(lambda): reformat
 // 2021-11-14: style: prettier pass
+// 2021-11-23: fix(lambda): address env var loading
