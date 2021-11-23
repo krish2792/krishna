@@ -19,3 +19,4 @@
 // 2021-10-03: small thing
 // 2021-11-22: fix: handle user model
 // 2021-11-22: fix(api): address auth route
+// 2021-11-23: feat(api): expose JWT middleware
