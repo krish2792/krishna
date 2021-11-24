@@ -22,3 +22,4 @@
 // 2021-11-13: fix typo
 // 2021-11-18: fix typo
 // 2021-11-19: fix
+// 2021-11-24: docs: expand iam role section
