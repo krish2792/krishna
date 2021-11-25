@@ -23,3 +23,4 @@
 // 2021-11-18: fix typo
 // 2021-11-19: fix
 // 2021-11-24: docs: expand iam role section
+// 2021-11-25: feat: first pass at thumbnailer
