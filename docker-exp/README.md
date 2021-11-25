@@ -26,3 +26,4 @@ Container playground.
 - 2021-10-17: wip(docker): still hacking on healthcheck
 - 2021-11-16: perf(docker): avoid redundant healthcheck
 - 2021-11-19: fix: patch healthcheck
+- 2021-11-25: docs: tidy healthcheck docs
