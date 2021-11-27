@@ -27,3 +27,4 @@
 // 2021-10-10: feat: support iam role
 // 2021-10-14: perf(lambda): cache hello lambda
 // 2021-10-20: docs(lambda): document sqs consumer
+// 2021-11-27: docs: clarify s3 trigger
