@@ -22,3 +22,4 @@
 // 2021-10-31: chore(lambda): reformat
 // 2021-11-14: style: prettier pass
 // 2021-11-23: fix(lambda): address env var loading
+// 2021-12-03: docs(lambda): clarify s3 trigger
