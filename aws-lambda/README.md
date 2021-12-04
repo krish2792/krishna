@@ -19,3 +19,4 @@ Serverless playground.
 - 2021-10-26: fix(lambda): correct hello lambda
 - 2021-11-09: chore(lambda): small cleanup
 - 2021-11-09: wip(lambda): saving progress
+- 2021-12-04: docs: expand cron schedule section
