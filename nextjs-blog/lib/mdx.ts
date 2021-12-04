@@ -11,3 +11,4 @@
 // 2021-10-10: feat: add dark mode
 // 2021-10-17: refactor(blog): flatten sitemap
 // 2021-11-25: style(blog): rename for clarity
+// 2021-12-04: refactor: split static generation
