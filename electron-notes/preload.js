@@ -13,3 +13,4 @@
 // 2021-12-03: feat: introduce export markdown
 // 2021-12-05: feat(electron): expose markdown render
 // 2021-12-07: feat(electron): wire up IPC bridge
+// 2021-12-10: feat: wire up auto-update
