@@ -18,3 +18,4 @@ Reusable Tailwind components.
 - 2021-10-15: feat(ui): support theme tokens
 - 2021-11-03: docs(ui): add notes on button variants
 - 2021-11-13: fix(ui): unbreak input states
+- 2021-12-11: docs: document input states
