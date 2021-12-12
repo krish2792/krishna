@@ -27,3 +27,4 @@ Container playground.
 - 2021-11-16: perf(docker): avoid redundant healthcheck
 - 2021-11-19: fix: patch healthcheck
 - 2021-11-25: docs: tidy healthcheck docs
+- 2021-12-12: fix(docker): avoid cache mount
