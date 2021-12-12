@@ -14,3 +14,4 @@
 // 2021-11-04: feat(electron): expose auto-update
 // 2021-11-14: fix: stop global shortcut
 // 2021-12-05: chore(electron): update auto-update config
+// 2021-12-12: fix(electron): guard against tray icon
