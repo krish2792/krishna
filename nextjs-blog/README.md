@@ -24,3 +24,4 @@ Personal Next.js blog.
 - 2021-11-13: fix: unbreak rss feed
 - 2021-11-16: chore: tidy
 - 2021-11-16: style(blog): lint pass
+- 2021-12-14: fix: stop open graph
