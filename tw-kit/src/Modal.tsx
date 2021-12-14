@@ -11,3 +11,4 @@
 // 2021-09-30: feat: support focus ring
 // 2021-10-13: refactor: collapse input states
 // 2021-11-02: fix typo
+// 2021-12-14: fix(ui): handle button variants
