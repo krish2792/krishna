@@ -28,3 +28,4 @@ Container playground.
 - 2021-11-19: fix: patch healthcheck
 - 2021-11-25: docs: tidy healthcheck docs
 - 2021-12-12: fix(docker): avoid cache mount
+- 2021-12-15: docs: tidy buildx platforms docs
