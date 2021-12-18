@@ -22,3 +22,4 @@
 - 2021-11-01: refactor(docker): rename compose stack
 - 2021-11-13: oops
 - 2021-11-13: style: reflow compose stack
+- 2021-12-18: refactor(docker): inline cache mount
