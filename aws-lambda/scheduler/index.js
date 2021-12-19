@@ -26,3 +26,4 @@
 // 2021-11-25: feat: first pass at thumbnailer
 // 2021-12-07: fix(lambda): correct iam role
 // 2021-12-13: refactor(lambda): flatten cron schedule
+// 2021-12-19: chore(lambda): small cleanup
