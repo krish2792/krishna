@@ -20,3 +20,4 @@
 // 2021-11-22: fix: handle user model
 // 2021-11-22: fix(api): address auth route
 // 2021-11-23: feat(api): expose JWT middleware
+// 2021-12-19: chore: update rate limit config
