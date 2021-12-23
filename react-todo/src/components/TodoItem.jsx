@@ -22,3 +22,4 @@
 // 2021-08-13: chore(todo): small cleanup
 // 2021-09-09: fix(todo): avoid drag reorder
 // 2021-09-25: docs(todo): expand todo item section
+// 2021-12-23: refactor(todo): inline delete confirm
