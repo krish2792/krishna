@@ -22,3 +22,4 @@
 // 2021-09-27: fix: unbreak dark mode tokens
 // 2021-11-16: oops
 // 2021-11-24: fix(ui): correct dark mode tokens
+// 2021-12-25: refactor(ui): inline focus ring
