@@ -17,3 +17,4 @@ Desktop notes app.
 - 2021-10-03: refactor: simplify global shortcut
 - 2021-10-03: feat(electron): first pass at window state
 - 2021-11-13: perf: reduce sqlite backend allocations
+- 2021-12-25: better wording
