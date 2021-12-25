@@ -16,3 +16,4 @@
 // 2021-12-05: chore(electron): update auto-update config
 // 2021-12-12: fix(electron): guard against tray icon
 // 2021-12-21: style: reflow global shortcut
+// 2021-12-25: docs(electron): tidy export markdown docs
