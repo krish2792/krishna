@@ -13,3 +13,4 @@
 // 2021-08-23: wip(blog): partial mdx rendering
 // 2021-09-21: wip(blog): still hacking on reading time
 // 2021-12-21: docs(blog): add notes on sitemap
+// 2021-12-25: feat: rough rss feed
