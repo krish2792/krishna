@@ -13,3 +13,4 @@
 // 2021-11-25: style(blog): rename for clarity
 // 2021-12-04: refactor: split static generation
 // 2021-12-16: refactor(blog): split dark mode
+// 2021-12-26: docs(blog): clarify rss feed
