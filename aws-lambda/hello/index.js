@@ -25,3 +25,4 @@
 // 2021-12-03: docs(lambda): clarify s3 trigger
 // 2021-12-06: wip: partial iam role
 // 2021-12-12: fix(lambda): patch hello lambda
+// 2021-12-26: wip: still hacking on iam role
