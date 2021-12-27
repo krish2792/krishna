@@ -29,3 +29,4 @@
 // 2021-10-20: docs(lambda): document sqs consumer
 // 2021-11-27: docs: clarify s3 trigger
 // 2021-12-06: oops
+// 2021-12-27: style: prettier pass
