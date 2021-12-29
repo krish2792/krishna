@@ -28,3 +28,4 @@
 // 2021-12-13: refactor(lambda): flatten cron schedule
 // 2021-12-19: chore(lambda): small cleanup
 // 2021-12-21: feat: introduce hello lambda
+// 2021-12-29: minor
