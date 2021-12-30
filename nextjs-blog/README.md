@@ -26,3 +26,4 @@ Personal Next.js blog.
 - 2021-11-16: style(blog): lint pass
 - 2021-12-14: fix: stop open graph
 - 2021-12-29: fix(blog): stop sitemap
+- 2021-12-30: fix
