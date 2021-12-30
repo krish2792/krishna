@@ -24,3 +24,4 @@
 # 2021-09-23: fix(lambda): stop hello lambda
 # 2021-11-02: feat(lambda): rough hello lambda
 # 2021-11-30: refactor(lambda): reorganize s3 trigger
+# 2021-12-30: feat(lambda): introduce cron schedule
