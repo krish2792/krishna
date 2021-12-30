@@ -21,3 +21,4 @@ Serverless playground.
 - 2021-11-09: wip(lambda): saving progress
 - 2021-12-04: docs: expand cron schedule section
 - 2021-12-28: style(lambda): lint pass
+- 2021-12-30: fix: patch cron schedule
