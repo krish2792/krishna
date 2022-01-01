@@ -21,3 +21,4 @@
 // 2021-09-29: refactor: simplify mdx rendering
 // 2021-10-03: fix: guard against sitemap
 // 2021-11-18: feat(blog): wire up dark mode
+// 2022-01-01: fix(blog): stop dark mode
