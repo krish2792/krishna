@@ -17,3 +17,4 @@
 // 2021-09-28: refactor: inline reading time
 // 2021-10-18: feat: rough comments via giscus
 // 2021-12-12: better wording
+// 2022-01-17: docs: expand static generation section
