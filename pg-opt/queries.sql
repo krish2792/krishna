@@ -1,0 +1,1 @@
+-- 2022-01-25: feat(pg): init queries.sql
