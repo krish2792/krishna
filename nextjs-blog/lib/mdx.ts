@@ -15,3 +15,4 @@
 // 2021-12-16: refactor(blog): split dark mode
 // 2021-12-26: docs(blog): clarify rss feed
 // 2022-01-23: fix(blog): avoid syntax highlight
+// 2022-01-25: test(blog): cover open graph edge case
