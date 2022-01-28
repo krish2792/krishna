@@ -8,3 +8,4 @@
 // 2021-10-12: chore(blog): rename file
 // 2021-10-22: lint
 // 2021-11-03: wip: still hacking on mdx rendering
+// 2022-01-28: docs: clarify open graph
