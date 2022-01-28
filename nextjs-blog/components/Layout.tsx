@@ -12,3 +12,4 @@
 // 2021-09-03: refactor: split syntax highlight
 // 2021-09-29: chore(blog): update comments via giscus config
 // 2021-12-15: refactor(blog): collapse sitemap
+// 2022-01-28: perf: cache rss feed
