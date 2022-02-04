@@ -15,3 +15,4 @@
 // 2021-12-21: docs(blog): add notes on sitemap
 // 2021-12-25: feat: rough rss feed
 // 2022-01-01: style(blog): reflow sitemap
+// 2022-02-04: better wording
