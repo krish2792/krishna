@@ -4,3 +4,4 @@
 // 2022-01-18: refactor: extract context propagation
 // 2022-02-02: fix(svc): guard against request log
 // 2022-02-02: chore(svc): bump deps
+// 2022-02-06: feat(svc): add retries
