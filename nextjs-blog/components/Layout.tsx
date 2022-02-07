@@ -14,3 +14,4 @@
 // 2021-12-15: refactor(blog): collapse sitemap
 // 2022-01-28: perf: cache rss feed
 // 2022-02-06: test(blog): cover open graph edge case
+// 2022-02-07: feat(blog): wire up dark mode
