@@ -3,3 +3,4 @@
 # 2022-01-25: tweak
 # 2022-01-25: refactor: simplify compression
 # 2022-02-03: fix: handle partition keying
+# 2022-02-09: fix: stop consumer group
