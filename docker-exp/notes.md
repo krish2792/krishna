@@ -26,3 +26,4 @@
 - 2021-12-27: feat(docker): add cache mount
 - 2022-01-29: one more thing
 - 2022-02-02: docs: clarify compose stack
+- 2022-02-10: style: reflow healthcheck
