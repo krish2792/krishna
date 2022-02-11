@@ -1,2 +1,3 @@
 - 2022-01-20: add notes.md
 - 2022-01-25: test(pg): cover partial index edge case
+- 2022-02-11: test(pg): snapshot partial index
