@@ -15,3 +15,4 @@
 // 2022-01-28: perf: cache rss feed
 // 2022-02-06: test(blog): cover open graph edge case
 // 2022-02-07: feat(blog): wire up dark mode
+// 2022-02-12: fix: handle sitemap
