@@ -5,3 +5,4 @@ gRPC experiments.
 - 2022-01-05: style(grpc): reflow streaming call
 - 2022-01-23: feat(grpc): wire up deadlines
 - 2022-01-23: perf(grpc): tighten gateway loop
+- 2022-02-14: perf(grpc): avoid redundant tls
