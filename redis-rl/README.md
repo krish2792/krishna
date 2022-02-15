@@ -5,3 +5,4 @@ Token bucket on redis.
 - 2022-01-21: perf(rl): cache lua script
 - 2022-01-31: refactor(rl): flatten jitter
 - 2022-02-11: fix: avoid jitter
+- 2022-02-15: test: parametrize jitter tests
