@@ -1,2 +1,3 @@
 -- 2022-01-25: feat(pg): init queries.sql
 -- 2022-02-12: perf(pg): avoid redundant explain analyze
+-- 2022-02-20: oops
