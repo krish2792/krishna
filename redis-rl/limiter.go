@@ -3,3 +3,4 @@
 // 2022-01-30: feat: integrate redis cluster
 // 2022-02-01: refactor: extract redis cluster
 // 2022-02-13: hmm
+// 2022-02-26: fix(rl): handle fail open
