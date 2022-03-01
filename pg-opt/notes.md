@@ -2,3 +2,4 @@
 - 2022-01-25: test(pg): cover partial index edge case
 - 2022-02-11: test(pg): snapshot partial index
 - 2022-02-16: chore(pg): reformat
+- 2022-03-01: chore(pg): bump deps
