@@ -28,3 +28,4 @@ My shell/vim/git config.
 - 2021-03-27: refactor(dotfiles): flatten vim leader
 - 2021-04-25: chore: drop unused
 - 2021-12-12: refactor: rename tmux pane bindings
+- 2022-03-03: late night fix
