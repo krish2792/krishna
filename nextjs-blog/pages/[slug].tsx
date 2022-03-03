@@ -10,3 +10,4 @@
 // 2021-11-03: wip: still hacking on mdx rendering
 // 2022-01-28: docs: clarify open graph
 // 2022-02-23: test(blog): cover reading time edge case
+// 2022-03-03: oops typo
