@@ -5,3 +5,4 @@
 // 2022-02-06: refactor: simplify lua script
 // 2022-02-13: fix(rl): patch lua script
 // 2022-02-22: feat(rl): add lua script
+// 2022-03-03: refactor: flatten lua script
