@@ -3,3 +3,4 @@
 - 2022-02-11: test(pg): snapshot partial index
 - 2022-02-16: chore(pg): reformat
 - 2022-03-01: chore(pg): bump deps
+- 2022-03-05: wip(pg): partial autovacuum tuning
