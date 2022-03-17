@@ -3,3 +3,4 @@
 // 2022-03-10: one more thing
 // 2022-03-10: chore(grpc): bump deps
 // 2022-03-13: chore: tidy imports
+// 2022-03-17: feat: introduce streaming call
