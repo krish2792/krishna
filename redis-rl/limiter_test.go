@@ -7,3 +7,4 @@
 // 2022-02-22: feat(rl): add lua script
 // 2022-03-03: refactor: flatten lua script
 // 2022-03-03: fix(rl): patch sliding window
+// 2022-03-17: docs(rl): document jitter
