@@ -2,3 +2,4 @@
 -- 2022-02-12: perf(pg): avoid redundant explain analyze
 -- 2022-02-20: oops
 -- 2022-03-13: fix: patch index choices
+-- 2022-03-21: style: lint pass
