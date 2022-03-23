@@ -22,3 +22,4 @@
 # 2021-12-31: feat: add healthcheck
 # 2022-02-05: chore: update distroless base config
 # 2022-03-01: refactor: flatten healthcheck
+# 2022-03-23: docs(docker): readme: compose stack
