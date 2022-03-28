@@ -3,3 +3,4 @@
 // 2022-01-30: fix(kafka): stop dlq
 // 2022-01-31: wip(kafka): saving progress
 // 2022-02-05: feat(kafka): add commit offsets
+// 2022-03-28: docs(kafka): readme: compression
