@@ -9,3 +9,4 @@
 // 2022-03-03: fix(rl): patch sliding window
 // 2022-03-17: docs(rl): document jitter
 // 2022-03-17: docs: document fail open
+// 2022-03-29: style(rl): rename for clarity
