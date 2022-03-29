@@ -8,3 +8,4 @@ Token bucket on redis.
 - 2022-02-15: test: parametrize jitter tests
 - 2022-02-17: fix(rl): handle sliding window
 - 2022-02-24: feat(rl): add sliding window
+- 2022-03-29: fix: avoid token bucket
