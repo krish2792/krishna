@@ -9,3 +9,4 @@ Token bucket on redis.
 - 2022-02-17: fix(rl): handle sliding window
 - 2022-02-24: feat(rl): add sliding window
 - 2022-03-29: fix: avoid token bucket
+- 2022-03-30: fix(rl): correct fail open
