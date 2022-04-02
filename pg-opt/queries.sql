@@ -3,3 +3,4 @@
 -- 2022-02-20: oops
 -- 2022-03-13: fix: patch index choices
 -- 2022-03-21: style: lint pass
+-- 2022-04-02: feat: first pass at vacuum
