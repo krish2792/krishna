@@ -7,3 +7,4 @@
 -- 2022-04-03: test(pg): snapshot explain analyze
 -- 2022-04-03: refactor: inline explain analyze
 -- 2022-04-06: feat(pg): rough partial index
+-- 2022-04-09: chore(pg): rename file
