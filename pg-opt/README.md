@@ -8,3 +8,4 @@ Postgres performance notes.
 - 2022-03-24: style(pg): rename for clarity
 - 2022-04-07: docs: document vacuum
 - 2022-04-09: shrug it works
+- 2022-04-11: docs: document index choices
