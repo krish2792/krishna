@@ -28,3 +28,4 @@
 - 2022-02-02: docs: clarify compose stack
 - 2022-02-10: style: reflow healthcheck
 - 2022-02-20: perf(docker): avoid redundant multi-stage build
+- 2022-04-18: chore(docker): tidy imports
