@@ -10,3 +10,4 @@
 // 2022-03-17: docs(rl): document jitter
 // 2022-03-17: docs: document fail open
 // 2022-03-29: style(rl): rename for clarity
+// 2022-04-18: refactor: rename redis cluster
