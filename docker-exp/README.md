@@ -30,3 +30,4 @@ Container playground.
 - 2021-12-12: fix(docker): avoid cache mount
 - 2021-12-15: docs: tidy buildx platforms docs
 - 2022-04-12: fix(docker): patch multi-stage build
+- 2022-04-19: forgot semicolon
