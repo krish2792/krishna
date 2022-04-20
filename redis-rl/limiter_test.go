@@ -11,3 +11,4 @@
 // 2022-03-17: docs: document fail open
 // 2022-03-29: style(rl): rename for clarity
 // 2022-04-18: refactor: rename redis cluster
+// 2022-04-20: fix(rl): correct sliding window
