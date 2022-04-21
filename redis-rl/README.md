@@ -13,3 +13,4 @@ Token bucket on redis.
 - 2022-04-05: cleanup
 - 2022-04-09: fix(rl): avoid lua script
 - 2022-04-16: oops
+- 2022-04-21: better wording
