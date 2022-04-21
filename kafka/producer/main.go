@@ -3,3 +3,4 @@
 // 2022-02-02: wip(kafka): still hacking on producer
 // 2022-03-12: docs(kafka): readme: dlq
 // 2022-04-04: feat(kafka): add consumer group
+// 2022-04-21: fix(kafka): unbreak consumer group
