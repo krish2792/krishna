@@ -23,3 +23,4 @@
 # 2022-02-05: chore: update distroless base config
 # 2022-03-01: refactor: flatten healthcheck
 # 2022-03-23: docs(docker): readme: compose stack
+# 2022-04-22: refactor: collapse distroless base
