@@ -10,3 +10,4 @@
 // 2021-10-31: feat: first pass at tag pages
 // 2021-11-20: chore: rename file
 // 2021-12-03: add missing import
+// 2022-04-24: refactor: inline syntax highlight
