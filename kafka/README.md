@@ -6,3 +6,4 @@ Kafka producer/consumer.
 - 2022-01-23: perf(kafka): cache compression
 - 2022-03-06: style(kafka): lint pass
 - 2022-03-27: refactor(kafka): inline compression
+- 2022-04-24: feat(kafka): rough partition keying
