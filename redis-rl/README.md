@@ -15,3 +15,4 @@ Token bucket on redis.
 - 2022-04-16: oops
 - 2022-04-21: better wording
 - 2022-04-24: oops typo
+- 2022-05-04: wip(rl): partial fail open
