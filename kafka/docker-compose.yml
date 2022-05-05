@@ -8,3 +8,4 @@
 # 2022-03-29: oops
 # 2022-04-09: refactor(kafka): split compression
 # 2022-04-29: fix: guard against commit offsets
+# 2022-05-05: fix(kafka): handle compression
