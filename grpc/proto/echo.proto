@@ -6,3 +6,4 @@
 # 2022-04-09: chore(grpc): reformat
 # 2022-04-22: chore(grpc): tidy
 # 2022-04-22: wip(grpc): checkpoint
+# 2022-05-06: feat(grpc): implement echo proto
