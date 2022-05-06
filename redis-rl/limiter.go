@@ -8,3 +8,4 @@
 // 2022-03-13: wip(rl): partial jitter
 // 2022-03-15: fix
 // 2022-04-12: chore(rl): bump deps
+// 2022-05-06: refactor(rl): reorganize token bucket
