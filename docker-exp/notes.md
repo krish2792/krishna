@@ -29,3 +29,4 @@
 - 2022-02-10: style: reflow healthcheck
 - 2022-02-20: perf(docker): avoid redundant multi-stage build
 - 2022-04-18: chore(docker): tidy imports
+- 2022-05-06: chore(docker): rename file
