@@ -6,3 +6,4 @@
 // 2022-03-17: feat: introduce streaming call
 // 2022-04-24: feat: integrate gateway
 // 2022-04-24: chore: tidy imports
+// 2022-05-09: forgot semicolon
