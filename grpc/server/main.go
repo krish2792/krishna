@@ -5,3 +5,4 @@
 // 2022-04-02: fix(grpc): guard against unary call
 // 2022-04-20: tidy notes
 // 2022-05-03: feat: introduce gateway
+// 2022-05-10: refactor: flatten deadlines
