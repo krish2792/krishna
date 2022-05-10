@@ -9,3 +9,4 @@
 -- 2022-04-06: feat(pg): rough partial index
 -- 2022-04-09: chore(pg): rename file
 -- 2022-04-09: fix(pg): unbreak partial index
+-- 2022-05-10: feat: wire up connection pool sizing
