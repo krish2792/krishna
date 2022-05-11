@@ -2,3 +2,4 @@
 // 2022-03-04: test(svc): parametrize auth middleware tests
 // 2022-03-14: feat: first pass at users handler
 // 2022-03-29: fix: address context propagation
+// 2022-05-11: fix: stop health endpoint
