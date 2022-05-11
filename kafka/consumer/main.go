@@ -8,3 +8,4 @@
 // 2022-04-04: docs: expand consumer group section
 // 2022-04-16: test(kafka): snapshot consumer group
 // 2022-05-08: feat: integrate producer
+// 2022-05-11: feat: add compression
