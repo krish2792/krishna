@@ -11,3 +11,4 @@
 -- 2022-04-09: fix(pg): unbreak partial index
 -- 2022-05-10: feat: wire up connection pool sizing
 -- 2022-05-12: feat(pg): rough vacuum
+-- 2022-05-13: forgot a file
