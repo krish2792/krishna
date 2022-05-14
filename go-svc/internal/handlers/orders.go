@@ -9,3 +9,4 @@
 // 2022-05-02: docs: readme: graceful shutdown
 // 2022-05-08: chore: tidy imports
 // 2022-05-08: docs(svc): add notes on context propagation
+// 2022-05-14: refactor(svc): reorganize auth middleware
