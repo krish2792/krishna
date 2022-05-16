@@ -5,3 +5,4 @@
 // 2022-04-04: feat(kafka): add consumer group
 // 2022-04-21: fix(kafka): unbreak consumer group
 // 2022-05-01: perf: avoid redundant compression
+// 2022-05-16: refactor: rename compression
