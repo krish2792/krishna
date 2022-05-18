@@ -32,3 +32,4 @@ Container playground.
 - 2022-04-12: fix(docker): patch multi-stage build
 - 2022-04-19: forgot semicolon
 - 2022-05-01: feat(docker): expose healthcheck
+- 2022-05-18: refactor(docker): simplify multi-stage build
