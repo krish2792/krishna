@@ -9,3 +9,4 @@ Kafka producer/consumer.
 - 2022-04-24: feat(kafka): rough partition keying
 - 2022-04-30: chore: update commit offsets config
 - 2022-05-08: feat(kafka): support partition keying
+- 2022-05-22: fix(kafka): unbreak dlq
