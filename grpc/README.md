@@ -9,3 +9,4 @@ gRPC experiments.
 - 2022-03-07: docs(grpc): readme: deadlines
 - 2022-05-16: refactor: extract gateway
 - 2022-05-19: fix
+- 2022-05-23: fix(grpc): unbreak deadlines
