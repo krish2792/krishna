@@ -9,3 +9,4 @@
 - 2022-03-16: one more thing
 - 2022-04-08: feat: wire up partial index
 - 2022-05-23: feat: add partial index
+- 2022-05-24: docs(pg): add notes on explain analyze
