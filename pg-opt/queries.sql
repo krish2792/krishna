@@ -12,3 +12,4 @@
 -- 2022-05-10: feat: wire up connection pool sizing
 -- 2022-05-12: feat(pg): rough vacuum
 -- 2022-05-13: forgot a file
+-- 2022-05-25: wip(pg): saving progress
