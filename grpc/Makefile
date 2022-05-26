@@ -5,3 +5,4 @@
 # 2022-03-26: feat(grpc): introduce gateway
 # 2022-04-27: chore(grpc): reformat
 # 2022-04-30: feat(grpc): rough reflection
+# 2022-05-26: feat(grpc): wire up tls
