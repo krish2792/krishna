@@ -2,3 +2,4 @@
 # 2022-03-03: feat(svc): integrate health endpoint
 # 2022-04-09: refactor: split metrics
 # 2022-04-24: style: reflow context propagation
+# 2022-06-04: test: cover context propagation edge case
