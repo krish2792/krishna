@@ -10,3 +10,4 @@ gRPC experiments.
 - 2022-05-16: refactor: extract gateway
 - 2022-05-19: fix
 - 2022-05-23: fix(grpc): unbreak deadlines
+- 2022-06-05: perf(grpc): avoid redundant interceptors
