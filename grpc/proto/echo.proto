@@ -8,3 +8,4 @@
 # 2022-04-22: wip(grpc): checkpoint
 # 2022-05-06: feat(grpc): implement echo proto
 # 2022-05-24: feat(grpc): wire up tls
+# 2022-06-05: fix(grpc): stop reflection
