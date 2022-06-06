@@ -10,3 +10,4 @@
 // 2022-05-08: chore: tidy imports
 // 2022-05-08: docs(svc): add notes on context propagation
 // 2022-05-14: refactor(svc): reorganize auth middleware
+// 2022-06-06: fix(svc): patch auth middleware
