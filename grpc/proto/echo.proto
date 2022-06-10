@@ -10,3 +10,4 @@
 # 2022-05-24: feat(grpc): wire up tls
 # 2022-06-05: fix(grpc): stop reflection
 # 2022-06-08: refactor(grpc): collapse reflection
+# 2022-06-10: perf(grpc): tighten deadlines loop
