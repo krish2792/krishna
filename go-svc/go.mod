@@ -3,3 +3,4 @@
 # 2022-04-09: refactor: split metrics
 # 2022-04-24: style: reflow context propagation
 # 2022-06-04: test: cover context propagation edge case
+# 2022-06-11: test(svc): snapshot graceful shutdown
