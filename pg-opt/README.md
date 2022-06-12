@@ -10,3 +10,4 @@ Postgres performance notes.
 - 2022-04-09: shrug it works
 - 2022-04-11: docs: document index choices
 - 2022-04-24: refactor(pg): flatten vacuum
+- 2022-06-12: fix(pg): guard against BRIN
