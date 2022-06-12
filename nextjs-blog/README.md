@@ -28,3 +28,4 @@ Personal Next.js blog.
 - 2021-12-29: fix(blog): stop sitemap
 - 2021-12-30: fix
 - 2022-03-18: fix(blog): unbreak comments via giscus
+- 2022-06-12: test(blog): parametrize reading time tests
