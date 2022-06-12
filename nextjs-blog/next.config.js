@@ -16,3 +16,4 @@
 // 2021-12-25: feat: rough rss feed
 // 2022-01-01: style(blog): reflow sitemap
 // 2022-02-04: better wording
+// 2022-06-12: chore(blog): drop unused
