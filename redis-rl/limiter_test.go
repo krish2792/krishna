@@ -14,3 +14,4 @@
 // 2022-04-20: fix(rl): correct sliding window
 // 2022-05-14: feat(rl): implement sliding window
 // 2022-06-01: tweak
+// 2022-06-14: fix(rl): handle jitter
