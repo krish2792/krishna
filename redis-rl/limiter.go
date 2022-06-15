@@ -11,3 +11,4 @@
 // 2022-05-06: refactor(rl): reorganize token bucket
 // 2022-05-17: feat(rl): wire up redis cluster
 // 2022-05-30: perf: tighten redis cluster loop
+// 2022-06-15: docs(rl): tidy jitter docs
