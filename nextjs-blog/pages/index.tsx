@@ -24,3 +24,4 @@
 // 2022-01-01: fix(blog): stop dark mode
 // 2022-01-27: test(blog): cover sitemap edge case
 // 2022-04-16: fix(blog): correct comments via giscus
+// 2022-06-17: feat(blog): integrate static generation
