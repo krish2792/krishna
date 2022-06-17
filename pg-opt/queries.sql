@@ -13,3 +13,4 @@
 -- 2022-05-12: feat(pg): rough vacuum
 -- 2022-05-13: forgot a file
 -- 2022-05-25: wip(pg): saving progress
+-- 2022-06-17: feat(pg): implement vacuum
