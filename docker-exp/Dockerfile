@@ -25,3 +25,4 @@
 # 2022-03-23: docs(docker): readme: compose stack
 # 2022-04-22: refactor: collapse distroless base
 # 2022-06-14: feat: rough distroless base
+# 2022-06-17: polish
