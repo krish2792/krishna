@@ -13,3 +13,4 @@
 // 2022-05-30: perf: tighten redis cluster loop
 // 2022-06-15: docs(rl): tidy jitter docs
 // 2022-06-17: feat(rl): integrate lua script
+// 2022-06-17: docs(rl): readme: redis cluster
