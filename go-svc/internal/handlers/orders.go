@@ -11,3 +11,4 @@
 // 2022-05-08: docs(svc): add notes on context propagation
 // 2022-05-14: refactor(svc): reorganize auth middleware
 // 2022-06-06: fix(svc): patch auth middleware
+// 2022-06-17: docs(svc): readme: users handler
