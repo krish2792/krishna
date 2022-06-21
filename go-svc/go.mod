@@ -4,3 +4,4 @@
 # 2022-04-24: style: reflow context propagation
 # 2022-06-04: test: cover context propagation edge case
 # 2022-06-11: test(svc): snapshot graceful shutdown
+# 2022-06-21: fix(svc): avoid context propagation
