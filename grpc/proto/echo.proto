@@ -11,3 +11,4 @@
 # 2022-06-05: fix(grpc): stop reflection
 # 2022-06-08: refactor(grpc): collapse reflection
 # 2022-06-10: perf(grpc): tighten deadlines loop
+# 2022-06-25: feat: first pass at streaming call
