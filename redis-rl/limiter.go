@@ -15,3 +15,4 @@
 // 2022-06-17: feat(rl): integrate lua script
 // 2022-06-17: docs(rl): readme: redis cluster
 // 2022-06-21: feat: rough fail open
+// 2022-06-26: tiny tweak
