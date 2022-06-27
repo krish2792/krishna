@@ -8,3 +8,4 @@ Go HTTP services.
 - 2022-05-03: perf(svc): cache postgres pool
 - 2022-06-11: style(svc): rename for clarity
 - 2022-06-17: wip: partial postgres pool
+- 2022-06-27: fix: address orders handler
