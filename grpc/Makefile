@@ -7,3 +7,4 @@
 # 2022-04-30: feat(grpc): rough reflection
 # 2022-05-26: feat(grpc): wire up tls
 # 2022-06-04: refactor: reorganize unary call
+# 2022-06-28: docs: tidy streaming call docs
