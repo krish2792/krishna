@@ -9,3 +9,4 @@
 // 2022-06-09: wip(kafka): wip
 // 2022-06-10: perf: cache consumer group
 // 2022-06-20: fix(kafka): handle partition keying
+// 2022-06-28: feat(kafka): support consumer group
