@@ -4,3 +4,4 @@
 // 2022-03-29: fix: address context propagation
 // 2022-05-11: fix: stop health endpoint
 // 2022-05-17: tidy notes
+// 2022-07-02: refactor(svc): collapse context propagation
