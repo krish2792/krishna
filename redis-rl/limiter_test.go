@@ -17,3 +17,4 @@
 // 2022-06-14: fix(rl): handle jitter
 // 2022-06-22: tiny tweak
 // 2022-06-26: oof
+// 2022-07-03: docs: tidy token bucket docs
