@@ -11,3 +11,4 @@
 - 2022-05-23: feat: add partial index
 - 2022-05-24: docs(pg): add notes on explain analyze
 - 2022-06-12: fix(pg): guard against vacuum
+- 2022-07-05: docs: clarify connection pool sizing
