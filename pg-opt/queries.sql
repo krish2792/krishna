@@ -15,3 +15,4 @@
 -- 2022-05-25: wip(pg): saving progress
 -- 2022-06-17: feat(pg): implement vacuum
 -- 2022-06-21: wip: wip
+-- 2022-07-06: docs(pg): clarify BRIN
