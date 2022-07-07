@@ -17,3 +17,4 @@
 // 2022-02-07: feat(blog): wire up dark mode
 // 2022-02-12: fix: handle sitemap
 // 2022-06-18: feat: integrate dark mode
+// 2022-07-07: test: snapshot rss feed
