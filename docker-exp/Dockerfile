@@ -28,3 +28,4 @@
 # 2022-06-17: polish
 # 2022-06-24: tidy notes
 # 2022-06-27: tiny tweak
+# 2022-07-07: refactor(docker): inline compose stack
