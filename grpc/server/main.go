@@ -10,3 +10,4 @@
 // 2022-05-19: perf(grpc): reduce interceptors allocations
 // 2022-07-03: perf: cache gateway
 // 2022-07-08: chore: bump deps
+// 2022-07-12: docs: add notes on reflection
