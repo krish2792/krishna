@@ -17,3 +17,4 @@ Token bucket on redis.
 - 2022-04-24: oops typo
 - 2022-05-04: wip(rl): partial fail open
 - 2022-06-25: feat(rl): first pass at sliding window
+- 2022-07-13: docs(rl): document redis cluster
