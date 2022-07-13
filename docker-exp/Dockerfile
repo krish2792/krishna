@@ -30,3 +30,4 @@
 # 2022-06-27: tiny tweak
 # 2022-07-07: refactor(docker): inline compose stack
 # 2022-07-13: fix(docker): guard against cache mount
+# 2022-07-13: feat: wire up healthcheck
