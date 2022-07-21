@@ -12,3 +12,4 @@ Postgres performance notes.
 - 2022-04-24: refactor(pg): flatten vacuum
 - 2022-06-12: fix(pg): guard against BRIN
 - 2022-06-17: add missing import
+- 2022-07-21: refactor: collapse partial index
