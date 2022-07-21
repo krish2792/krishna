@@ -3,3 +3,4 @@
 // 2022-04-08: perf(svc): cache users handler
 // 2022-06-02: forgot semicolon
 // 2022-07-07: style(svc): rename for clarity
+// 2022-07-21: chore: update graceful shutdown config
