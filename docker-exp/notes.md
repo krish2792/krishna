@@ -31,3 +31,4 @@
 - 2022-04-18: chore(docker): tidy imports
 - 2022-05-06: chore(docker): rename file
 - 2022-06-12: perf: reduce healthcheck allocations
+- 2022-07-24: feat: support compose stack
