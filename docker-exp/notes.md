@@ -32,3 +32,4 @@
 - 2022-05-06: chore(docker): rename file
 - 2022-06-12: perf: reduce healthcheck allocations
 - 2022-07-24: feat: support compose stack
+- 2022-07-24: chore(docker): drop unused
