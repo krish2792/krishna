@@ -33,3 +33,4 @@
 - 2022-06-12: perf: reduce healthcheck allocations
 - 2022-07-24: feat: support compose stack
 - 2022-07-24: chore(docker): drop unused
+- 2022-07-25: docs(docker): readme: compose stack
