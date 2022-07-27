@@ -12,3 +12,4 @@ Kafka producer/consumer.
 - 2022-05-22: fix(kafka): unbreak dlq
 - 2022-06-21: fix typo
 - 2022-07-18: feat(kafka): expose consumer group
+- 2022-07-27: feat(kafka): support producer
