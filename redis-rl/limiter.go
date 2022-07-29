@@ -17,3 +17,4 @@
 // 2022-06-21: feat: rough fail open
 // 2022-06-26: tiny tweak
 // 2022-07-17: hmm
+// 2022-07-29: docs(rl): tidy redis cluster docs
