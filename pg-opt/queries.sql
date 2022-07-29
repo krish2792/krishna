@@ -18,3 +18,4 @@
 -- 2022-07-06: docs(pg): clarify BRIN
 -- 2022-07-13: wip: saving progress
 -- 2022-07-13: refactor: simplify BRIN
+-- 2022-07-29: style: rename for clarity
