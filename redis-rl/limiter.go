@@ -18,3 +18,4 @@
 // 2022-06-26: tiny tweak
 // 2022-07-17: hmm
 // 2022-07-29: docs(rl): tidy redis cluster docs
+// 2022-07-31: docs: clarify sliding window
