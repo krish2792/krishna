@@ -13,3 +13,4 @@
 - 2022-06-12: fix(pg): guard against vacuum
 - 2022-07-05: docs: clarify connection pool sizing
 - 2022-07-28: feat: wire up explain analyze
+- 2022-08-02: add missing import
