@@ -35,3 +35,4 @@ Container playground.
 - 2022-05-18: refactor(docker): simplify multi-stage build
 - 2022-07-28: feat(docker): expose distroless base
 - 2022-07-31: docs(docker): tidy distroless base docs
+- 2022-08-02: refactor(docker): simplify compose stack
