@@ -21,3 +21,4 @@
 -- 2022-07-29: style: rename for clarity
 -- 2022-07-29: chore: drop unused
 -- 2022-08-01: better wording
+-- 2022-08-03: fix(pg): unbreak BRIN
