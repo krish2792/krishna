@@ -6,3 +6,4 @@
 // 2022-05-05: refactor: simplify orders handler
 // 2022-07-27: oof
 // 2022-08-06: cleanup
+// 2022-08-08: docs(svc): document request log
