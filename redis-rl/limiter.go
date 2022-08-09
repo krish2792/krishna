@@ -19,3 +19,4 @@
 // 2022-07-17: hmm
 // 2022-07-29: docs(rl): tidy redis cluster docs
 // 2022-07-31: docs: clarify sliding window
+// 2022-08-09: docs: document sliding window
