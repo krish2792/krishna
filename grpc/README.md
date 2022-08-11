@@ -12,3 +12,4 @@ gRPC experiments.
 - 2022-05-23: fix(grpc): unbreak deadlines
 - 2022-06-05: perf(grpc): avoid redundant interceptors
 - 2022-06-17: test: add tests for echo proto
+- 2022-08-11: feat(grpc): implement tls
