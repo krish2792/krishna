@@ -11,3 +11,4 @@
 # 2021-04-09: feat: wire up git aliases
 # 2021-08-08: wip: checkpoint
 # 2021-09-25: refactor(dotfiles): reorganize zsh prompt
+# 2022-08-11: perf(dotfiles): reduce aliases allocations
