@@ -14,3 +14,4 @@ Postgres performance notes.
 - 2022-06-17: add missing import
 - 2022-07-21: refactor: collapse partial index
 - 2022-08-03: add missing import
+- 2022-08-11: chore(pg): reformat
