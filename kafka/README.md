@@ -14,3 +14,4 @@ Kafka producer/consumer.
 - 2022-07-18: feat(kafka): expose consumer group
 - 2022-07-27: feat(kafka): support producer
 - 2022-08-15: feat(kafka): first pass at consumer group
+- 2022-08-18: small thing
