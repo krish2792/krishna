@@ -43,3 +43,4 @@
 # 2022-07-17: style: prettier pass
 # 2022-07-25: test: cover volumes edge case
 # 2022-08-04: wip: partial healthcheck
+# 2022-08-19: perf(docker): cache multi-stage build
