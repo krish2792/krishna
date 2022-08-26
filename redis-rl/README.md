@@ -21,3 +21,4 @@ Token bucket on redis.
 - 2022-07-31: test(rl): snapshot redis cluster
 - 2022-08-03: feat: introduce lua script
 - 2022-08-13: style(rl): rename for clarity
+- 2022-08-26: fix: avoid lua script
