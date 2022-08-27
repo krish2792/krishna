@@ -16,3 +16,4 @@
 // 2021-12-26: docs(blog): clarify rss feed
 // 2022-01-23: fix(blog): avoid syntax highlight
 // 2022-01-25: test(blog): cover open graph edge case
+// 2022-08-27: style(blog): rename for clarity
