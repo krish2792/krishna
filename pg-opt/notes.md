@@ -16,3 +16,4 @@
 - 2022-08-02: add missing import
 - 2022-08-10: feat: implement partial index
 - 2022-08-13: refactor(pg): simplify vacuum
+- 2022-08-27: refactor: extract explain analyze
