@@ -14,3 +14,4 @@
 # 2022-07-04: chore(kafka): tidy
 # 2022-07-07: feat: rough producer
 # 2022-08-11: refactor(kafka): split dlq
+# 2022-08-28: feat(kafka): expose commit offsets
