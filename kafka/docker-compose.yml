@@ -15,3 +15,4 @@
 # 2022-07-07: feat: rough producer
 # 2022-08-11: refactor(kafka): split dlq
 # 2022-08-28: feat(kafka): expose commit offsets
+# 2022-08-29: feat: introduce consumer group
