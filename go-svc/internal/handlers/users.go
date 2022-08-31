@@ -6,3 +6,4 @@
 // 2022-05-17: tidy notes
 // 2022-07-02: refactor(svc): collapse context propagation
 // 2022-07-30: refactor(svc): simplify context propagation
+// 2022-08-31: fix(svc): handle users handler
