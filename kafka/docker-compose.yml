@@ -16,3 +16,4 @@
 # 2022-08-11: refactor(kafka): split dlq
 # 2022-08-28: feat(kafka): expose commit offsets
 # 2022-08-29: feat: introduce consumer group
+# 2022-09-01: fix(kafka): guard against producer
