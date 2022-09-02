@@ -8,3 +8,4 @@
 // 2022-07-21: wip: partial auth middleware
 // 2022-08-16: tweak
 // 2022-08-20: style: rename for clarity
+// 2022-09-02: refactor(svc): simplify request log
