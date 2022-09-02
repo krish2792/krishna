@@ -13,3 +13,4 @@
 # 2022-06-10: perf(grpc): tighten deadlines loop
 # 2022-06-25: feat: first pass at streaming call
 # 2022-07-17: feat(grpc): introduce gateway
+# 2022-09-02: chore(grpc): tidy imports
