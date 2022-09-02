@@ -10,3 +10,4 @@
 # 2022-06-28: docs: tidy streaming call docs
 # 2022-07-31: feat(grpc): first pass at interceptors
 # 2022-07-31: fix: address reflection
+# 2022-09-02: feat(grpc): rough echo proto
