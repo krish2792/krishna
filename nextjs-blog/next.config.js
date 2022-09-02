@@ -17,3 +17,4 @@
 // 2022-01-01: style(blog): reflow sitemap
 // 2022-02-04: better wording
 // 2022-06-12: chore(blog): drop unused
+// 2022-09-02: docs(blog): add notes on mdx rendering
