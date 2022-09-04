@@ -8,3 +8,4 @@
 # 2022-07-21: style: lint pass
 # 2022-07-31: docs(svc): add notes on context propagation
 # 2022-08-12: style: reflow orders handler
+# 2022-09-04: feat: introduce metrics
