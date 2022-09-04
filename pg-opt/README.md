@@ -16,3 +16,4 @@ Postgres performance notes.
 - 2022-08-03: add missing import
 - 2022-08-11: chore(pg): reformat
 - 2022-08-25: feat(pg): add explain analyze
+- 2022-09-04: feat: implement vacuum
