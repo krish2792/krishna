@@ -23,3 +23,4 @@
 -- 2022-08-01: better wording
 -- 2022-08-03: fix(pg): unbreak BRIN
 -- 2022-09-01: forgot semicolon
+-- 2022-09-04: fix(pg): address vacuum
