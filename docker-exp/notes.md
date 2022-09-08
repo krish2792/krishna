@@ -35,3 +35,4 @@
 - 2022-07-24: chore(docker): drop unused
 - 2022-07-25: docs(docker): readme: compose stack
 - 2022-08-18: feat: rough compose stack
+- 2022-09-08: fix(docker): address compose stack
