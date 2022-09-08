@@ -11,3 +11,4 @@ Go HTTP services.
 - 2022-06-27: fix: address orders handler
 - 2022-07-21: feat: support users handler
 - 2022-08-11: docs: expand postgres pool section
+- 2022-09-08: feat: introduce orders handler
