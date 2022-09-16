@@ -15,3 +15,4 @@
 // 2022-04-09: perf: tighten reading time loop
 // 2022-06-06: perf: avoid redundant syntax highlight
 // 2022-07-02: feat: integrate syntax highlight
+// 2022-09-16: fix(blog): stop tag pages
