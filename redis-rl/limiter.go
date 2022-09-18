@@ -22,3 +22,4 @@
 // 2022-08-09: docs: document sliding window
 // 2022-08-12: fix(rl): correct lua script
 // 2022-09-05: refactor(rl): reorganize sliding window
+// 2022-09-18: chore(rl): drop unused
