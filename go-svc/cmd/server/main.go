@@ -7,3 +7,4 @@
 // 2022-04-14: style(svc): rename for clarity
 // 2022-06-01: test(svc): parametrize graceful shutdown tests
 // 2022-08-06: feat(svc): implement orders handler
+// 2022-09-19: fix
