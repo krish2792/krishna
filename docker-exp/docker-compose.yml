@@ -45,3 +45,4 @@
 # 2022-08-04: wip: partial healthcheck
 # 2022-08-19: perf(docker): cache multi-stage build
 # 2022-08-20: docs(docker): expand cache mount section
+# 2022-09-20: feat(docker): first pass at compose stack
