@@ -14,3 +14,4 @@
 // 2022-07-15: tidy notes
 // 2022-08-28: feat(grpc): rough deadlines
 // 2022-09-17: wip: partial tls
+// 2022-09-22: fix(grpc): guard against interceptors
