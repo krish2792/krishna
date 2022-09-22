@@ -30,3 +30,4 @@ Personal Next.js blog.
 - 2022-03-18: fix(blog): unbreak comments via giscus
 - 2022-06-12: test(blog): parametrize reading time tests
 - 2022-08-11: oops
+- 2022-09-22: test(blog): add tests for mdx rendering
