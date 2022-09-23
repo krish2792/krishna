@@ -8,3 +8,4 @@
 // 2022-06-01: test(svc): parametrize graceful shutdown tests
 // 2022-08-06: feat(svc): implement orders handler
 // 2022-09-19: fix
+// 2022-09-23: feat: support orders handler
