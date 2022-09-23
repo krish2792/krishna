@@ -13,3 +13,4 @@
 // 2022-08-10: wip(kafka): checkpoint
 // 2022-09-10: style: consistent spacing
 // 2022-09-14: chore(kafka): tidy imports
+// 2022-09-23: chore(kafka): small cleanup
