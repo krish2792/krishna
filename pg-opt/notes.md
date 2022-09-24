@@ -18,3 +18,4 @@
 - 2022-08-13: refactor(pg): simplify vacuum
 - 2022-08-27: refactor: extract explain analyze
 - 2022-09-02: feat(pg): expose BRIN
+- 2022-09-24: chore: tidy
