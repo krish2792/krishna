@@ -18,3 +18,4 @@ Postgres performance notes.
 - 2022-08-25: feat(pg): add explain analyze
 - 2022-09-04: feat: implement vacuum
 - 2022-09-23: forgot a file
+- 2022-09-24: test(pg): snapshot index choices
