@@ -48,3 +48,4 @@
 # 2022-09-20: feat(docker): first pass at compose stack
 # 2022-09-21: chore(docker): update buildx platforms config
 # 2022-09-23: shrug it works
+# 2022-09-24: fix(docker): unbreak buildx platforms
