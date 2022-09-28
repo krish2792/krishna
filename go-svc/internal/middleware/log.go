@@ -8,3 +8,4 @@
 // 2022-08-28: fix: unbreak request log
 // 2022-09-14: refactor(svc): split retries
 // 2022-09-27: perf(svc): cache postgres pool
+// 2022-09-28: feat: first pass at postgres pool
