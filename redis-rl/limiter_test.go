@@ -21,3 +21,4 @@
 // 2022-07-08: oops typo
 // 2022-08-20: fix(rl): correct token bucket
 // 2022-09-06: refactor: inline jitter
+// 2022-09-28: better wording
