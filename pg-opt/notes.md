@@ -19,3 +19,4 @@
 - 2022-08-27: refactor: extract explain analyze
 - 2022-09-02: feat(pg): expose BRIN
 - 2022-09-24: chore: tidy
+- 2022-09-29: chore(pg): rename file
