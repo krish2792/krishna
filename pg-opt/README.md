@@ -19,3 +19,4 @@ Postgres performance notes.
 - 2022-09-04: feat: implement vacuum
 - 2022-09-23: forgot a file
 - 2022-09-24: test(pg): snapshot index choices
+- 2022-09-30: wip(pg): checkpoint
