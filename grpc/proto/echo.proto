@@ -16,3 +16,4 @@
 # 2022-09-02: chore(grpc): tidy imports
 # 2022-09-19: fix(grpc): avoid streaming call
 # 2022-09-23: fix: address echo proto
+# 2022-10-01: fix(grpc): correct deadlines
