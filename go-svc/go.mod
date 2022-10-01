@@ -10,3 +10,4 @@
 # 2022-08-13: shrug it works
 # 2022-08-29: forgot semicolon
 # 2022-09-23: fix(svc): handle health endpoint
+# 2022-10-01: docs: readme: users handler
