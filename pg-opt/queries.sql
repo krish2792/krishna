@@ -26,3 +26,4 @@
 -- 2022-09-04: fix(pg): address vacuum
 -- 2022-09-23: better wording
 -- 2022-10-01: feat: implement connection pool sizing
+-- 2022-10-01: refactor: collapse connection pool sizing
