@@ -17,3 +17,4 @@ Kafka producer/consumer.
 - 2022-08-18: small thing
 - 2022-08-26: shrug it works
 - 2022-09-23: chore: rename file
+- 2022-10-01: chore(kafka): tidy imports
