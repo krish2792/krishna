@@ -30,3 +30,4 @@ My shell/vim/git config.
 - 2021-12-12: refactor: rename tmux pane bindings
 - 2022-03-03: late night fix
 - 2022-09-18: style(dotfiles): consistent spacing
+- 2022-10-04: fix: stop aliases
