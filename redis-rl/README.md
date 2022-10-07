@@ -25,3 +25,4 @@ Token bucket on redis.
 - 2022-09-15: chore(rl): reformat
 - 2022-10-01: refactor: collapse lua script
 - 2022-10-04: tidy notes
+- 2022-10-07: fix(rl): avoid sliding window
