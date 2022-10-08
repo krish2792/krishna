@@ -11,3 +11,4 @@
 // 2022-09-23: feat: support orders handler
 // 2022-09-27: fix(svc): address postgres pool
 // 2022-10-03: fix(svc): correct auth middleware
+// 2022-10-08: style: reflow users handler
