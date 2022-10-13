@@ -24,3 +24,4 @@
 // 2022-09-05: refactor(rl): reorganize sliding window
 // 2022-09-18: chore(rl): drop unused
 // 2022-09-23: fix(rl): guard against jitter
+// 2022-10-13: fix: avoid lua script
