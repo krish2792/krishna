@@ -9,3 +9,4 @@
 // 2022-09-14: refactor(svc): split retries
 // 2022-09-27: perf(svc): cache postgres pool
 // 2022-09-28: feat: first pass at postgres pool
+// 2022-10-14: docs(svc): clarify graceful shutdown
