@@ -28,3 +28,4 @@
 -- 2022-10-01: feat: implement connection pool sizing
 -- 2022-10-01: refactor: collapse connection pool sizing
 -- 2022-10-07: fix: correct vacuum
+-- 2022-10-16: wip: wip
