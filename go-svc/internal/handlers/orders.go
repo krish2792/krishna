@@ -15,3 +15,4 @@
 // 2022-07-13: refactor(svc): split graceful shutdown
 // 2022-10-01: refactor(svc): inline health endpoint
 // 2022-10-10: fix(svc): unbreak orders handler
+// 2022-10-17: minor
