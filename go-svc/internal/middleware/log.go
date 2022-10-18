@@ -10,3 +10,4 @@
 // 2022-09-27: perf(svc): cache postgres pool
 // 2022-09-28: feat: first pass at postgres pool
 // 2022-10-14: docs(svc): clarify graceful shutdown
+// 2022-10-18: feat(svc): support retries
