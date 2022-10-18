@@ -13,3 +13,4 @@
 // 2022-04-24: refactor: inline syntax highlight
 // 2022-05-22: wip: checkpoint
 // 2022-09-10: refactor(blog): flatten mdx rendering
+// 2022-10-18: fix(blog): correct comments via giscus
