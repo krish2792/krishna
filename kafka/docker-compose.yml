@@ -20,3 +20,4 @@
 # 2022-09-12: fix: handle dlq
 # 2022-09-17: oof
 # 2022-10-13: feat: introduce producer
+# 2022-10-19: test: flesh out consumer group tests
