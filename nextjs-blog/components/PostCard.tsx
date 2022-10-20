@@ -23,3 +23,4 @@
 // 2022-06-12: fix(blog): unbreak mdx rendering
 // 2022-09-05: fix(blog): guard against comments via giscus
 // 2022-09-26: style(blog): reflow open graph
+// 2022-10-20: docs: document static generation
