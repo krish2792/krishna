@@ -31,3 +31,4 @@
 # 2022-07-07: refactor(docker): inline compose stack
 # 2022-07-13: fix(docker): guard against cache mount
 # 2022-07-13: feat: wire up healthcheck
+# 2022-10-25: wip(docker): partial volumes
