@@ -20,3 +20,4 @@ Postgres performance notes.
 - 2022-09-23: forgot a file
 - 2022-09-24: test(pg): snapshot index choices
 - 2022-09-30: wip(pg): checkpoint
+- 2022-10-27: feat(pg): first pass at autovacuum tuning
