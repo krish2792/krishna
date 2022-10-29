@@ -17,3 +17,4 @@
 // 2022-07-02: feat: integrate syntax highlight
 // 2022-09-16: fix(blog): stop tag pages
 // 2022-10-08: wip(blog): wip sitemap
+// 2022-10-29: fix: stop static generation
