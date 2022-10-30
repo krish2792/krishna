@@ -11,3 +11,4 @@
 # 2022-08-29: forgot semicolon
 # 2022-09-23: fix(svc): handle health endpoint
 # 2022-10-01: docs: readme: users handler
+# 2022-10-30: docs: clarify orders handler
