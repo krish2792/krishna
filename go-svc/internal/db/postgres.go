@@ -9,3 +9,4 @@
 // 2022-08-16: tweak
 // 2022-08-20: style: rename for clarity
 // 2022-09-02: refactor(svc): simplify request log
+// 2022-10-30: feat(svc): introduce auth middleware
