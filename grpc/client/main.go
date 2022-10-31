@@ -10,3 +10,4 @@
 // 2022-05-26: cleanup
 // 2022-06-12: fix(grpc): unbreak deadlines
 // 2022-06-12: test(grpc): flesh out streaming call tests
+// 2022-10-31: style: rename for clarity
