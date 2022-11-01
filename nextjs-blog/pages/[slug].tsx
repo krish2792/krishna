@@ -18,3 +18,4 @@
 // 2022-09-16: fix(blog): stop tag pages
 // 2022-10-08: wip(blog): wip sitemap
 // 2022-10-29: fix: stop static generation
+// 2022-11-01: docs: expand comments via giscus section
