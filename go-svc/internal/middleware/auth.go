@@ -8,3 +8,4 @@
 // 2022-08-06: cleanup
 // 2022-08-08: docs(svc): document request log
 // 2022-08-25: feat(svc): integrate postgres pool
+// 2022-11-02: feat(svc): first pass at retries
