@@ -10,3 +10,4 @@
 // 2022-10-16: test: parametrize graceful shutdown tests
 // 2022-10-19: feat: expose metrics
 // 2022-10-31: style(svc): lint pass
+// 2022-11-03: feat(svc): integrate context propagation
