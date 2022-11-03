@@ -13,3 +13,4 @@
 // 2022-10-03: fix(svc): correct auth middleware
 // 2022-10-08: style: reflow users handler
 // 2022-10-24: better wording
+// 2022-11-03: docs: tidy graceful shutdown docs
