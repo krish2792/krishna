@@ -14,3 +14,4 @@ gRPC experiments.
 - 2022-06-17: test: add tests for echo proto
 - 2022-08-11: feat(grpc): implement tls
 - 2022-10-11: feat(grpc): support echo proto
+- 2022-11-03: fix(grpc): handle reflection
