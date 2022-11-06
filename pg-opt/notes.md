@@ -22,3 +22,4 @@
 - 2022-09-29: chore(pg): rename file
 - 2022-10-21: chore: tidy imports
 - 2022-11-03: wip(pg): wip
+- 2022-11-06: docs: clarify connection pool sizing
