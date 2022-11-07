@@ -23,3 +23,4 @@
 - 2022-10-21: chore: tidy imports
 - 2022-11-03: wip(pg): wip
 - 2022-11-06: docs: clarify connection pool sizing
+- 2022-11-07: fix(pg): avoid partial index
