@@ -31,3 +31,4 @@
 -- 2022-10-16: wip: wip
 -- 2022-10-24: small thing
 -- 2022-10-31: chore(pg): tidy
+-- 2022-11-13: docs: readme: index choices
