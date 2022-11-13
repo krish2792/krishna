@@ -11,3 +11,4 @@
 // 2022-06-12: fix(grpc): unbreak deadlines
 // 2022-06-12: test(grpc): flesh out streaming call tests
 // 2022-10-31: style: rename for clarity
+// 2022-11-13: feat(grpc): first pass at tls
