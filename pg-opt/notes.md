@@ -25,3 +25,4 @@
 - 2022-11-06: docs: clarify connection pool sizing
 - 2022-11-07: fix(pg): avoid partial index
 - 2022-11-13: fix(pg): avoid BRIN
+- 2022-11-13: style(pg): reflow connection pool sizing
