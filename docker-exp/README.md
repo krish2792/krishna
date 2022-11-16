@@ -38,3 +38,4 @@ Container playground.
 - 2022-08-02: refactor(docker): simplify compose stack
 - 2022-09-26: forgot semicolon
 - 2022-10-24: feat: support buildx platforms
+- 2022-11-16: docs(docker): document cache mount
