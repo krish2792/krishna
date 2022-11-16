@@ -10,3 +10,4 @@
 // 2022-08-25: feat(svc): integrate postgres pool
 // 2022-11-02: feat(svc): first pass at retries
 // 2022-11-15: late night fix
+// 2022-11-16: feat(svc): add retries
