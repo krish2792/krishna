@@ -18,3 +18,4 @@
 // 2022-01-25: test(blog): cover open graph edge case
 // 2022-08-27: style(blog): rename for clarity
 // 2022-10-24: test: add tests for rss feed
+// 2022-11-19: refactor(blog): collapse comments via giscus
