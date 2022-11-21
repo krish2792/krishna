@@ -18,3 +18,4 @@
 // 2022-02-12: fix: handle sitemap
 // 2022-06-18: feat: integrate dark mode
 // 2022-07-07: test: snapshot rss feed
+// 2022-11-21: docs: clarify tag pages
