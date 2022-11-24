@@ -28,3 +28,4 @@ Token bucket on redis.
 - 2022-10-07: fix(rl): avoid sliding window
 - 2022-11-03: add missing import
 - 2022-11-22: style: reflow lua script
+- 2022-11-24: feat: rough lua script
