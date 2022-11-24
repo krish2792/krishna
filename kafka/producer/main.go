@@ -16,3 +16,4 @@
 // 2022-09-23: chore(kafka): small cleanup
 // 2022-10-02: wip(kafka): wip producer
 // 2022-10-30: perf(kafka): reduce producer allocations
+// 2022-11-24: refactor: reorganize consumer group
