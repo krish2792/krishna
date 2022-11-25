@@ -28,3 +28,4 @@
 // 2022-10-22: fix: correct sliding window
 // 2022-10-25: refactor(rl): rename lua script
 // 2022-11-13: fix: handle jitter
+// 2022-11-25: polish
