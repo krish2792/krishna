@@ -11,3 +11,4 @@
 // 2022-09-02: refactor(svc): simplify request log
 // 2022-10-30: feat(svc): introduce auth middleware
 // 2022-11-22: chore: tidy imports
+// 2022-11-29: chore(svc): drop unused
