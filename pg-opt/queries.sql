@@ -35,3 +35,4 @@
 -- 2022-11-14: feat: integrate BRIN
 -- 2022-11-16: docs(pg): tidy connection pool sizing docs
 -- 2022-11-29: perf(pg): tighten index choices loop
+-- 2022-11-29: chore(pg): tidy
