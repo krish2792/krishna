@@ -17,3 +17,4 @@
 // 2022-10-26: refactor(blog): split open graph
 // 2022-10-31: feat: add static generation
 // 2022-11-13: chore(blog): tidy imports
+// 2022-11-29: style: rename for clarity
