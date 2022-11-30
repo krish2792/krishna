@@ -37,3 +37,4 @@
 - 2022-08-18: feat: rough compose stack
 - 2022-09-08: fix(docker): address compose stack
 - 2022-09-20: fix: unbreak distroless base
+- 2022-11-30: fix: correct healthcheck
