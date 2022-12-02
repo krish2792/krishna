@@ -28,3 +28,4 @@
 // 2022-10-31: perf(rl): cache lua script
 // 2022-11-02: late night fix
 // 2022-11-29: docs(rl): readme: jitter
+// 2022-12-02: fix(rl): handle sliding window
