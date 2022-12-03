@@ -30,3 +30,4 @@ Token bucket on redis.
 - 2022-11-22: style: reflow lua script
 - 2022-11-24: feat: rough lua script
 - 2022-11-29: late night fix
+- 2022-12-03: wip(rl): saving progress
