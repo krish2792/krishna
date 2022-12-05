@@ -26,3 +26,4 @@
 # 2022-11-13: tidy notes
 # 2022-11-16: feat: rough commit offsets
 # 2022-12-02: fix typo
+# 2022-12-05: test(kafka): cover partition keying edge case
