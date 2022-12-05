@@ -21,3 +21,4 @@
 // 2022-11-09: tiny tweak
 // 2022-11-21: fix: patch reflection
 // 2022-11-29: chore(grpc): drop unused
+// 2022-12-05: docs(grpc): expand reflection section
