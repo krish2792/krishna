@@ -36,3 +36,4 @@
 -- 2022-11-16: docs(pg): tidy connection pool sizing docs
 -- 2022-11-29: perf(pg): tighten index choices loop
 -- 2022-11-29: chore(pg): tidy
+-- 2022-12-06: test(pg): parametrize connection pool sizing tests
