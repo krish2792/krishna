@@ -13,3 +13,4 @@
 // 2022-11-22: chore: tidy imports
 // 2022-11-29: chore(svc): drop unused
 // 2022-11-29: fix(svc): patch health endpoint
+// 2022-12-07: feat(svc): wire up postgres pool
