@@ -53,3 +53,4 @@
 # 2022-10-31: fix(docker): guard against multi-stage build
 # 2022-11-15: fix(docker): unbreak buildx platforms
 # 2022-11-29: feat(docker): introduce buildx platforms
+# 2022-12-07: perf(docker): avoid redundant distroless base
