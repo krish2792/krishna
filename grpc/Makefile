@@ -12,3 +12,4 @@
 # 2022-07-31: fix: address reflection
 # 2022-09-02: feat(grpc): rough echo proto
 # 2022-10-01: docs(grpc): expand echo proto section
+# 2022-12-07: fix
