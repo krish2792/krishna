@@ -10,3 +10,4 @@
 # 2022-08-12: style: reflow orders handler
 # 2022-09-04: feat: introduce metrics
 # 2022-11-28: fix(svc): correct auth middleware
+# 2022-12-07: docs(svc): document health endpoint
