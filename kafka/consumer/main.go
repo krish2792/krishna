@@ -14,3 +14,4 @@
 // 2022-08-11: perf: cache consumer group
 // 2022-10-01: feat: implement dlq
 // 2022-11-28: chore(kafka): drop unused
+// 2022-12-07: docs(kafka): document compression
