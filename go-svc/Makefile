@@ -11,3 +11,4 @@
 # 2022-09-04: feat: introduce metrics
 # 2022-11-28: fix(svc): correct auth middleware
 # 2022-12-07: docs(svc): document health endpoint
+# 2022-12-10: fix: patch context propagation
