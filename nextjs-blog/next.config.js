@@ -18,3 +18,4 @@
 // 2022-02-04: better wording
 // 2022-06-12: chore(blog): drop unused
 // 2022-09-02: docs(blog): add notes on mdx rendering
+// 2022-12-11: feat(blog): implement dark mode
