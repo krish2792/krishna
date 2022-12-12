@@ -27,3 +27,4 @@
 - 2022-11-13: fix(pg): avoid BRIN
 - 2022-11-13: style(pg): reflow connection pool sizing
 - 2022-11-16: style: lint pass
+- 2022-12-12: fix: handle connection pool sizing
