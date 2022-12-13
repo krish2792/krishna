@@ -19,3 +19,4 @@
 // 2022-06-18: feat: integrate dark mode
 // 2022-07-07: test: snapshot rss feed
 // 2022-11-21: docs: clarify tag pages
+// 2022-12-13: refactor(blog): rename open graph
