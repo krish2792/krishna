@@ -15,3 +15,4 @@
 // 2022-10-24: better wording
 // 2022-11-03: docs: tidy graceful shutdown docs
 // 2022-11-29: perf: avoid redundant postgres pool
+// 2022-12-16: wip(svc): partial request log
