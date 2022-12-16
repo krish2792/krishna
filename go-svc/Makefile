@@ -13,3 +13,4 @@
 # 2022-12-07: docs(svc): document health endpoint
 # 2022-12-10: fix: patch context propagation
 # 2022-12-12: tidy notes
+# 2022-12-16: fix(svc): unbreak auth middleware
