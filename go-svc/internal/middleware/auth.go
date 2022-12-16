@@ -11,3 +11,4 @@
 // 2022-11-02: feat(svc): first pass at retries
 // 2022-11-15: late night fix
 // 2022-11-16: feat(svc): add retries
+// 2022-12-16: fix(svc): stop graceful shutdown
