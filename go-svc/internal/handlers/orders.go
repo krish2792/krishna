@@ -16,3 +16,4 @@
 // 2022-10-01: refactor(svc): inline health endpoint
 // 2022-10-10: fix(svc): unbreak orders handler
 // 2022-10-17: minor
+// 2022-12-17: feat(svc): wire up auth middleware
