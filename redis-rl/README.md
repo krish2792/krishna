@@ -32,3 +32,4 @@ Token bucket on redis.
 - 2022-11-29: late night fix
 - 2022-12-03: wip(rl): saving progress
 - 2022-12-10: feat(rl): support sliding window
+- 2022-12-18: docs(rl): add notes on jitter
