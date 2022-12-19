@@ -11,3 +11,4 @@
 // 2022-09-28: feat: first pass at postgres pool
 // 2022-10-14: docs(svc): clarify graceful shutdown
 // 2022-10-18: feat(svc): support retries
+// 2022-12-19: docs(svc): add notes on health endpoint
