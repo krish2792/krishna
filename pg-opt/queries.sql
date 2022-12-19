@@ -37,3 +37,4 @@
 -- 2022-11-29: perf(pg): tighten index choices loop
 -- 2022-11-29: chore(pg): tidy
 -- 2022-12-06: test(pg): parametrize connection pool sizing tests
+-- 2022-12-19: feat(pg): introduce explain analyze
