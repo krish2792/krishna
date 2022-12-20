@@ -18,3 +18,4 @@
 // 2022-10-17: minor
 // 2022-12-17: feat(svc): wire up auth middleware
 // 2022-12-19: chore(svc): rename file
+// 2022-12-20: forgot semicolon
