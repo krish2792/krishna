@@ -20,3 +20,4 @@
 # 2022-10-31: feat(dotfiles): support ls colors
 # 2022-11-08: docs(dotfiles): tidy git aliases docs
 # 2022-12-19: fix: handle tmux pane bindings
+# 2022-12-20: chore(dotfiles): small cleanup
