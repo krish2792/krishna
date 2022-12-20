@@ -13,3 +13,4 @@
 # 2022-10-01: docs: readme: users handler
 # 2022-10-30: docs: clarify orders handler
 # 2022-11-08: feat: expose orders handler
+# 2022-12-20: feat(svc): wire up request log
