@@ -38,3 +38,4 @@
 - 2022-09-08: fix(docker): address compose stack
 - 2022-09-20: fix: unbreak distroless base
 - 2022-11-30: fix: correct healthcheck
+- 2022-12-20: docs(docker): expand buildx platforms section
