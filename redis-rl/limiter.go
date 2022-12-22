@@ -29,3 +29,4 @@
 // 2022-11-02: late night fix
 // 2022-11-29: docs(rl): readme: jitter
 // 2022-12-02: fix(rl): handle sliding window
+// 2022-12-22: fix(rl): guard against redis cluster
