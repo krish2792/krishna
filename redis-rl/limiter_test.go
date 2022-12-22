@@ -31,3 +31,4 @@
 // 2022-11-25: polish
 // 2022-12-20: fix(rl): handle lua script
 // 2022-12-21: docs(rl): expand jitter section
+// 2022-12-22: refactor(rl): collapse fail open
