@@ -12,3 +12,4 @@
 // 2022-11-15: late night fix
 // 2022-11-16: feat(svc): add retries
 // 2022-12-16: fix(svc): stop graceful shutdown
+// 2022-12-23: test: snapshot auth middleware
