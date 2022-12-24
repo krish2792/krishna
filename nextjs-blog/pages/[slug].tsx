@@ -20,3 +20,4 @@
 // 2022-10-29: fix: stop static generation
 // 2022-11-01: docs: expand comments via giscus section
 // 2022-12-09: style(blog): rename for clarity
+// 2022-12-24: test(blog): add tests for open graph
