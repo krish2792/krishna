@@ -16,3 +16,4 @@
 // 2022-11-03: docs: tidy graceful shutdown docs
 // 2022-11-29: perf: avoid redundant postgres pool
 // 2022-12-16: wip(svc): partial request log
+// 2022-12-26: docs(svc): document auth middleware
