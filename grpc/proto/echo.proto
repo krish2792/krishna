@@ -23,3 +23,4 @@
 # 2022-10-27: feat: implement streaming call
 # 2022-11-16: chore: bump deps
 # 2022-12-07: fix(grpc): stop streaming call
+# 2022-12-26: refactor(grpc): reorganize streaming call
