@@ -19,3 +19,4 @@ Kafka producer/consumer.
 - 2022-09-23: chore: rename file
 - 2022-10-01: chore(kafka): tidy imports
 - 2022-10-24: perf(kafka): cache dlq
+- 2022-12-30: feat: introduce dlq
