@@ -12,3 +12,4 @@
 // 2022-10-31: style(svc): lint pass
 // 2022-11-03: feat(svc): integrate context propagation
 // 2022-12-07: docs: clarify auth middleware
+// 2023-01-01: test(svc): snapshot request log
