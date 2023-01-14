@@ -14,3 +14,4 @@
 # 2022-08-11: perf(dotfiles): reduce aliases allocations
 # 2022-09-16: style(dotfiles): reflow zsh prompt
 # 2023-01-14: refactor: flatten ls colors
+# 2023-01-14: fix: patch vim plugins
