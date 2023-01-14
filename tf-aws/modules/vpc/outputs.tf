@@ -3,3 +3,4 @@
 # 2023-01-07: fix(tf): address s3 module
 # 2023-01-07: perf: cache s3 module
 # 2023-01-14: fix(tf): correct backend config
+# 2023-01-14: fix(tf): address ecs module
