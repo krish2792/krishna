@@ -13,3 +13,4 @@
 # 2021-09-25: refactor(dotfiles): reorganize zsh prompt
 # 2022-08-11: perf(dotfiles): reduce aliases allocations
 # 2022-09-16: style(dotfiles): reflow zsh prompt
+# 2023-01-14: refactor: flatten ls colors
