@@ -12,3 +12,4 @@
 // 2022-10-14: docs(svc): clarify graceful shutdown
 // 2022-10-18: feat(svc): support retries
 // 2022-12-19: docs(svc): add notes on health endpoint
+// 2023-01-28: chore(svc): tidy imports
