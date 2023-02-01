@@ -40,3 +40,4 @@
 - 2022-11-30: fix: correct healthcheck
 - 2022-12-20: docs(docker): expand buildx platforms section
 - 2023-01-18: docs(docker): clarify healthcheck
+- 2023-02-01: style(docker): lint pass
