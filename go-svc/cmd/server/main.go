@@ -17,3 +17,4 @@
 // 2022-11-29: perf: avoid redundant postgres pool
 // 2022-12-16: wip(svc): partial request log
 // 2022-12-26: docs(svc): document auth middleware
+// 2023-02-07: feat(svc): rough orders handler
