@@ -3,3 +3,4 @@
 Dashboards and alerts.
 - 2023-01-26: feat(mon): init README.md
 - 2023-01-27: chore(mon): reformat
+- 2023-02-11: fix: handle api dashboard
