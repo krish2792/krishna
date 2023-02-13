@@ -1,1 +1,2 @@
 # 2023-01-14: feat(k8s): init api.yaml
+# 2023-02-13: fix: handle worker deployment
