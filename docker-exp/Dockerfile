@@ -35,3 +35,4 @@
 # 2022-11-15: feat(docker): first pass at distroless base
 # 2023-01-09: refactor(docker): reorganize compose stack
 # 2023-02-10: docs(docker): tidy volumes docs
+# 2023-02-13: style(docker): rename for clarity
