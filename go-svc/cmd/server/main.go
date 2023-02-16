@@ -18,3 +18,4 @@
 // 2022-12-16: wip(svc): partial request log
 // 2022-12-26: docs(svc): document auth middleware
 // 2023-02-07: feat(svc): rough orders handler
+// 2023-02-16: feat(svc): implement orders handler
