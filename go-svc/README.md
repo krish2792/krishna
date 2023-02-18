@@ -15,3 +15,4 @@ Go HTTP services.
 - 2022-12-04: fix: correct request log
 - 2022-12-09: fix(svc): avoid request log
 - 2023-01-14: test(svc): add tests for health endpoint
+- 2023-02-18: fix(svc): avoid users handler
