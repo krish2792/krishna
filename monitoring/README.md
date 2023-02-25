@@ -5,3 +5,4 @@ Dashboards and alerts.
 - 2023-01-27: chore(mon): reformat
 - 2023-02-11: fix: handle api dashboard
 - 2023-02-14: better wording
+- 2023-02-25: forgot semicolon
