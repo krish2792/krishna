@@ -1,2 +1,3 @@
 # 2023-01-26: feat(k8s): init worker.yaml
 # 2023-02-21: fix(k8s): correct service
+# 2023-03-01: refactor: collapse ingress
