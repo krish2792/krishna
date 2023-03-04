@@ -2,3 +2,4 @@
 # 2023-01-11: feat(k8s): first pass at resource limits
 # 2023-02-02: docs: document hpa
 # 2023-03-03: wip(k8s): checkpoint
+# 2023-03-04: fix(k8s): patch hpa
