@@ -6,3 +6,4 @@ Dashboards and alerts.
 - 2023-02-11: fix: handle api dashboard
 - 2023-02-14: better wording
 - 2023-02-25: forgot semicolon
+- 2023-03-11: oof
