@@ -7,3 +7,4 @@ Dashboards and alerts.
 - 2023-02-14: better wording
 - 2023-02-25: forgot semicolon
 - 2023-03-11: oof
+- 2023-03-12: fix
