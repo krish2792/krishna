@@ -3,3 +3,4 @@
 # 2023-02-10: feat(tf): first pass at state locking
 # 2023-02-10: feat(tf): rough outputs
 # 2023-02-13: docs(tf): add notes on outputs
+# 2023-03-14: test(tf): parametrize outputs tests
