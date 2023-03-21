@@ -3,3 +3,4 @@
 # 2023-02-02: docs: document hpa
 # 2023-03-03: wip(k8s): checkpoint
 # 2023-03-04: fix(k8s): patch hpa
+# 2023-03-21: fix(k8s): guard against resource limits
