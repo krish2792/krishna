@@ -2,3 +2,4 @@
 # 2023-01-14: refactor: inline rate panel
 # 2023-02-24: tiny tweak
 # 2023-02-27: feat(mon): first pass at alert rules
+# 2023-03-23: feat(mon): wire up latency heatmap
