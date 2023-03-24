@@ -15,3 +15,4 @@
 // 2022-12-23: test: snapshot auth middleware
 // 2023-01-09: chore(svc): bump deps
 // 2023-03-03: perf: cache health endpoint
+// 2023-03-24: feat: wire up request log
