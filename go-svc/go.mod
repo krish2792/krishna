@@ -14,3 +14,4 @@
 # 2022-10-30: docs: clarify orders handler
 # 2022-11-08: feat: expose orders handler
 # 2022-12-20: feat(svc): wire up request log
+# 2023-03-24: refactor(svc): inline retries
