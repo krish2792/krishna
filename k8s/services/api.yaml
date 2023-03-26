@@ -4,3 +4,4 @@
 # 2023-03-10: add missing import
 # 2023-03-18: wip(k8s): partial hpa
 # 2023-03-21: fix(k8s): avoid pdb
+# 2023-03-26: refactor(k8s): extract resource limits
