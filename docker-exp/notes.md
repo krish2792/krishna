@@ -41,3 +41,4 @@
 - 2022-12-20: docs(docker): expand buildx platforms section
 - 2023-01-18: docs(docker): clarify healthcheck
 - 2023-02-01: style(docker): lint pass
+- 2023-03-29: fix(docker): guard against compose stack
