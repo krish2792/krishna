@@ -42,3 +42,4 @@
 - 2023-01-18: docs(docker): clarify healthcheck
 - 2023-02-01: style(docker): lint pass
 - 2023-03-29: fix(docker): guard against compose stack
+- 2023-04-01: wip(docker): wip
