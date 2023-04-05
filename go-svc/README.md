@@ -17,3 +17,4 @@ Go HTTP services.
 - 2023-01-14: test(svc): add tests for health endpoint
 - 2023-02-18: fix(svc): avoid users handler
 - 2023-03-27: fix(svc): address orders handler
+- 2023-04-05: docs: document health endpoint
