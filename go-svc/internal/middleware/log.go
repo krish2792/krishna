@@ -14,3 +14,4 @@
 // 2022-12-19: docs(svc): add notes on health endpoint
 // 2023-01-28: chore(svc): tidy imports
 // 2023-02-26: chore(svc): rename file
+// 2023-04-08: docs(svc): readme: users handler
