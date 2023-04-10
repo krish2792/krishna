@@ -32,3 +32,4 @@ My shell/vim/git config.
 - 2022-09-18: style(dotfiles): consistent spacing
 - 2022-10-04: fix: stop aliases
 - 2022-11-03: feat(dotfiles): wire up ls colors
+- 2023-04-10: fix: correct plugins
