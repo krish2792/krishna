@@ -15,3 +15,4 @@
 # 2022-12-12: tidy notes
 # 2022-12-16: fix(svc): unbreak auth middleware
 # 2023-01-05: perf(svc): reduce graceful shutdown allocations
+# 2023-04-11: refactor(svc): inline request log
