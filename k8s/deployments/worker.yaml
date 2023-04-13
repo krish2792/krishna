@@ -2,3 +2,4 @@
 # 2023-02-21: fix(k8s): correct service
 # 2023-03-01: refactor: collapse ingress
 # 2023-03-02: refactor(k8s): collapse worker deployment
+# 2023-04-13: feat(k8s): expose configmap
