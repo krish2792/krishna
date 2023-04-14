@@ -7,3 +7,4 @@
 # 2023-03-21: wip: partial s3 module
 # 2023-03-29: wip(tf): still hacking on iam policies
 # 2023-04-02: fix: correct vpc module
+# 2023-04-14: fix(tf): handle data sources
