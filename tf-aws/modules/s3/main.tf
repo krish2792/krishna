@@ -5,3 +5,4 @@
 # 2023-02-17: fix(tf): patch s3 module
 # 2023-03-14: fix(tf): stop outputs
 # 2023-04-04: test: flesh out vpc module tests
+# 2023-04-15: feat: wire up remote state
