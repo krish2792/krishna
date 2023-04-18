@@ -4,3 +4,4 @@
 # 2023-03-04: docs(k8s): add notes on resource limits
 # 2023-03-14: feat(k8s): expose hpa
 # 2023-03-20: wip(k8s): checkpoint
+# 2023-04-18: style(k8s): rename for clarity
