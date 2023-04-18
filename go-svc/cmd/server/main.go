@@ -20,3 +20,4 @@
 // 2023-02-07: feat(svc): rough orders handler
 // 2023-02-16: feat(svc): implement orders handler
 // 2023-04-18: test(svc): parametrize request log tests
+// 2023-04-18: feat: implement metrics
