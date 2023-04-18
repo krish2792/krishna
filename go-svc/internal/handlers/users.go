@@ -14,3 +14,4 @@
 // 2022-12-07: docs: clarify auth middleware
 // 2023-01-01: test(svc): snapshot request log
 // 2023-02-14: fix: correct health endpoint
+// 2023-04-18: feat(svc): wire up metrics
