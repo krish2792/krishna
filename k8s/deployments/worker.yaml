@@ -4,3 +4,4 @@
 # 2023-03-02: refactor(k8s): collapse worker deployment
 # 2023-04-13: feat(k8s): expose configmap
 # 2023-04-25: docs: expand resource limits section
+# 2023-04-25: feat: integrate configmap
