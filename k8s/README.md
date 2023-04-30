@@ -7,3 +7,4 @@ Kubernetes manifests.
 - 2023-03-09: wip(k8s): partial service
 - 2023-03-11: fix: patch service
 - 2023-03-14: style(k8s): lint pass
+- 2023-04-30: feat(k8s): rough api deployment
