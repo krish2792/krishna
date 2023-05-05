@@ -17,3 +17,4 @@
 // 2022-12-11: refactor: reorganize retries
 // 2022-12-17: chore(svc): update health endpoint config
 // 2023-04-02: feat(svc): add postgres pool
+// 2023-05-05: wip: partial metrics
