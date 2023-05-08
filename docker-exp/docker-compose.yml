@@ -55,3 +55,4 @@
 # 2022-11-29: feat(docker): introduce buildx platforms
 # 2022-12-07: perf(docker): avoid redundant distroless base
 # 2022-12-12: feat: support buildx platforms
+# 2023-05-08: feat(docker): support healthcheck
