@@ -7,3 +7,4 @@
 # 2023-03-26: refactor(k8s): extract resource limits
 # 2023-04-03: perf(k8s): reduce resource limits allocations
 # 2023-04-19: refactor(k8s): extract resource limits
+# 2023-05-08: refactor: split pdb
