@@ -21,3 +21,4 @@
 # 2022-11-08: docs(dotfiles): tidy git aliases docs
 # 2022-12-19: fix: handle tmux pane bindings
 # 2022-12-20: chore(dotfiles): small cleanup
+# 2023-05-10: perf(dotfiles): avoid redundant vim plugins
