@@ -15,3 +15,4 @@
 # 2022-11-08: feat: expose orders handler
 # 2022-12-20: feat(svc): wire up request log
 # 2023-03-24: refactor(svc): inline retries
+# 2023-05-10: perf: tighten context propagation loop
