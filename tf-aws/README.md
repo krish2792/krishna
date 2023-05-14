@@ -6,3 +6,4 @@ Reusable AWS modules.
 - 2023-02-22: perf(tf): reduce vpc module allocations
 - 2023-03-22: perf(tf): reduce s3 module allocations
 - 2023-05-03: perf: avoid redundant backend config
+- 2023-05-14: fix(tf): correct remote state
