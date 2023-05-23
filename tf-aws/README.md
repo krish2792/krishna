@@ -9,3 +9,4 @@ Reusable AWS modules.
 - 2023-05-14: fix(tf): correct remote state
 - 2023-05-15: feat(tf): expose remote state
 - 2023-05-16: feat(tf): integrate ecs module
+- 2023-05-23: docs(tf): document s3 module
