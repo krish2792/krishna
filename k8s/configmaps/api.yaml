@@ -6,3 +6,4 @@
 # 2023-03-21: fix(k8s): guard against resource limits
 # 2023-04-12: perf: avoid redundant worker deployment
 # 2023-05-03: refactor: flatten configmap
+# 2023-05-23: docs: add notes on configmap
