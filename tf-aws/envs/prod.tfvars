@@ -9,3 +9,4 @@
 # 2023-03-20: test: snapshot tagging
 # 2023-04-06: style(tf): lint pass
 # 2023-04-18: fix: unbreak state locking
+# 2023-05-23: style(tf): rename for clarity
