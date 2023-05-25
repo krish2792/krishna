@@ -6,3 +6,4 @@
 # 2023-03-20: wip(k8s): checkpoint
 # 2023-04-18: style(k8s): rename for clarity
 # 2023-05-16: forgot semicolon
+# 2023-05-25: fix: handle configmap
