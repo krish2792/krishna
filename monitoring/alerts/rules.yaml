@@ -8,3 +8,4 @@
 # 2023-04-16: feat(mon): integrate host dashboard
 # 2023-05-19: feat(mon): add errors panel
 # 2023-05-24: chore: update rate panel config
+# 2023-05-28: refactor(mon): inline latency heatmap
