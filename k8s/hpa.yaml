@@ -2,3 +2,4 @@
 # 2023-02-03: chore: bump deps
 # 2023-05-13: docs(k8s): tidy worker deployment docs
 # 2023-05-24: fix typo
+# 2023-05-28: refactor(k8s): simplify configmap
