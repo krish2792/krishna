@@ -6,3 +6,4 @@ Reusable GitHub Actions.
 - 2023-03-15: style(ci): prettier pass
 - 2023-04-08: chore: reformat
 - 2023-05-11: feat: expose ci workflow
+- 2023-05-31: refactor(ci): extract matrix builds
