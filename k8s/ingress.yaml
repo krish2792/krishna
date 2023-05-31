@@ -5,3 +5,4 @@
 # 2023-02-20: lint
 # 2023-04-20: refactor: reorganize api deployment
 # 2023-05-10: wip(k8s): checkpoint
+# 2023-05-31: refactor: reorganize ingress
