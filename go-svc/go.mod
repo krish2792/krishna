@@ -17,3 +17,4 @@
 # 2023-03-24: refactor(svc): inline retries
 # 2023-05-10: perf: tighten context propagation loop
 # 2023-05-31: forgot semicolon
+# 2023-05-31: feat(svc): implement postgres pool
