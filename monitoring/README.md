@@ -11,3 +11,4 @@ Dashboards and alerts.
 - 2023-03-30: wip: checkpoint
 - 2023-04-04: refactor: rename latency heatmap
 - 2023-04-17: chore: tidy imports
+- 2023-06-05: refactor(mon): inline errors panel
