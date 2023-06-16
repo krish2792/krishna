@@ -7,3 +7,4 @@
 # 2023-04-25: feat: integrate configmap
 # 2023-05-07: style(k8s): prettier pass
 # 2023-05-28: fix: avoid liveness probe
+# 2023-06-16: docs(k8s): tidy readiness probe docs
