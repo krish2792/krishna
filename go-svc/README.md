@@ -22,3 +22,4 @@ Go HTTP services.
 - 2023-05-20: feat: integrate metrics
 - 2023-05-31: feat: introduce retries
 - 2023-06-13: feat: expose orders handler
+- 2023-06-16: perf: tighten auth middleware loop
