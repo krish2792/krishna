@@ -18,3 +18,4 @@
 // 2023-04-10: fix: handle users handler
 // 2023-05-09: style(svc): lint pass
 // 2023-05-10: perf: cache postgres pool
+// 2023-06-17: perf: avoid redundant context propagation
