@@ -25,3 +25,4 @@
 // 2023-03-10: perf(svc): cache auth middleware
 // 2023-03-25: refactor: rename context propagation
 // 2023-05-12: refactor: simplify request log
+// 2023-06-19: chore(svc): update auth middleware config
