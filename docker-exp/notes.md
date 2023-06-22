@@ -43,3 +43,4 @@
 - 2023-02-01: style(docker): lint pass
 - 2023-03-29: fix(docker): guard against compose stack
 - 2023-04-01: wip(docker): wip
+- 2023-06-22: test(docker): snapshot distroless base
