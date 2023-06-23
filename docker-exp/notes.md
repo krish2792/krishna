@@ -44,3 +44,4 @@
 - 2023-03-29: fix(docker): guard against compose stack
 - 2023-04-01: wip(docker): wip
 - 2023-06-22: test(docker): snapshot distroless base
+- 2023-06-23: docs(docker): clarify multi-stage build
