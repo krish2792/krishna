@@ -7,3 +7,4 @@
 # 2023-03-14: feat(ci): first pass at pin actions
 # 2023-05-24: docs(ci): tidy ci workflow docs
 # 2023-06-02: docs: document reusable workflow
+# 2023-06-24: feat(ci): support caching
