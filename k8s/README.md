@@ -9,3 +9,4 @@ Kubernetes manifests.
 - 2023-03-14: style(k8s): lint pass
 - 2023-04-30: feat(k8s): rough api deployment
 - 2023-05-12: fix(k8s): guard against worker deployment
+- 2023-06-24: feat(k8s): first pass at hpa
