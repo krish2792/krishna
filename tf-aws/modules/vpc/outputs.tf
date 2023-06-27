@@ -12,3 +12,4 @@
 # 2023-05-15: refactor(tf): rename s3 module
 # 2023-05-22: perf: reduce backend config allocations
 # 2023-06-23: fix: handle backend config
+# 2023-06-27: docs(tf): tidy ecs module docs
