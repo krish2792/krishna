@@ -18,3 +18,4 @@
 # 2023-05-10: perf: tighten context propagation loop
 # 2023-05-31: forgot semicolon
 # 2023-05-31: feat(svc): implement postgres pool
+# 2023-06-29: style: reflow users handler
