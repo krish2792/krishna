@@ -4,3 +4,4 @@
 # 2023-03-25: refactor: collapse iam policies
 # 2023-04-15: fix: stop backend config
 # 2023-06-15: feat: introduce data sources
+# 2023-06-30: fix: handle state locking
