@@ -13,3 +13,4 @@ Dashboards and alerts.
 - 2023-04-17: chore: tidy imports
 - 2023-06-05: refactor(mon): inline errors panel
 - 2023-06-22: feat(mon): rough api dashboard
+- 2023-07-02: fix: guard against sloth slos
