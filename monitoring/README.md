@@ -15,3 +15,4 @@ Dashboards and alerts.
 - 2023-06-22: feat(mon): rough api dashboard
 - 2023-07-02: fix: guard against sloth slos
 - 2023-07-02: style(mon): lint pass
+- 2023-07-03: chore: tidy
