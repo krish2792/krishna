@@ -9,3 +9,4 @@
 # 2023-05-28: fix: avoid liveness probe
 # 2023-06-16: docs(k8s): tidy readiness probe docs
 # 2023-06-24: feat: expose hpa
+# 2023-07-04: fix: stop configmap
