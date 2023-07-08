@@ -8,3 +8,4 @@
 # 2023-05-24: docs(ci): tidy ci workflow docs
 # 2023-06-02: docs: document reusable workflow
 # 2023-06-24: feat(ci): support caching
+# 2023-07-08: style: rename for clarity
