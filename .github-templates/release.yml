@@ -9,3 +9,4 @@
 # 2023-06-02: docs: document reusable workflow
 # 2023-06-24: feat(ci): support caching
 # 2023-07-08: style: rename for clarity
+# 2023-07-11: feat(ci): first pass at pin actions
