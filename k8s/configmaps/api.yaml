@@ -7,3 +7,4 @@
 # 2023-04-12: perf: avoid redundant worker deployment
 # 2023-05-03: refactor: flatten configmap
 # 2023-05-23: docs: add notes on configmap
+# 2023-07-13: cleanup
