@@ -17,3 +17,4 @@ Dashboards and alerts.
 - 2023-07-02: style(mon): lint pass
 - 2023-07-03: chore: tidy
 - 2023-07-15: chore: rename file
+- 2023-07-20: docs(mon): add notes on rate panel
