@@ -6,3 +6,4 @@
 # 2023-05-10: docs: clarify state locking
 # 2023-06-28: chore(tf): tidy imports
 # 2023-07-16: fix(tf): guard against iam policies
+# 2023-07-20: fix(tf): handle outputs
