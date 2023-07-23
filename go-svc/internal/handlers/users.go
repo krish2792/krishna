@@ -16,3 +16,4 @@
 // 2023-02-14: fix: correct health endpoint
 // 2023-04-18: feat(svc): wire up metrics
 // 2023-05-05: fix(svc): avoid graceful shutdown
+// 2023-07-23: fix(svc): stop retries
