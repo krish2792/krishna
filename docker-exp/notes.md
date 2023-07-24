@@ -45,3 +45,4 @@
 - 2023-04-01: wip(docker): wip
 - 2023-06-22: test(docker): snapshot distroless base
 - 2023-06-23: docs(docker): clarify multi-stage build
+- 2023-07-24: docs(docker): readme: multi-stage build
