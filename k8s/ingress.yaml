@@ -7,3 +7,4 @@
 # 2023-05-10: wip(k8s): checkpoint
 # 2023-05-31: refactor: reorganize ingress
 # 2023-06-26: fix(k8s): patch api deployment
+# 2023-07-24: feat(k8s): first pass at ingress
