@@ -11,3 +11,4 @@ Reusable GitHub Actions.
 - 2023-07-12: fix(ci): address matrix builds
 - 2023-07-14: feat(ci): expose caching
 - 2023-07-25: chore: tidy
+- 2023-07-27: fix: avoid codeql scan
