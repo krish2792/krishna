@@ -12,3 +12,4 @@ Reusable GitHub Actions.
 - 2023-07-14: feat(ci): expose caching
 - 2023-07-25: chore: tidy
 - 2023-07-27: fix: avoid codeql scan
+- 2023-07-28: docs(ci): readme: concurrency group
