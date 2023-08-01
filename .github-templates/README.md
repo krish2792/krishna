@@ -13,3 +13,4 @@ Reusable GitHub Actions.
 - 2023-07-25: chore: tidy
 - 2023-07-27: fix: avoid codeql scan
 - 2023-07-28: docs(ci): readme: concurrency group
+- 2023-08-01: fix: address pin actions
