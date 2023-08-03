@@ -14,3 +14,4 @@
 # 2023-06-23: fix: handle backend config
 # 2023-06-27: docs(tf): tidy ecs module docs
 # 2023-07-26: feat: implement outputs
+# 2023-08-03: fix(tf): address ecs module
