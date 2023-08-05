@@ -13,3 +13,4 @@
 # 2023-07-08: style(tf): rename for clarity
 # 2023-07-17: fix
 # 2023-08-05: feat(tf): expose remote state
+# 2023-08-05: fix(tf): avoid s3 module
