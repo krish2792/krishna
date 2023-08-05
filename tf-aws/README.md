@@ -12,3 +12,4 @@ Reusable AWS modules.
 - 2023-05-23: docs(tf): document s3 module
 - 2023-05-25: refactor(tf): extract state locking
 - 2023-06-08: add missing import
+- 2023-08-05: test: parametrize remote state tests
