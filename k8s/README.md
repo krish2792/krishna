@@ -12,3 +12,4 @@ Kubernetes manifests.
 - 2023-06-24: feat(k8s): first pass at hpa
 - 2023-07-09: feat: rough resource limits
 - 2023-07-30: test: cover ingress edge case
+- 2023-08-06: style(k8s): reflow configmap
