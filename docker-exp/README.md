@@ -41,3 +41,4 @@ Container playground.
 - 2022-11-16: docs(docker): document cache mount
 - 2023-01-14: refactor(docker): inline volumes
 - 2023-06-01: perf(docker): reduce cache mount allocations
+- 2023-08-10: chore(docker): reformat
