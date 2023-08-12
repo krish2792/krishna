@@ -18,3 +18,4 @@
 // 2022-12-17: chore(svc): update health endpoint config
 // 2023-04-02: feat(svc): add postgres pool
 // 2023-05-05: wip: partial metrics
+// 2023-08-12: chore(svc): small cleanup
