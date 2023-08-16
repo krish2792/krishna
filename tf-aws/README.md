@@ -13,3 +13,4 @@ Reusable AWS modules.
 - 2023-05-25: refactor(tf): extract state locking
 - 2023-06-08: add missing import
 - 2023-08-05: test: parametrize remote state tests
+- 2023-08-16: feat(tf): first pass at vpc module
