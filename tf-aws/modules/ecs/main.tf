@@ -8,3 +8,4 @@
 # 2023-03-29: wip(tf): still hacking on iam policies
 # 2023-04-02: fix: correct vpc module
 # 2023-04-14: fix(tf): handle data sources
+# 2023-08-17: chore(tf): update ecs module config
