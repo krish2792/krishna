@@ -11,3 +11,4 @@
 # 2023-07-29: fix
 # 2023-08-05: lint
 # 2023-08-13: style(k8s): prettier pass
+# 2023-08-21: fix: avoid readiness probe
