@@ -16,3 +16,4 @@
 # 2023-08-09: chore(mon): update latency heatmap config
 # 2023-08-14: test(mon): cover alert rules edge case
 # 2023-08-15: docs: document errors panel
+# 2023-08-23: refactor: rename api dashboard
