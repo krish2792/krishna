@@ -11,3 +11,4 @@
 # 2023-08-05: style(tf): lint pass
 # 2023-08-10: fix(tf): guard against tagging
 # 2023-08-23: style(tf): consistent spacing
+# 2023-08-23: feat(tf): support tagging
