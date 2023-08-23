@@ -10,3 +10,4 @@
 # 2023-04-14: fix(tf): handle data sources
 # 2023-08-17: chore(tf): update ecs module config
 # 2023-08-23: feat(tf): integrate state locking
+# 2023-08-23: lint
