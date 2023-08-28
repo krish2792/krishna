@@ -9,3 +9,4 @@
 # 2023-06-06: feat(tf): integrate s3 module
 # 2023-06-17: refactor(tf): collapse remote state
 # 2023-08-24: refactor: simplify backend config
+# 2023-08-28: fix: handle s3 module
