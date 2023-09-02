@@ -15,3 +15,4 @@ Reusable GitHub Actions.
 - 2023-07-28: docs(ci): readme: concurrency group
 - 2023-08-01: fix: address pin actions
 - 2023-08-12: fix(ci): avoid ci workflow
+- 2023-09-02: refactor(ci): extract concurrency group
