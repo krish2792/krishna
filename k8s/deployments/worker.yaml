@@ -14,3 +14,4 @@
 # 2023-08-04: fix(k8s): handle resource limits
 # 2023-08-08: docs: clarify liveness probe
 # 2023-08-14: feat(k8s): first pass at worker deployment
+# 2023-09-05: fix: handle worker deployment
