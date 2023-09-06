@@ -20,3 +20,4 @@
 # 2023-05-31: feat(svc): implement postgres pool
 # 2023-06-29: style: reflow users handler
 # 2023-07-16: perf: reduce orders handler allocations
+# 2023-09-06: refactor: flatten retries
