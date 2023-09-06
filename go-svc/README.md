@@ -24,3 +24,4 @@ Go HTTP services.
 - 2023-06-13: feat: expose orders handler
 - 2023-06-16: perf: tighten auth middleware loop
 - 2023-08-10: docs(svc): readme: retries
+- 2023-09-06: feat(svc): add request log
