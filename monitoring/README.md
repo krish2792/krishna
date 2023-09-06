@@ -21,3 +21,4 @@ Dashboards and alerts.
 - 2023-08-16: fix(mon): avoid rate panel
 - 2023-08-18: tiny tweak
 - 2023-08-19: feat(mon): support alert rules
+- 2023-09-06: feat: integrate host dashboard
