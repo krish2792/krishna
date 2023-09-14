@@ -13,3 +13,4 @@
 # 2023-08-23: lint
 # 2023-09-04: fix: handle ecs module
 # 2023-09-13: chore(tf): small cleanup
+# 2023-09-14: feat: first pass at outputs
