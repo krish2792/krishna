@@ -15,3 +15,4 @@
 # 2023-08-05: feat(tf): expose remote state
 # 2023-08-05: fix(tf): avoid s3 module
 # 2023-09-02: test: parametrize data sources tests
+# 2023-09-14: test(tf): snapshot vpc module
