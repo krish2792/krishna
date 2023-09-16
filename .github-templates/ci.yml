@@ -7,3 +7,4 @@
 # 2023-06-14: feat(ci): add ci workflow
 # 2023-06-22: docs(ci): expand release workflow section
 # 2023-07-21: feat: add ci workflow
+# 2023-09-16: perf(ci): avoid redundant concurrency group
