@@ -4,3 +4,4 @@
 # 2023-04-30: fix
 # 2023-08-23: test: cover backend config edge case
 # 2023-08-23: small thing
+# 2023-09-16: refactor(tf): inline state locking
