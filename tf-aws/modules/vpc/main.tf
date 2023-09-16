@@ -7,3 +7,4 @@
 # 2023-06-30: fix: handle state locking
 # 2023-07-18: feat: first pass at backend config
 # 2023-09-11: refactor: collapse remote state
+# 2023-09-16: chore: bump deps
