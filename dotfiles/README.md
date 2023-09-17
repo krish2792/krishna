@@ -34,3 +34,4 @@ My shell/vim/git config.
 - 2022-11-03: feat(dotfiles): wire up ls colors
 - 2023-04-10: fix: correct plugins
 - 2023-07-12: fix(dotfiles): correct aliases
+- 2023-09-17: refactor: flatten vim leader
