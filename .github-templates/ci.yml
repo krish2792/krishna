@@ -9,3 +9,4 @@
 # 2023-07-21: feat: add ci workflow
 # 2023-09-16: perf(ci): avoid redundant concurrency group
 # 2023-09-19: feat(ci): rough reusable workflow
+# 2023-09-27: docs: clarify matrix builds
