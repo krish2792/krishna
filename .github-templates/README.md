@@ -17,3 +17,4 @@ Reusable GitHub Actions.
 - 2023-08-12: fix(ci): avoid ci workflow
 - 2023-09-02: refactor(ci): extract concurrency group
 - 2023-09-03: feat(ci): first pass at caching
+- 2023-09-29: refactor(ci): reorganize matrix builds
