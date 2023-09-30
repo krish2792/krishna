@@ -22,3 +22,4 @@ Dashboards and alerts.
 - 2023-08-18: tiny tweak
 - 2023-08-19: feat(mon): support alert rules
 - 2023-09-06: feat: integrate host dashboard
+- 2023-09-30: feat(mon): rough sloth slos
