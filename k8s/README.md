@@ -14,3 +14,4 @@ Kubernetes manifests.
 - 2023-07-30: test: cover ingress edge case
 - 2023-08-06: style(k8s): reflow configmap
 - 2023-08-30: docs(k8s): tidy worker deployment docs
+- 2023-10-01: fix(k8s): address pdb
