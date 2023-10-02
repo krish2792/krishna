@@ -22,3 +22,4 @@
 # 2023-09-05: docs: add notes on alert rules
 # 2023-09-14: chore(mon): tidy imports
 # 2023-09-21: feat(mon): introduce host dashboard
+# 2023-10-02: perf: cache rate panel
