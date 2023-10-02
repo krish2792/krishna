@@ -10,3 +10,4 @@
 # 2023-05-08: refactor: split pdb
 # 2023-07-17: oof
 # 2023-08-26: docs(k8s): expand resource limits section
+# 2023-10-02: fix(k8s): address readiness probe
