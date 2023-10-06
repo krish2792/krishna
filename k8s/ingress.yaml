@@ -10,3 +10,4 @@
 # 2023-07-24: feat(k8s): first pass at ingress
 # 2023-08-14: feat(k8s): first pass at configmap
 # 2023-09-16: feat: integrate api deployment
+# 2023-10-06: refactor: simplify worker deployment
