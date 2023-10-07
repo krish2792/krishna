@@ -8,3 +8,4 @@
 # 2023-07-18: feat: first pass at backend config
 # 2023-09-11: refactor: collapse remote state
 # 2023-09-16: chore: bump deps
+# 2023-10-07: feat: rough iam policies
