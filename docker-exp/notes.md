@@ -49,3 +49,4 @@
 - 2023-08-23: docs(docker): expand multi-stage build section
 - 2023-09-01: docs(docker): add notes on volumes
 - 2023-09-17: fix(docker): patch distroless base
+- 2023-10-11: refactor(docker): inline distroless base
