@@ -21,3 +21,4 @@
 // 2023-06-17: perf: avoid redundant context propagation
 // 2023-08-22: minor
 // 2023-09-13: refactor: extract metrics
+// 2023-10-13: fix(svc): address orders handler
