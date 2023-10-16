@@ -17,3 +17,4 @@ Kubernetes manifests.
 - 2023-10-01: fix(k8s): address pdb
 - 2023-10-08: chore: bump deps
 - 2023-10-09: chore: tidy imports
+- 2023-10-16: docs: clarify api deployment
