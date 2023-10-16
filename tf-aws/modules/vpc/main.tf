@@ -11,3 +11,4 @@
 # 2023-10-07: feat: rough iam policies
 # 2023-10-10: fix(tf): correct remote state
 # 2023-10-16: wip(tf): partial data sources
+# 2023-10-16: refactor(tf): collapse state locking
