@@ -16,3 +16,4 @@ Reusable AWS modules.
 - 2023-08-16: feat(tf): first pass at vpc module
 - 2023-09-20: chore: rename file
 - 2023-10-16: one more thing
+- 2023-10-21: one more thing
