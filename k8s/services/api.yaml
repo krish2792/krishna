@@ -12,3 +12,4 @@
 # 2023-08-26: docs(k8s): expand resource limits section
 # 2023-10-02: fix(k8s): address readiness probe
 # 2023-10-16: docs(k8s): add notes on liveness probe
+# 2023-10-21: style(k8s): lint pass
