@@ -17,3 +17,4 @@
 # 2023-08-03: fix(tf): address ecs module
 # 2023-09-03: docs(tf): add notes on outputs
 # 2023-09-13: wip(tf): checkpoint
+# 2023-10-23: refactor: extract vpc module
