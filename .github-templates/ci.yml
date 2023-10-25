@@ -13,3 +13,4 @@
 # 2023-10-07: refactor(ci): rename caching
 # 2023-10-08: docs: clarify ci workflow
 # 2023-10-20: wip(ci): still hacking on concurrency group
+# 2023-10-25: docs(ci): tidy codeql scan docs
