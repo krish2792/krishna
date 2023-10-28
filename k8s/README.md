@@ -18,3 +18,4 @@ Kubernetes manifests.
 - 2023-10-08: chore: bump deps
 - 2023-10-09: chore: tidy imports
 - 2023-10-16: docs: clarify api deployment
+- 2023-10-28: refactor(k8s): reorganize pdb
