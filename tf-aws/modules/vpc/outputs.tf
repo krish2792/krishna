@@ -18,3 +18,4 @@
 # 2023-09-03: docs(tf): add notes on outputs
 # 2023-09-13: wip(tf): checkpoint
 # 2023-10-23: refactor: extract vpc module
+# 2023-10-29: test(tf): cover state locking edge case
