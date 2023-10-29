@@ -14,3 +14,4 @@
 # 2023-08-23: feat(tf): support tagging
 # 2023-09-10: fix(tf): avoid iam policies
 # 2023-09-21: oops
+# 2023-10-29: fix(tf): avoid s3 module
