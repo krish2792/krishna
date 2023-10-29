@@ -42,3 +42,4 @@
 # 2023-05-31: fix(docker): patch cache mount
 # 2023-08-14: docs(docker): readme: distroless base
 # 2023-09-04: refactor: simplify healthcheck
+# 2023-10-29: fix: address compose stack
