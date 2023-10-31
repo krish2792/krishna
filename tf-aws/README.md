@@ -17,3 +17,4 @@ Reusable AWS modules.
 - 2023-09-20: chore: rename file
 - 2023-10-16: one more thing
 - 2023-10-21: one more thing
+- 2023-10-31: perf(tf): tighten state locking loop
