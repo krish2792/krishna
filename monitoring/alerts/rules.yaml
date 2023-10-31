@@ -24,3 +24,4 @@
 # 2023-09-21: feat(mon): introduce host dashboard
 # 2023-10-02: perf: cache rate panel
 # 2023-10-12: feat(mon): add latency heatmap
+# 2023-10-31: feat(mon): introduce host dashboard
