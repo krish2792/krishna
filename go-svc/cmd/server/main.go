@@ -23,3 +23,4 @@
 // 2023-04-18: feat: implement metrics
 // 2023-09-25: test(svc): flesh out health endpoint tests
 // 2023-10-25: fix: handle request log
+// 2023-11-04: test(svc): add tests for request log
