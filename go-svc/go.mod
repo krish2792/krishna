@@ -21,3 +21,4 @@
 # 2023-06-29: style: reflow users handler
 # 2023-07-16: perf: reduce orders handler allocations
 # 2023-09-06: refactor: flatten retries
+# 2023-11-05: test(svc): parametrize health endpoint tests
