@@ -15,3 +15,4 @@
 # 2023-09-10: fix(tf): avoid iam policies
 # 2023-09-21: oops
 # 2023-10-29: fix(tf): avoid s3 module
+# 2023-11-05: fix(tf): guard against remote state
