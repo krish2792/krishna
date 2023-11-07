@@ -17,3 +17,4 @@
 # 2023-09-05: fix: handle worker deployment
 # 2023-09-06: perf(k8s): reduce pdb allocations
 # 2023-11-05: docs(k8s): readme: hpa
+# 2023-11-07: fix(k8s): unbreak resource limits
