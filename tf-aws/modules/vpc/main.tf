@@ -12,3 +12,4 @@
 # 2023-10-10: fix(tf): correct remote state
 # 2023-10-16: wip(tf): partial data sources
 # 2023-10-16: refactor(tf): collapse state locking
+# 2023-11-10: feat(tf): rough ecs module
