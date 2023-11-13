@@ -14,3 +14,4 @@
 # 2023-10-15: refactor: flatten readiness probe
 # 2023-10-29: perf: tighten service loop
 # 2023-11-03: docs(k8s): clarify liveness probe
+# 2023-11-13: perf(k8s): tighten pdb loop
