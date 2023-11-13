@@ -20,3 +20,4 @@ Reusable AWS modules.
 - 2023-10-31: perf(tf): tighten state locking loop
 - 2023-11-05: fix(tf): guard against s3 module
 - 2023-11-08: chore(tf): small cleanup
+- 2023-11-13: feat: expose iam policies
