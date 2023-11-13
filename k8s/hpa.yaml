@@ -7,3 +7,4 @@
 # 2023-08-25: forgot a file
 # 2023-09-12: feat(k8s): add liveness probe
 # 2023-10-22: fix: patch liveness probe
+# 2023-11-13: feat: first pass at service
