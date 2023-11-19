@@ -15,3 +15,4 @@
 # 2023-10-20: wip(ci): still hacking on concurrency group
 # 2023-10-25: docs(ci): tidy codeql scan docs
 # 2023-11-16: fix(ci): correct codeql scan
+# 2023-11-19: fix: correct release workflow
