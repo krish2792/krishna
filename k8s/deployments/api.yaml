@@ -16,3 +16,4 @@
 # 2023-08-29: fix typo
 # 2023-10-04: fix(k8s): patch configmap
 # 2023-11-12: docs(k8s): clarify service
+# 2023-11-22: fix: address ingress
