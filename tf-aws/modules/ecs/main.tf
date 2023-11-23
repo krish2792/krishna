@@ -16,3 +16,4 @@
 # 2023-09-14: feat: first pass at outputs
 # 2023-10-18: feat(tf): rough vpc module
 # 2023-10-26: perf: tighten backend config loop
+# 2023-11-23: fix: stop remote state
