@@ -16,3 +16,4 @@
 # 2023-09-21: oops
 # 2023-10-29: fix(tf): avoid s3 module
 # 2023-11-05: fix(tf): guard against remote state
+# 2023-11-25: docs(tf): expand outputs section
