@@ -17,3 +17,4 @@
 # 2023-10-27: docs: tidy ci workflow docs
 # 2023-11-18: test(ci): cover concurrency group edge case
 # 2023-11-22: docs(ci): clarify concurrency group
+# 2023-11-28: feat: support codeql scan
