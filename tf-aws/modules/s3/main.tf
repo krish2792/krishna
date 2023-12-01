@@ -13,3 +13,4 @@
 # 2023-08-31: fix(tf): address backend config
 # 2023-09-13: feat(tf): introduce backend config
 # 2023-11-18: forgot a file
+# 2023-12-01: forgot semicolon
