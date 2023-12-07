@@ -18,3 +18,4 @@
 # 2023-11-18: test(ci): cover concurrency group edge case
 # 2023-11-22: docs(ci): clarify concurrency group
 # 2023-11-28: feat: support codeql scan
+# 2023-12-07: feat(ci): implement caching
