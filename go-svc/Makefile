@@ -18,3 +18,4 @@
 # 2023-04-11: refactor(svc): inline request log
 # 2023-09-06: oops typo
 # 2023-09-26: fix(svc): stop orders handler
+# 2023-12-12: style: lint pass
