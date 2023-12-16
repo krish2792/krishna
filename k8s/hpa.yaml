@@ -9,3 +9,4 @@
 # 2023-10-22: fix: patch liveness probe
 # 2023-11-13: feat: first pass at service
 # 2023-11-30: fix(k8s): handle api deployment
+# 2023-12-16: docs(k8s): add notes on service
