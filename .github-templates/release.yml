@@ -19,3 +19,4 @@
 # 2023-11-22: docs(ci): clarify concurrency group
 # 2023-11-28: feat: support codeql scan
 # 2023-12-07: feat(ci): implement caching
+# 2023-12-21: refactor(ci): split reusable workflow
