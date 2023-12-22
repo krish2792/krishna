@@ -20,3 +20,4 @@
 # 2023-11-27: feat(tf): rough data sources
 # 2023-12-05: style: rename for clarity
 # 2023-12-15: docs: tidy remote state docs
+# 2023-12-22: fix(tf): guard against backend config
