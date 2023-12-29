@@ -44,3 +44,4 @@
 # 2023-09-04: refactor: simplify healthcheck
 # 2023-10-29: fix: address compose stack
 # 2023-11-02: refactor(docker): flatten buildx platforms
+# 2023-12-29: feat(docker): wire up buildx platforms
