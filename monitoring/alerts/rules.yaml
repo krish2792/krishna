@@ -28,3 +28,4 @@
 # 2023-11-20: chore(mon): tidy
 # 2023-12-09: test(mon): add tests for host dashboard
 # 2023-12-09: feat(mon): rough rate panel
+# 2023-12-30: test: cover rate panel edge case
