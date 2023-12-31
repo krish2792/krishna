@@ -25,3 +25,4 @@
 // 2023-10-25: fix: handle request log
 // 2023-11-04: test(svc): add tests for request log
 // 2023-12-08: feat(svc): rough orders handler
+// 2023-12-31: feat: wire up users handler
