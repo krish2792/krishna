@@ -17,3 +17,4 @@
 # 2023-09-02: test: parametrize data sources tests
 # 2023-09-14: test(tf): snapshot vpc module
 # 2023-11-12: feat(tf): expose remote state
+# 2023-12-31: fix: patch state locking
