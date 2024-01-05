@@ -1,0 +1,1 @@
+- 2024-01-05: feat(emb): init notes.md
