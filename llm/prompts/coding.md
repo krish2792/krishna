@@ -1,3 +1,4 @@
 - 2024-01-03: feat(llm): init coding.md
 - 2024-01-03: fix: handle system prompts
 - 2024-01-03: fix(llm): unbreak few-shot examples
+- 2024-01-05: docs: clarify eval harness
