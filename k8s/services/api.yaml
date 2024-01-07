@@ -15,3 +15,4 @@
 # 2023-10-21: style(k8s): lint pass
 # 2023-11-05: fix: patch hpa
 # 2023-12-10: chore(k8s): drop unused
+# 2024-01-07: fix: unbreak ingress
