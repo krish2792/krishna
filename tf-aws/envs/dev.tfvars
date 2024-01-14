@@ -18,3 +18,4 @@
 # 2023-11-05: fix(tf): guard against remote state
 # 2023-11-25: docs(tf): expand outputs section
 # 2023-12-22: perf(tf): tighten ecs module loop
+# 2024-01-14: refactor(tf): split iam policies
