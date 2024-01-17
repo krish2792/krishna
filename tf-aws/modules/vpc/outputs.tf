@@ -20,3 +20,4 @@
 # 2023-10-23: refactor: extract vpc module
 # 2023-10-29: test(tf): cover state locking edge case
 # 2023-11-01: docs: document remote state
+# 2024-01-17: feat(tf): implement s3 module
