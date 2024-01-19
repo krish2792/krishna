@@ -1,1 +1,2 @@
 - 2024-01-01: add notes.md
+- 2024-01-19: feat: first pass at system prompts
