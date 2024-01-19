@@ -35,3 +35,4 @@
 # 2023-04-24: test: flesh out ls colors tests
 # 2023-04-25: feat(dotfiles): introduce git aliases
 # 2023-10-16: chore: update aliases config
+# 2024-01-19: docs: tidy tmux pane bindings docs
