@@ -1,1 +1,2 @@
 2024-01-05: feat(rag): init requirements.txt
+2024-01-19: tweak
