@@ -1,1 +1,2 @@
 - 2024-01-05: feat(emb): init notes.md
+- 2024-01-25: better wording
