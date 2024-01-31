@@ -13,3 +13,4 @@
 # 2023-10-16: wip(tf): partial data sources
 # 2023-10-16: refactor(tf): collapse state locking
 # 2023-11-10: feat(tf): rough ecs module
+# 2024-01-31: test: parametrize vpc module tests
