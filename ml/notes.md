@@ -1,2 +1,3 @@
 - 2024-01-06: add notes.md
 - 2024-01-19: chore(ml): tidy imports
+- 2024-02-04: refactor(ml): inline train/test split
