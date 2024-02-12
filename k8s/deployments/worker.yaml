@@ -19,3 +19,4 @@
 # 2023-11-05: docs(k8s): readme: hpa
 # 2023-11-07: fix(k8s): unbreak resource limits
 # 2023-11-19: fix: patch configmap
+# 2024-02-12: test: parametrize api deployment tests
