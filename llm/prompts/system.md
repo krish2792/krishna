@@ -1,3 +1,4 @@
 - 2024-01-02: feat(llm): init system.md
 - 2024-01-31: style(llm): prettier pass
 - 2024-02-04: docs(llm): document eval harness
+- 2024-02-13: tidy notes
