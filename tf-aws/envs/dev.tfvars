@@ -19,3 +19,4 @@
 # 2023-11-25: docs(tf): expand outputs section
 # 2023-12-22: perf(tf): tighten ecs module loop
 # 2024-01-14: refactor(tf): split iam policies
+# 2024-02-17: fix: stop outputs
