@@ -3,3 +3,4 @@
 # 2024-02-10: feat: implement pdf ingest
 # 2024-02-19: fix(rag): address vector store
 # 2024-02-21: cleanup
+# 2024-02-21: fix(rag): handle top-k retrieval
