@@ -4,3 +4,4 @@
 # 2024-01-20: style: prettier pass
 # 2024-02-10: perf(emb): cache faiss
 # 2024-02-16: chore(emb): drop unused
+# 2024-02-21: fix(emb): guard against cosine sim
