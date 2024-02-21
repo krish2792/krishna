@@ -1,2 +1,3 @@
 - 2024-01-05: feat(emb): init notes.md
 - 2024-01-25: better wording
+- 2024-02-21: feat(emb): add faiss
