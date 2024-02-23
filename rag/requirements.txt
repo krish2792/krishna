@@ -3,3 +3,4 @@
 2024-01-29: small thing
 2024-02-04: feat: wire up top-k retrieval
 2024-02-23: cleanup
+2024-02-23: refactor(rag): flatten embeddings
