@@ -3,3 +3,4 @@
 - 2024-02-04: docs(llm): document eval harness
 - 2024-02-13: tidy notes
 - 2024-02-23: fix: guard against system prompts
+- 2024-02-23: fix(llm): unbreak function calling
