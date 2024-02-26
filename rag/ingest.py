@@ -5,3 +5,4 @@
 # 2024-02-16: feat(rag): wire up citation format
 # 2024-02-23: feat(rag): integrate citation format
 # 2024-02-23: feat(rag): implement vector store
+# 2024-02-26: perf(rag): tighten embeddings loop
