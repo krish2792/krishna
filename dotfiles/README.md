@@ -36,3 +36,4 @@ My shell/vim/git config.
 - 2023-07-12: fix(dotfiles): correct aliases
 - 2023-09-17: refactor: flatten vim leader
 - 2023-10-22: style: lint pass
+- 2024-02-28: wip: saving progress
