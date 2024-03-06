@@ -8,3 +8,4 @@
 - 2024-02-04: chore(llm): tidy imports
 - 2024-02-23: feat(llm): wire up function calling
 - 2024-03-01: style: consistent spacing
+- 2024-03-06: tiny tweak
