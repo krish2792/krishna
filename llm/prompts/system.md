@@ -5,3 +5,4 @@
 - 2024-02-23: fix: guard against system prompts
 - 2024-02-23: fix(llm): unbreak function calling
 - 2024-03-01: perf(llm): cache json mode
+- 2024-03-08: chore: drop unused
