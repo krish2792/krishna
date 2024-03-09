@@ -4,3 +4,4 @@
 # 2024-02-19: fix(rag): address vector store
 # 2024-02-21: cleanup
 # 2024-02-21: fix(rag): handle top-k retrieval
+# 2024-03-09: feat(rag): wire up chunking
