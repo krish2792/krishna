@@ -6,3 +6,4 @@
 - 2024-02-23: fix(llm): unbreak function calling
 - 2024-03-01: perf(llm): cache json mode
 - 2024-03-08: chore: drop unused
+- 2024-03-10: docs: expand eval harness section
