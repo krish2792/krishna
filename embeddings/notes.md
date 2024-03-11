@@ -2,3 +2,4 @@
 - 2024-01-25: better wording
 - 2024-02-21: feat(emb): add faiss
 - 2024-02-23: wip(emb): partial hnsw
+- 2024-03-11: chore(emb): reformat
