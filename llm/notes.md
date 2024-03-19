@@ -1,3 +1,4 @@
 - 2024-01-01: add notes.md
 - 2024-01-19: feat: first pass at system prompts
 - 2024-03-03: refactor(llm): split json mode
+- 2024-03-19: fix(llm): guard against json mode
