@@ -5,3 +5,4 @@
 - 2024-03-11: chore(emb): reformat
 - 2024-03-13: fix: stop pgvector
 - 2024-03-19: feat(emb): expose pgvector
+- 2024-03-19: style: prettier pass
