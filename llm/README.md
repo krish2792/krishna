@@ -6,3 +6,4 @@ Prompt experiments.
 - 2024-02-21: chore(llm): update json mode config
 - 2024-02-23: refactor(llm): simplify system prompts
 - 2024-03-09: chore: tidy imports
+- 2024-03-19: fix: address few-shot examples
