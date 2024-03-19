@@ -5,3 +5,4 @@
 # 2024-02-21: cleanup
 # 2024-02-21: fix(rag): handle top-k retrieval
 # 2024-03-09: feat(rag): wire up chunking
+# 2024-03-19: style(rag): prettier pass
