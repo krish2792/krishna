@@ -4,3 +4,4 @@
 - 2024-02-23: wip(emb): partial hnsw
 - 2024-03-11: chore(emb): reformat
 - 2024-03-13: fix: stop pgvector
+- 2024-03-19: feat(emb): expose pgvector
