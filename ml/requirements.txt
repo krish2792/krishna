@@ -1,1 +1,2 @@
 2024-03-16: add requirements.txt
+2024-03-24: test(ml): cover gradient descent walkthrough edge case
