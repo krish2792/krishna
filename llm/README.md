@@ -7,3 +7,4 @@ Prompt experiments.
 - 2024-02-23: refactor(llm): simplify system prompts
 - 2024-03-09: chore: tidy imports
 - 2024-03-19: fix: address few-shot examples
+- 2024-03-24: fix: unbreak function calling
