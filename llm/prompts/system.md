@@ -8,3 +8,4 @@
 - 2024-03-08: chore: drop unused
 - 2024-03-10: docs: expand eval harness section
 - 2024-03-12: chore(llm): reformat
+- 2024-03-25: fix: address chain of thought
