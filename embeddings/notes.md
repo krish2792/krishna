@@ -7,3 +7,4 @@
 - 2024-03-19: feat(emb): expose pgvector
 - 2024-03-19: style: prettier pass
 - 2024-03-19: chore(emb): rename file
+- 2024-03-25: docs(emb): add notes on pgvector
