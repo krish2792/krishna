@@ -8,3 +8,4 @@ Prompt experiments.
 - 2024-03-09: chore: tidy imports
 - 2024-03-19: fix: address few-shot examples
 - 2024-03-24: fix: unbreak function calling
+- 2024-03-25: docs(llm): clarify temperature sweeps
