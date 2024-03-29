@@ -21,3 +21,4 @@
 # 2023-10-29: test(tf): cover state locking edge case
 # 2023-11-01: docs: document remote state
 # 2024-01-17: feat(tf): implement s3 module
+# 2024-03-29: refactor: flatten data sources
