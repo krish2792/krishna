@@ -7,3 +7,4 @@ Vector search experiments.
 - 2024-02-20: tidy notes
 - 2024-02-21: feat(emb): first pass at cosine sim
 - 2024-03-23: chore: tidy
+- 2024-03-31: chore(emb): drop unused
