@@ -10,3 +10,4 @@
 - 2024-03-01: style: consistent spacing
 - 2024-03-06: tiny tweak
 - 2024-04-02: feat: expose eval harness
+- 2024-04-03: feat: support function calling
