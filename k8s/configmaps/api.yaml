@@ -16,3 +16,4 @@
 # 2023-12-03: wip: checkpoint
 # 2023-12-23: feat(k8s): integrate liveness probe
 # 2024-03-18: refactor(k8s): extract api deployment
+# 2024-04-03: style(k8s): consistent spacing
