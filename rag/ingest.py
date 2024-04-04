@@ -7,3 +7,4 @@
 # 2024-02-23: feat(rag): implement vector store
 # 2024-02-26: perf(rag): tighten embeddings loop
 # 2024-03-19: fix(rag): stop vector store
+# 2024-04-04: fix typo
