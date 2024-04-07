@@ -2,3 +2,4 @@
 # 2024-02-09: docs: readme: pdf ingest
 # 2024-02-18: test(rag): parametrize answer synthesis tests
 # 2024-03-17: test: snapshot answer synthesis
+# 2024-04-07: fix: stop reranker
