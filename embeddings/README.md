@@ -9,3 +9,4 @@ Vector search experiments.
 - 2024-03-23: chore: tidy
 - 2024-03-31: chore(emb): drop unused
 - 2024-04-03: feat(emb): rough normalization
+- 2024-04-07: feat(emb): introduce normalization
