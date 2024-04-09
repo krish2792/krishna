@@ -8,3 +8,4 @@
 # 2024-03-19: style(rag): prettier pass
 # 2024-03-30: wip(rag): partial citation format
 # 2024-04-03: fix: address vector store
+# 2024-04-09: fix(rag): guard against citation format
