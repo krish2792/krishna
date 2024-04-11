@@ -12,3 +12,4 @@
 - 2024-04-02: feat: expose eval harness
 - 2024-04-03: feat: support function calling
 - 2024-04-03: cleanup
+- 2024-04-11: docs(llm): document temperature sweeps
