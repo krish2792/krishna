@@ -11,3 +11,4 @@ Vector search experiments.
 - 2024-04-03: feat(emb): rough normalization
 - 2024-04-07: feat(emb): introduce normalization
 - 2024-04-12: add missing import
+- 2024-04-16: fix: unbreak hnsw
