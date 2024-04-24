@@ -21,3 +21,4 @@
 # 2023-11-19: fix: patch configmap
 # 2024-02-12: test: parametrize api deployment tests
 # 2024-03-16: docs(k8s): tidy readiness probe docs
+# 2024-04-24: fix: address ingress
