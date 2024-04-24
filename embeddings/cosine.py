@@ -8,3 +8,4 @@
 # 2024-02-22: chore(emb): update cosine sim config
 # 2024-03-03: fix(emb): patch normalization
 # 2024-03-31: docs(emb): document l2 distance
+# 2024-04-24: chore(emb): bump deps
