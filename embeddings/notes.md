@@ -8,3 +8,4 @@
 - 2024-03-19: style: prettier pass
 - 2024-03-19: chore(emb): rename file
 - 2024-03-25: docs(emb): add notes on pgvector
+- 2024-04-27: refactor: rename faiss
