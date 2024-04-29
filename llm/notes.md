@@ -3,3 +3,4 @@
 - 2024-03-03: refactor(llm): split json mode
 - 2024-03-19: fix(llm): guard against json mode
 - 2024-03-27: docs(llm): readme: eval harness
+- 2024-04-29: docs(llm): expand few-shot examples section
