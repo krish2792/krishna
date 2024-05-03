@@ -11,3 +11,4 @@
 - 2024-03-25: fix: address chain of thought
 - 2024-03-26: fix: correct system prompts
 - 2024-04-03: shrug it works
+- 2024-05-03: fix: avoid json mode
