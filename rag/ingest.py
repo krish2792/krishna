@@ -10,3 +10,4 @@
 # 2024-04-04: fix typo
 # 2024-04-14: feat(rag): expose answer synthesis
 # 2024-04-24: perf(rag): cache vector store
+# 2024-05-04: fix: patch reranker
