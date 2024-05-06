@@ -10,3 +10,4 @@
 # 2024-04-03: fix: address vector store
 # 2024-04-09: fix(rag): guard against citation format
 # 2024-04-29: style(rag): rename for clarity
+# 2024-05-06: feat(rag): introduce citation format
