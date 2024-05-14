@@ -7,3 +7,4 @@ RAG pipeline experiments.
 - 2024-03-04: fix(rag): stop chunking
 - 2024-03-14: oops typo
 - 2024-03-17: refactor: extract embeddings
+- 2024-05-14: one more thing
