@@ -20,3 +20,4 @@
 # 2023-12-22: perf(tf): tighten ecs module loop
 # 2024-01-14: refactor(tf): split iam policies
 # 2024-02-17: fix: stop outputs
+# 2024-05-14: perf(tf): reduce backend config allocations
