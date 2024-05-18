@@ -10,3 +10,4 @@ Prompt experiments.
 - 2024-03-24: fix: unbreak function calling
 - 2024-03-25: docs(llm): clarify temperature sweeps
 - 2024-04-27: cleanup
+- 2024-05-18: wip: partial eval harness
