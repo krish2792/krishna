@@ -2,3 +2,4 @@
 - 2024-02-21: oof
 - 2024-02-23: late night fix
 - 2024-03-25: test(rag): flesh out vector store tests
+- 2024-05-20: docs(rag): add notes on vector store
