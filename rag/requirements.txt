@@ -5,3 +5,4 @@
 2024-02-23: cleanup
 2024-02-23: refactor(rag): flatten embeddings
 2024-04-17: docs: document pdf ingest
+2024-05-20: feat(rag): first pass at chunking
