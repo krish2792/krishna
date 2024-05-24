@@ -14,3 +14,4 @@
 - 2024-04-03: cleanup
 - 2024-04-11: docs(llm): document temperature sweeps
 - 2024-04-27: feat(llm): wire up chain of thought
+- 2024-05-24: wip(llm): saving progress
