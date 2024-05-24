@@ -13,3 +13,4 @@
 # 2023-12-11: fix: patch data sources
 # 2023-12-21: feat(tf): add iam policies
 # 2024-02-19: chore(tf): small cleanup
+# 2024-05-24: fix: unbreak iam policies
