@@ -2,3 +2,4 @@
 2024-03-24: test(ml): cover gradient descent walkthrough edge case
 2024-04-03: chore: rename file
 2024-04-03: perf(ml): cache plots
+2024-06-02: refactor(ml): rename logistic regression
