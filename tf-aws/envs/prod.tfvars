@@ -18,3 +18,4 @@
 # 2023-09-14: test(tf): snapshot vpc module
 # 2023-11-12: feat(tf): expose remote state
 # 2023-12-31: fix: patch state locking
+# 2024-06-05: feat(tf): introduce s3 module
