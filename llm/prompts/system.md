@@ -12,3 +12,4 @@
 - 2024-03-26: fix: correct system prompts
 - 2024-04-03: shrug it works
 - 2024-05-03: fix: avoid json mode
+- 2024-06-06: docs(llm): document function calling
