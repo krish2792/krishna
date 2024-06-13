@@ -13,3 +13,4 @@ Vector search experiments.
 - 2024-04-12: add missing import
 - 2024-04-16: fix: unbreak hnsw
 - 2024-05-19: fix
+- 2024-06-13: chore(emb): tidy
