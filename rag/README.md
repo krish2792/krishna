@@ -9,3 +9,4 @@ RAG pipeline experiments.
 - 2024-03-17: refactor: extract embeddings
 - 2024-05-14: one more thing
 - 2024-05-17: fix(rag): handle embeddings
+- 2024-06-13: test: snapshot citation format
