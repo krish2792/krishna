@@ -16,3 +16,4 @@
 - 2024-04-27: feat(llm): wire up chain of thought
 - 2024-05-24: wip(llm): saving progress
 - 2024-06-06: docs: readme: chain of thought
+- 2024-06-15: refactor(llm): split eval harness
