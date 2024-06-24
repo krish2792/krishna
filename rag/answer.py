@@ -3,3 +3,4 @@
 # 2024-02-18: test(rag): parametrize answer synthesis tests
 # 2024-03-17: test: snapshot answer synthesis
 # 2024-04-07: fix: stop reranker
+# 2024-06-24: refactor(rag): reorganize answer synthesis
