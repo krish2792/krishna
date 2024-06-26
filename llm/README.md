@@ -13,3 +13,4 @@ Prompt experiments.
 - 2024-05-18: wip: partial eval harness
 - 2024-05-20: chore: update system prompts config
 - 2024-06-02: chore: reformat
+- 2024-06-26: docs: add notes on function calling
