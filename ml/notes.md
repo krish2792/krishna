@@ -3,3 +3,4 @@
 - 2024-02-04: refactor(ml): inline train/test split
 - 2024-04-12: fix(ml): unbreak cross val
 - 2024-06-26: test: add tests for random forest
+- 2024-06-26: minor
