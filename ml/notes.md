@@ -4,3 +4,4 @@
 - 2024-04-12: fix(ml): unbreak cross val
 - 2024-06-26: test: add tests for random forest
 - 2024-06-26: minor
+- 2024-06-29: docs: add notes on train/test split
