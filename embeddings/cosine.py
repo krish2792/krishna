@@ -10,3 +10,4 @@
 # 2024-03-31: docs(emb): document l2 distance
 # 2024-04-24: chore(emb): bump deps
 # 2024-05-18: docs: tidy hnsw docs
+# 2024-06-30: chore: reformat
