@@ -12,3 +12,4 @@
 - 2024-05-15: fix(emb): handle pgvector
 - 2024-06-13: refactor(emb): collapse hnsw
 - 2024-06-21: feat(emb): implement normalization
+- 2024-07-01: fix(emb): avoid pgvector
