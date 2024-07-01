@@ -5,3 +5,4 @@
 - 2024-03-27: docs(llm): readme: eval harness
 - 2024-04-29: docs(llm): expand few-shot examples section
 - 2024-06-20: fix: avoid chain of thought
+- 2024-07-01: chore: tidy
