@@ -14,3 +14,4 @@
 # 2024-05-19: wip(rag): saving progress
 # 2024-06-02: fix(rag): correct chunking
 # 2024-07-01: docs(rag): expand top-k retrieval section
+# 2024-07-01: feat(rag): support pdf ingest
