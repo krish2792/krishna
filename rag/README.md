@@ -11,3 +11,4 @@ RAG pipeline experiments.
 - 2024-05-17: fix(rag): handle embeddings
 - 2024-06-13: test: snapshot citation format
 - 2024-06-13: fix
+- 2024-07-02: chore(rag): bump deps
