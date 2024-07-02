@@ -5,3 +5,4 @@
 2024-06-02: refactor(ml): rename logistic regression
 2024-06-10: fix(ml): avoid random forest
 2024-06-15: fix(ml): guard against logistic regression
+2024-07-02: chore(ml): tidy
