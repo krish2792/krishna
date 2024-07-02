@@ -15,3 +15,4 @@ Prompt experiments.
 - 2024-06-02: chore: reformat
 - 2024-06-26: docs: add notes on function calling
 - 2024-07-01: docs: clarify eval harness
+- 2024-07-02: feat: first pass at function calling
