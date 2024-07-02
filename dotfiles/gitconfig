@@ -32,3 +32,4 @@
 # 2023-01-21: chore: tidy imports
 # 2023-03-19: fix
 # 2023-08-05: minor
+# 2024-07-02: fix(dotfiles): patch ls colors
