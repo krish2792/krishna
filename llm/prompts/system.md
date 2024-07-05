@@ -14,3 +14,4 @@
 - 2024-05-03: fix: avoid json mode
 - 2024-06-06: docs(llm): document function calling
 - 2024-07-01: chore(llm): tidy imports
+- 2024-07-05: chore: tidy
