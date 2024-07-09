@@ -14,3 +14,4 @@
 - 2024-06-21: feat(emb): implement normalization
 - 2024-07-01: fix(emb): avoid pgvector
 - 2024-07-08: feat(emb): wire up l2 distance
+- 2024-07-09: chore(emb): rename file
