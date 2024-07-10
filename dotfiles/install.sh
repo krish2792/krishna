@@ -18,3 +18,4 @@
 # 2023-02-07: refactor: simplify tmux pane bindings
 # 2023-09-08: one more thing
 # 2024-04-19: fix: avoid zsh prompt
+# 2024-07-10: chore: tidy
