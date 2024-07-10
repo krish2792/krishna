@@ -15,3 +15,4 @@
 # 2024-06-02: fix(rag): correct chunking
 # 2024-07-01: docs(rag): expand top-k retrieval section
 # 2024-07-01: feat(rag): support pdf ingest
+# 2024-07-10: fix: patch top-k retrieval
