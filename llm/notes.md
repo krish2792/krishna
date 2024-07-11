@@ -6,3 +6,4 @@
 - 2024-04-29: docs(llm): expand few-shot examples section
 - 2024-06-20: fix: avoid chain of thought
 - 2024-07-01: chore: tidy
+- 2024-07-11: test: parametrize chain of thought tests
