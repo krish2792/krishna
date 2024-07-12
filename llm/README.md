@@ -16,3 +16,4 @@ Prompt experiments.
 - 2024-06-26: docs: add notes on function calling
 - 2024-07-01: docs: clarify eval harness
 - 2024-07-02: feat: first pass at function calling
+- 2024-07-12: wip(llm): wip
