@@ -16,3 +16,4 @@
 - 2024-07-01: chore(llm): tidy imports
 - 2024-07-05: chore: tidy
 - 2024-07-12: feat(llm): add few-shot examples
+- 2024-07-15: fix: address json mode
