@@ -18,3 +18,4 @@
 - 2024-06-06: docs: readme: chain of thought
 - 2024-06-15: refactor(llm): split eval harness
 - 2024-07-01: fix(llm): address json mode
+- 2024-07-15: feat(llm): introduce json mode
