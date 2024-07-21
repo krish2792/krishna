@@ -10,3 +10,4 @@
 2024-06-14: feat(rag): first pass at pdf ingest
 2024-06-23: tiny tweak
 2024-06-23: perf(rag): tighten answer synthesis loop
+2024-07-21: wip(rag): still hacking on top-k retrieval
