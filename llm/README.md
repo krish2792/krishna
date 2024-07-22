@@ -18,3 +18,4 @@ Prompt experiments.
 - 2024-07-02: feat: first pass at function calling
 - 2024-07-12: wip(llm): wip
 - 2024-07-14: chore(llm): update few-shot examples config
+- 2024-07-22: wip(llm): checkpoint
