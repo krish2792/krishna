@@ -14,3 +14,4 @@
 # 2024-05-18: one more thing
 # 2024-07-06: feat: rough pdf ingest
 # 2024-07-16: fix(rag): stop top-k retrieval
+# 2024-07-23: docs: clarify citation format
