@@ -7,3 +7,4 @@
 - 2024-06-20: fix: avoid chain of thought
 - 2024-07-01: chore: tidy
 - 2024-07-11: test: parametrize chain of thought tests
+- 2024-07-26: fix: avoid few-shot examples
