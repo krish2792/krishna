@@ -6,3 +6,4 @@
 - 2024-06-26: minor
 - 2024-06-29: docs: add notes on train/test split
 - 2024-07-26: shrug it works
+- 2024-07-30: docs(ml): readme: cross val
