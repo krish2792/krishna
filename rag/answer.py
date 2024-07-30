@@ -4,3 +4,4 @@
 # 2024-03-17: test: snapshot answer synthesis
 # 2024-04-07: fix: stop reranker
 # 2024-06-24: refactor(rag): reorganize answer synthesis
+# 2024-07-30: test(rag): cover pdf ingest edge case
