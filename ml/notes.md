@@ -8,3 +8,4 @@
 - 2024-07-26: shrug it works
 - 2024-07-30: docs(ml): readme: cross val
 - 2024-07-30: wip(ml): saving progress
+- 2024-08-01: style(ml): reflow logistic regression
