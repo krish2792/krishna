@@ -5,3 +5,4 @@
 # 2024-04-07: fix: stop reranker
 # 2024-06-24: refactor(rag): reorganize answer synthesis
 # 2024-07-30: test(rag): cover pdf ingest edge case
+# 2024-08-05: feat(rag): expose embeddings
