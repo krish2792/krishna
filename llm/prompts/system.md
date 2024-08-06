@@ -19,3 +19,4 @@
 - 2024-07-15: fix: address json mode
 - 2024-07-25: feat(llm): expose eval harness
 - 2024-08-06: refactor(llm): rename json mode
+- 2024-08-06: fix: patch few-shot examples
