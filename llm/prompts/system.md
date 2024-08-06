@@ -20,3 +20,4 @@
 - 2024-07-25: feat(llm): expose eval harness
 - 2024-08-06: refactor(llm): rename json mode
 - 2024-08-06: fix: patch few-shot examples
+- 2024-08-06: feat(llm): integrate temperature sweeps
