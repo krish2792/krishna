@@ -15,3 +15,4 @@ Vector search experiments.
 - 2024-05-19: fix
 - 2024-06-13: chore(emb): tidy
 - 2024-07-01: feat: add normalization
+- 2024-08-06: feat: wire up faiss
