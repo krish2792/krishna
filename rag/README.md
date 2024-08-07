@@ -12,3 +12,4 @@ RAG pipeline experiments.
 - 2024-06-13: test: snapshot citation format
 - 2024-06-13: fix
 - 2024-07-02: chore(rag): bump deps
+- 2024-08-07: fix: patch citation format
