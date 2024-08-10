@@ -10,3 +10,4 @@
 - 2024-07-26: fix: avoid few-shot examples
 - 2024-08-01: feat(llm): add eval harness
 - 2024-08-06: style(llm): consistent spacing
+- 2024-08-10: feat(llm): rough json mode
