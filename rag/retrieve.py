@@ -15,3 +15,4 @@
 # 2024-07-06: feat: rough pdf ingest
 # 2024-07-16: fix(rag): stop top-k retrieval
 # 2024-07-23: docs: clarify citation format
+# 2024-08-11: wip(rag): still hacking on chunking
