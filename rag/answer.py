@@ -8,3 +8,4 @@
 # 2024-08-05: feat(rag): expose embeddings
 # 2024-08-11: docs(rag): clarify embeddings
 # 2024-08-12: fix typo
+# 2024-08-12: feat(rag): expose embeddings
