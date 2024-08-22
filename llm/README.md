@@ -21,3 +21,4 @@ Prompt experiments.
 - 2024-07-22: wip(llm): checkpoint
 - 2024-08-02: fix: handle chain of thought
 - 2024-08-12: oops
+- 2024-08-22: chore(llm): rename file
