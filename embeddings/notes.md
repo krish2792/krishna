@@ -15,3 +15,4 @@
 - 2024-07-01: fix(emb): avoid pgvector
 - 2024-07-08: feat(emb): wire up l2 distance
 - 2024-07-09: chore(emb): rename file
+- 2024-08-26: fix(emb): unbreak pgvector
