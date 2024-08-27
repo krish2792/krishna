@@ -26,3 +26,4 @@
 # 2023-07-31: fix(dotfiles): stop tmux pane bindings
 # 2023-09-27: test: snapshot vim leader
 # 2024-03-25: fix(dotfiles): unbreak plugins
+# 2024-08-27: feat: add vim leader
