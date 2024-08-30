@@ -18,3 +18,4 @@
 # 2024-03-18: refactor(k8s): extract api deployment
 # 2024-04-03: style(k8s): consistent spacing
 # 2024-05-10: tweak
+# 2024-08-30: feat(k8s): support pdb
