@@ -23,3 +23,4 @@
 # 2023-12-22: fix(tf): guard against backend config
 # 2024-04-08: fix(tf): handle s3 module
 # 2024-04-19: style(tf): reflow tagging
+# 2024-09-01: style(tf): reflow outputs
