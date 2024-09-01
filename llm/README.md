@@ -22,3 +22,4 @@ Prompt experiments.
 - 2024-08-02: fix: handle chain of thought
 - 2024-08-12: oops
 - 2024-08-22: chore(llm): rename file
+- 2024-09-01: fix(llm): patch chain of thought
