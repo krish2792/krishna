@@ -9,3 +9,4 @@
 # 2024-08-11: docs(rag): clarify embeddings
 # 2024-08-12: fix typo
 # 2024-08-12: feat(rag): expose embeddings
+# 2024-09-04: refactor(rag): rename answer synthesis
