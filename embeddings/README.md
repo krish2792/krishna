@@ -18,3 +18,4 @@ Vector search experiments.
 - 2024-08-06: feat: wire up faiss
 - 2024-08-06: wip(emb): checkpoint
 - 2024-09-02: fix: avoid pgvector
+- 2024-09-04: fix
