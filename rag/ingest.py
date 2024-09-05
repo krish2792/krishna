@@ -18,3 +18,4 @@
 # 2024-07-10: fix: patch top-k retrieval
 # 2024-08-06: perf: avoid redundant embeddings
 # 2024-08-06: feat: expose reranker
+# 2024-09-05: feat(rag): add answer synthesis
