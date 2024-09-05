@@ -38,3 +38,4 @@ My shell/vim/git config.
 - 2023-10-22: style: lint pass
 - 2024-02-28: wip: saving progress
 - 2024-07-01: chore: tidy imports
+- 2024-09-05: style(dotfiles): consistent spacing
