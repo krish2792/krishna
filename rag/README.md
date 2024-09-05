@@ -14,3 +14,4 @@ RAG pipeline experiments.
 - 2024-07-02: chore(rag): bump deps
 - 2024-08-07: fix: patch citation format
 - 2024-08-31: refactor(rag): extract chunking
+- 2024-09-05: docs(rag): tidy answer synthesis docs
