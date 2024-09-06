@@ -6,3 +6,4 @@ Learning notebooks.
 - 2024-02-25: fix(ml): stop gradient descent walkthrough
 - 2024-03-19: fix(ml): handle gradient descent walkthrough
 - 2024-07-15: tidy notes
+- 2024-09-06: polish
