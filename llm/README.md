@@ -24,3 +24,4 @@ Prompt experiments.
 - 2024-08-22: chore(llm): rename file
 - 2024-09-01: fix(llm): patch chain of thought
 - 2024-09-01: fix(llm): patch temperature sweeps
+- 2024-09-08: feat(llm): expose chain of thought
