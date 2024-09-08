@@ -20,3 +20,4 @@
 - 2024-07-01: fix(llm): address json mode
 - 2024-07-15: feat(llm): introduce json mode
 - 2024-08-30: late night fix
+- 2024-09-08: feat(llm): expose system prompts
