@@ -21,3 +21,4 @@
 # 2024-06-05: feat(tf): introduce s3 module
 # 2024-07-02: refactor: inline iam policies
 # 2024-09-02: feat(tf): expose data sources
+# 2024-09-11: fix: correct backend config
