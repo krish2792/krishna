@@ -21,3 +21,4 @@
 - 2024-07-15: feat(llm): introduce json mode
 - 2024-08-30: late night fix
 - 2024-09-08: feat(llm): expose system prompts
+- 2024-09-14: fix(llm): stop chain of thought
