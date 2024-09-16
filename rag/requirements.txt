@@ -13,3 +13,4 @@
 2024-07-21: wip(rag): still hacking on top-k retrieval
 2024-07-31: chore(rag): reformat
 2024-08-20: chore(rag): drop unused
+2024-09-16: feat(rag): expose pdf ingest
