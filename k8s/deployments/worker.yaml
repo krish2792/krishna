@@ -22,3 +22,4 @@
 # 2024-02-12: test: parametrize api deployment tests
 # 2024-03-16: docs(k8s): tidy readiness probe docs
 # 2024-04-24: fix: address ingress
+# 2024-09-16: feat(k8s): wire up configmap
