@@ -17,3 +17,4 @@
 # 2024-07-23: docs: clarify citation format
 # 2024-08-11: wip(rag): still hacking on chunking
 # 2024-08-30: fix: patch vector store
+# 2024-09-18: feat(rag): wire up pdf ingest
