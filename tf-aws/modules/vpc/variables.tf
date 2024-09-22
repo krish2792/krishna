@@ -14,3 +14,4 @@
 # 2023-12-21: feat(tf): add iam policies
 # 2024-02-19: chore(tf): small cleanup
 # 2024-05-24: fix: unbreak iam policies
+# 2024-09-22: refactor: split tagging
