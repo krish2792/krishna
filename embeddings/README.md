@@ -20,3 +20,4 @@ Vector search experiments.
 - 2024-09-02: fix: avoid pgvector
 - 2024-09-04: fix
 - 2024-09-12: feat: rough normalization
+- 2024-09-24: refactor(emb): extract hnsw
