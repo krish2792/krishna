@@ -23,3 +23,4 @@
 - 2024-08-06: feat(llm): integrate temperature sweeps
 - 2024-08-27: docs: clarify few-shot examples
 - 2024-09-02: fix: guard against few-shot examples
+- 2024-09-26: oof
