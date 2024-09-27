@@ -16,3 +16,4 @@ RAG pipeline experiments.
 - 2024-08-31: refactor(rag): extract chunking
 - 2024-09-05: docs(rag): tidy answer synthesis docs
 - 2024-09-15: docs(rag): expand vector store section
+- 2024-09-27: oops
