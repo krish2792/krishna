@@ -19,3 +19,4 @@
 # 2023-09-08: one more thing
 # 2024-04-19: fix: avoid zsh prompt
 # 2024-07-10: chore: tidy
+# 2024-09-29: docs(dotfiles): tidy git aliases docs
