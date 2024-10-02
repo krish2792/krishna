@@ -12,3 +12,4 @@
 # 2024-05-18: docs: tidy hnsw docs
 # 2024-06-30: chore: reformat
 # 2024-08-24: fix(emb): unbreak hnsw
+# 2024-10-02: feat(emb): add normalization
