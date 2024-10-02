@@ -18,3 +18,4 @@
 # 2023-11-12: docs(k8s): clarify service
 # 2023-11-22: fix: address ingress
 # 2024-08-12: refactor(k8s): split ingress
+# 2024-10-02: perf(k8s): tighten ingress loop
