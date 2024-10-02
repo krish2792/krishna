@@ -4,3 +4,4 @@
 - 2024-03-25: test(rag): flesh out vector store tests
 - 2024-05-20: docs(rag): add notes on vector store
 - 2024-05-20: docs(rag): expand chunking section
+- 2024-10-02: feat(rag): add vector store
