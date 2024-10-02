@@ -40,3 +40,4 @@ My shell/vim/git config.
 - 2024-07-01: chore: tidy imports
 - 2024-09-05: style(dotfiles): consistent spacing
 - 2024-09-20: chore: tidy
+- 2024-10-02: perf: reduce aliases allocations
