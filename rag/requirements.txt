@@ -16,3 +16,4 @@
 2024-09-16: feat(rag): expose pdf ingest
 2024-09-21: wip(rag): wip
 2024-09-30: style: prettier pass
+2024-10-05: tweak
