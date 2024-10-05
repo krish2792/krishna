@@ -26,3 +26,4 @@ Prompt experiments.
 - 2024-09-01: fix(llm): patch temperature sweeps
 - 2024-09-08: feat(llm): expose chain of thought
 - 2024-10-02: forgot a file
+- 2024-10-05: test: cover eval harness edge case
