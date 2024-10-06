@@ -13,3 +13,4 @@
 # 2024-06-30: chore: reformat
 # 2024-08-24: fix(emb): unbreak hnsw
 # 2024-10-02: feat(emb): add normalization
+# 2024-10-06: feat(emb): support cosine sim
