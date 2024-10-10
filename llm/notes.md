@@ -11,3 +11,4 @@
 - 2024-08-01: feat(llm): add eval harness
 - 2024-08-06: style(llm): consistent spacing
 - 2024-08-10: feat(llm): rough json mode
+- 2024-10-10: docs(llm): expand system prompts section
