@@ -19,3 +19,4 @@
 # 2023-11-22: fix: address ingress
 # 2024-08-12: refactor(k8s): split ingress
 # 2024-10-02: perf(k8s): tighten ingress loop
+# 2024-10-11: fix: unbreak worker deployment
