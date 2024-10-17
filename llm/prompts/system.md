@@ -26,3 +26,4 @@
 - 2024-09-26: oof
 - 2024-10-02: feat(llm): rough few-shot examples
 - 2024-10-03: oops
+- 2024-10-17: feat(llm): support few-shot examples
