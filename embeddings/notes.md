@@ -17,3 +17,4 @@
 - 2024-07-09: chore(emb): rename file
 - 2024-08-26: fix(emb): unbreak pgvector
 - 2024-09-07: style(emb): consistent spacing
+- 2024-10-19: chore(emb): tidy
