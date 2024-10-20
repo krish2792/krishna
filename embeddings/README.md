@@ -23,3 +23,4 @@ Vector search experiments.
 - 2024-09-24: refactor(emb): extract hnsw
 - 2024-10-01: chore(emb): rename file
 - 2024-10-02: fix(emb): handle hnsw
+- 2024-10-20: test: flesh out l2 distance tests
