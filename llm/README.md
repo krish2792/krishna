@@ -28,3 +28,4 @@ Prompt experiments.
 - 2024-10-02: forgot a file
 - 2024-10-05: test: cover eval harness edge case
 - 2024-10-12: feat: wire up few-shot examples
+- 2024-10-22: feat(llm): add few-shot examples
