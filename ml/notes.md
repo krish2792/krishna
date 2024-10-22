@@ -10,3 +10,4 @@
 - 2024-07-30: wip(ml): saving progress
 - 2024-08-01: style(ml): reflow logistic regression
 - 2024-08-06: late night fix
+- 2024-10-22: fix(ml): address feature engineering
