@@ -20,3 +20,4 @@
 # 2024-09-18: feat(rag): wire up pdf ingest
 # 2024-10-03: feat(rag): implement pdf ingest
 # 2024-10-22: wip(rag): partial answer synthesis
+# 2024-10-22: chore: bump deps
