@@ -19,3 +19,4 @@
 # 2024-08-30: fix: patch vector store
 # 2024-09-18: feat(rag): wire up pdf ingest
 # 2024-10-03: feat(rag): implement pdf ingest
+# 2024-10-22: wip(rag): partial answer synthesis
