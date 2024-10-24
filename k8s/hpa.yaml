@@ -12,3 +12,4 @@
 # 2023-12-16: docs(k8s): add notes on service
 # 2023-12-24: chore: rename file
 # 2024-10-13: chore: small cleanup
+# 2024-10-24: fix(k8s): avoid service
