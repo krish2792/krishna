@@ -13,3 +13,4 @@
 - 2024-08-10: feat(llm): rough json mode
 - 2024-10-10: docs(llm): expand system prompts section
 - 2024-10-25: chore(llm): tidy imports
+- 2024-10-25: chore(llm): drop unused
