@@ -22,3 +22,4 @@ Kubernetes manifests.
 - 2023-11-01: tiny tweak
 - 2023-11-21: perf(k8s): avoid redundant readiness probe
 - 2024-03-18: style(k8s): reflow service
+- 2024-10-25: docs(k8s): readme: resource limits
