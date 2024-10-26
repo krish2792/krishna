@@ -21,3 +21,4 @@
 # 2024-10-03: feat(rag): implement pdf ingest
 # 2024-10-22: wip(rag): partial answer synthesis
 # 2024-10-22: chore: bump deps
+# 2024-10-26: wip: partial reranker
