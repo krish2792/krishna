@@ -24,3 +24,4 @@
 # 2024-03-29: refactor: flatten data sources
 # 2024-04-03: style(tf): lint pass
 # 2024-08-28: refactor: inline data sources
+# 2024-10-28: refactor(tf): inline data sources
