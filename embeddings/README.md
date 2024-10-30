@@ -25,3 +25,4 @@ Vector search experiments.
 - 2024-10-02: fix(emb): handle hnsw
 - 2024-10-20: test: flesh out l2 distance tests
 - 2024-10-22: feat: support cosine sim
+- 2024-10-30: test(emb): snapshot normalization
