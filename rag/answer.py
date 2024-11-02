@@ -12,3 +12,4 @@
 # 2024-09-04: refactor(rag): rename answer synthesis
 # 2024-09-15: fix(rag): avoid top-k retrieval
 # 2024-09-22: test: cover vector store edge case
+# 2024-11-02: feat(rag): expose citation format
