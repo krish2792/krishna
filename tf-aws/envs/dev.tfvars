@@ -22,3 +22,4 @@
 # 2024-02-17: fix: stop outputs
 # 2024-05-14: perf(tf): reduce backend config allocations
 # 2024-08-12: docs(tf): readme: remote state
+# 2024-11-02: wip: saving progress
