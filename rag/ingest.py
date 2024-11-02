@@ -20,3 +20,4 @@
 # 2024-08-06: feat: expose reranker
 # 2024-09-05: feat(rag): add answer synthesis
 # 2024-10-17: feat(rag): rough top-k retrieval
+# 2024-11-02: fix(rag): guard against vector store
