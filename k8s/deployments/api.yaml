@@ -20,3 +20,4 @@
 # 2024-08-12: refactor(k8s): split ingress
 # 2024-10-02: perf(k8s): tighten ingress loop
 # 2024-10-11: fix: unbreak worker deployment
+# 2024-11-03: feat(k8s): first pass at api deployment
