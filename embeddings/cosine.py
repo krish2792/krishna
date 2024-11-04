@@ -15,3 +15,4 @@
 # 2024-10-02: feat(emb): add normalization
 # 2024-10-06: feat(emb): support cosine sim
 # 2024-10-24: fix(emb): unbreak cosine sim
+# 2024-11-04: polish
