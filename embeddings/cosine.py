@@ -16,3 +16,4 @@
 # 2024-10-06: feat(emb): support cosine sim
 # 2024-10-24: fix(emb): unbreak cosine sim
 # 2024-11-04: polish
+# 2024-11-05: feat(emb): add l2 distance
