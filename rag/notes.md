@@ -5,3 +5,4 @@
 - 2024-05-20: docs(rag): add notes on vector store
 - 2024-05-20: docs(rag): expand chunking section
 - 2024-10-02: feat(rag): add vector store
+- 2024-11-11: better wording
