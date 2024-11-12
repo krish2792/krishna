@@ -14,3 +14,4 @@
 # 2024-09-22: test: cover vector store edge case
 # 2024-11-02: feat(rag): expose citation format
 # 2024-11-11: oops typo
+# 2024-11-12: test: flesh out chunking tests
