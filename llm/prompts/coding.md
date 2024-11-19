@@ -25,3 +25,4 @@
 - 2024-09-22: fix: avoid system prompts
 - 2024-10-02: feat: expose few-shot examples
 - 2024-11-02: feat(llm): first pass at eval harness
+- 2024-11-19: feat(llm): add temperature sweeps
