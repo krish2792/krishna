@@ -11,3 +11,4 @@
 - 2024-08-01: style(ml): reflow logistic regression
 - 2024-08-06: late night fix
 - 2024-10-22: fix(ml): address feature engineering
+- 2024-11-24: perf: avoid redundant data load
