@@ -6,3 +6,4 @@
 - 2024-05-20: docs(rag): expand chunking section
 - 2024-10-02: feat(rag): add vector store
 - 2024-11-11: better wording
+- 2024-11-24: fix: unbreak chunking
