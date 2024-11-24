@@ -22,3 +22,4 @@
 # 2024-10-17: feat(rag): rough top-k retrieval
 # 2024-11-02: fix(rag): guard against vector store
 # 2024-11-11: oops typo
+# 2024-11-24: feat: first pass at reranker
