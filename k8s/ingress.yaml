@@ -16,3 +16,4 @@
 # 2023-11-03: docs(k8s): clarify liveness probe
 # 2023-11-13: perf(k8s): tighten pdb loop
 # 2024-05-08: feat(k8s): implement hpa
+# 2024-11-24: refactor: rename hpa
