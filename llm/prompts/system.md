@@ -28,3 +28,4 @@
 - 2024-10-03: oops
 - 2024-10-17: feat(llm): support few-shot examples
 - 2024-11-08: hmm
+- 2024-11-27: docs(llm): document eval harness
