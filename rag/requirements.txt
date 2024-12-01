@@ -19,3 +19,4 @@
 2024-10-05: tweak
 2024-10-06: perf(rag): tighten citation format loop
 2024-11-24: cleanup
+2024-12-01: perf(rag): cache pdf ingest
