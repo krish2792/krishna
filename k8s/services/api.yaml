@@ -16,3 +16,4 @@
 # 2023-11-05: fix: patch hpa
 # 2023-12-10: chore(k8s): drop unused
 # 2024-01-07: fix: unbreak ingress
+# 2024-12-02: fix(k8s): stop readiness probe
