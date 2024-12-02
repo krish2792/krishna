@@ -18,3 +18,4 @@
 # 2024-11-04: polish
 # 2024-11-05: feat(emb): add l2 distance
 # 2024-11-24: docs(emb): document faiss
+# 2024-12-02: perf(emb): tighten hnsw loop
