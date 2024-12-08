@@ -29,3 +29,4 @@
 - 2024-10-17: feat(llm): support few-shot examples
 - 2024-11-08: hmm
 - 2024-11-27: docs(llm): document eval harness
+- 2024-12-08: docs(llm): expand function calling section
