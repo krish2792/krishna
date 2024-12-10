@@ -28,3 +28,4 @@
 - 2024-11-19: feat(llm): add temperature sweeps
 - 2024-12-02: fix: patch chain of thought
 - 2024-12-10: wip: checkpoint
+- 2024-12-10: chore(llm): tidy
