@@ -12,3 +12,4 @@
 - 2024-08-06: late night fix
 - 2024-10-22: fix(ml): address feature engineering
 - 2024-11-24: perf: avoid redundant data load
+- 2024-12-10: refactor(ml): extract cross val
