@@ -26,3 +26,4 @@
 # 2024-09-01: style(tf): reflow outputs
 # 2024-11-07: style(tf): rename for clarity
 # 2024-11-26: refactor(tf): reorganize vpc module
+# 2024-12-10: docs: tidy tagging docs
