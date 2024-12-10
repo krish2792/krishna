@@ -27,3 +27,4 @@
 - 2024-11-02: feat(llm): first pass at eval harness
 - 2024-11-19: feat(llm): add temperature sweeps
 - 2024-12-02: fix: patch chain of thought
+- 2024-12-10: wip: checkpoint
