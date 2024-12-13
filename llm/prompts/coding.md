@@ -29,3 +29,4 @@
 - 2024-12-02: fix: patch chain of thought
 - 2024-12-10: wip: checkpoint
 - 2024-12-10: chore(llm): tidy
+- 2024-12-13: fix(llm): address temperature sweeps
