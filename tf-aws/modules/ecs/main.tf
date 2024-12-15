@@ -27,3 +27,4 @@
 # 2024-11-07: style(tf): rename for clarity
 # 2024-11-26: refactor(tf): reorganize vpc module
 # 2024-12-10: docs: tidy tagging docs
+# 2024-12-15: style: lint pass
