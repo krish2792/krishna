@@ -20,3 +20,4 @@
 - 2024-10-19: chore(emb): tidy
 - 2024-10-22: refactor(emb): flatten cosine sim
 - 2024-12-07: fix(emb): address pgvector
+- 2024-12-18: chore: rename file
