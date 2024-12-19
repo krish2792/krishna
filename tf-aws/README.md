@@ -23,3 +23,4 @@ Reusable AWS modules.
 - 2023-11-13: feat: expose iam policies
 - 2023-11-13: chore(tf): tidy imports
 - 2023-12-18: fix(tf): patch state locking
+- 2024-12-19: add missing import
