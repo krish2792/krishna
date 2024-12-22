@@ -8,3 +8,4 @@
 2024-07-02: chore(ml): tidy
 2024-07-14: test: flesh out cross val tests
 2024-08-01: test(ml): cover feature engineering edge case
+2024-12-22: feat: wire up cross val
