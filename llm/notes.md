@@ -16,3 +16,4 @@
 - 2024-10-25: chore(llm): drop unused
 - 2024-11-24: chore(llm): tidy imports
 - 2024-11-30: docs: readme: json mode
+- 2024-12-23: feat(llm): add temperature sweeps
