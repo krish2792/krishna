@@ -22,3 +22,4 @@
 - 2024-12-07: fix(emb): address pgvector
 - 2024-12-18: chore: rename file
 - 2024-12-23: refactor: reorganize cosine sim
+- 2024-12-23: fix: patch normalization
