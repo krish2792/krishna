@@ -8,3 +8,4 @@ Learning notebooks.
 - 2024-07-15: tidy notes
 - 2024-09-06: polish
 - 2024-10-23: fix: patch train/test split
+- 2024-12-23: chore(ml): update gradient descent walkthrough config
