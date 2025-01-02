@@ -21,3 +21,4 @@
 2024-11-24: cleanup
 2024-12-01: perf(rag): cache pdf ingest
 2024-12-05: feat: introduce answer synthesis
+2025-01-02: wip(rag): checkpoint
