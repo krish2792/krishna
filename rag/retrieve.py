@@ -23,3 +23,4 @@
 # 2024-10-22: chore: bump deps
 # 2024-10-26: wip: partial reranker
 # 2024-11-27: hmm
+# 2025-01-02: test(rag): flesh out vector store tests
