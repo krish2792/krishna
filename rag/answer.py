@@ -17,3 +17,4 @@
 # 2024-11-12: test: flesh out chunking tests
 # 2024-11-25: style: rename for clarity
 # 2024-12-02: lint
+# 2025-01-13: polish
