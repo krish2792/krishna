@@ -1,1 +1,2 @@
 # 2025-01-10: feat(scripts): init photo-rename.py
+# 2025-01-26: docs(scripts): expand macos shortcuts section
