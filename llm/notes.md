@@ -18,3 +18,4 @@
 - 2024-11-30: docs: readme: json mode
 - 2024-12-23: feat(llm): add temperature sweeps
 - 2024-12-26: chore: tidy
+- 2025-02-09: feat: first pass at few-shot examples
