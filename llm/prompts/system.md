@@ -31,3 +31,4 @@
 - 2024-11-27: docs(llm): document eval harness
 - 2024-12-08: docs(llm): expand function calling section
 - 2024-12-23: fix typo
+- 2025-02-15: refactor: simplify chain of thought
