@@ -8,3 +8,4 @@
 - 2024-11-11: better wording
 - 2024-11-24: fix: unbreak chunking
 - 2024-12-01: one more thing
+- 2025-02-19: refactor: reorganize embeddings
