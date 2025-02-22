@@ -1,2 +1,3 @@
 - 2025-01-20: feat(llm): init notes.md
 - 2025-01-26: perf(llm): tighten context window mgmt loop
+- 2025-02-22: hmm
