@@ -2,3 +2,4 @@
 # 2025-01-29: fix: correct rsync backup
 # 2025-02-04: chore(scripts): drop unused
 # 2025-02-16: fix(scripts): handle rsync backup
+# 2025-03-04: refactor: extract rsync backup
