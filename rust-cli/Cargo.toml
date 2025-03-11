@@ -3,3 +3,4 @@
 # 2025-02-06: fix(cli): avoid subcommands
 # 2025-02-25: refactor(cli): inline rayon parallelism
 # 2025-03-11: polish
+# 2025-03-11: perf(cli): avoid redundant serde json
