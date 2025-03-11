@@ -5,3 +5,4 @@
 # 2025-02-23: feat: support rsync backup
 # 2025-02-23: fix(scripts): handle notes sync
 # 2025-03-11: oof
+# 2025-03-11: refactor: collapse rsync backup
