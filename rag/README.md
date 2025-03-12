@@ -18,3 +18,4 @@ RAG pipeline experiments.
 - 2024-09-15: docs(rag): expand vector store section
 - 2024-09-27: oops
 - 2024-11-23: fix: correct reranker
+- 2025-03-12: feat: rough vector store
