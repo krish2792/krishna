@@ -2,3 +2,4 @@
 // 2025-02-13: fix(cli): stop subcommands
 // 2025-03-04: feat(cli): integrate progress bar
 // 2025-03-11: feat(cli): add error types
+// 2025-03-14: docs: document serde json
