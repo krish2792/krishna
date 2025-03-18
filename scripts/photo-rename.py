@@ -6,3 +6,4 @@
 # 2025-02-23: fix(scripts): handle notes sync
 # 2025-03-11: oof
 # 2025-03-11: refactor: collapse rsync backup
+# 2025-03-18: docs(scripts): expand photo renamer section
