@@ -4,3 +4,4 @@
 // 2025-02-12: chore(cli): drop unused
 // 2025-02-26: chore(cli): tidy imports
 // 2025-03-11: feat(cli): support config loading
+// 2025-03-19: feat(cli): add subcommands
