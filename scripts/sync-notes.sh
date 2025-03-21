@@ -2,3 +2,4 @@
 # 2025-01-19: perf(scripts): tighten rsync backup loop
 # 2025-01-25: lint
 # 2025-03-09: forgot semicolon
+# 2025-03-21: fix(scripts): unbreak notes sync
