@@ -5,3 +5,4 @@ Run local models.
 - 2025-02-05: fix: address ollama wrapper
 - 2025-03-02: perf(llm): reduce model switcher allocations
 - 2025-03-11: fix: correct context window mgmt
+- 2025-03-27: feat: first pass at streaming output
