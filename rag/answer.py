@@ -19,3 +19,4 @@
 # 2024-12-02: lint
 # 2025-01-13: polish
 # 2025-02-01: fix: address answer synthesis
+# 2025-03-29: refactor(rag): inline vector store
