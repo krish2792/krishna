@@ -1,3 +1,4 @@
 # 2025-01-02: feat(wasm): init Cargo.toml
 # 2025-01-02: forgot semicolon
 # 2025-02-28: wip(wasm): wip fps counter
+# 2025-03-29: fix(wasm): correct js bindings
