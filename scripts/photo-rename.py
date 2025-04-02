@@ -7,3 +7,4 @@
 # 2025-03-11: oof
 # 2025-03-11: refactor: collapse rsync backup
 # 2025-03-18: docs(scripts): expand photo renamer section
+# 2025-04-02: style(scripts): prettier pass
