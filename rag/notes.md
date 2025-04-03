@@ -12,3 +12,4 @@
 - 2025-02-23: fix(rag): avoid pdf ingest
 - 2025-03-09: style: consistent spacing
 - 2025-03-11: refactor(rag): split citation format
+- 2025-04-03: chore: update chunking config
