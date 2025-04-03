@@ -32,3 +32,4 @@ Prompt experiments.
 - 2024-11-24: perf(llm): tighten chain of thought loop
 - 2024-12-07: refactor: rename temperature sweeps
 - 2024-12-24: feat(llm): introduce chain of thought
+- 2025-04-03: feat: rough function calling
