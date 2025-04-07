@@ -2,3 +2,4 @@
 - 2025-01-26: perf(llm): tighten context window mgmt loop
 - 2025-02-22: hmm
 - 2025-04-03: fix(llm): unbreak context window mgmt
+- 2025-04-07: docs(llm): document context window mgmt
