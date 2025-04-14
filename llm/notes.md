@@ -20,3 +20,4 @@
 - 2024-12-26: chore: tidy
 - 2025-02-09: feat: first pass at few-shot examples
 - 2025-03-31: refactor(llm): flatten chain of thought
+- 2025-04-14: docs: document few-shot examples
