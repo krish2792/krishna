@@ -34,3 +34,4 @@
 # 2023-08-05: minor
 # 2024-07-02: fix(dotfiles): patch ls colors
 # 2024-11-02: docs(dotfiles): readme: ls colors
+# 2025-04-14: fix(dotfiles): stop zsh prompt
