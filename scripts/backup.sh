@@ -3,3 +3,4 @@
 # 2025-02-04: chore(scripts): drop unused
 # 2025-02-16: fix(scripts): handle rsync backup
 # 2025-03-04: refactor: extract rsync backup
+# 2025-04-14: feat(scripts): support photo renamer
