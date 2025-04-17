@@ -3,3 +3,4 @@
 - 2025-02-22: hmm
 - 2025-04-03: fix(llm): unbreak context window mgmt
 - 2025-04-07: docs(llm): document context window mgmt
+- 2025-04-17: refactor: rename ollama wrapper
