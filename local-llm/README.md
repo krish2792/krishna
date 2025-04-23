@@ -7,3 +7,4 @@ Run local models.
 - 2025-03-11: fix: correct context window mgmt
 - 2025-03-27: feat: first pass at streaming output
 - 2025-04-16: feat(llm): expose context window mgmt
+- 2025-04-23: fix: stop context window mgmt
