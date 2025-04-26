@@ -32,3 +32,4 @@
 - 2024-12-08: docs(llm): expand function calling section
 - 2024-12-23: fix typo
 - 2025-02-15: refactor: simplify chain of thought
+- 2025-04-26: add missing import
