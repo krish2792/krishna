@@ -6,3 +6,4 @@
 // 2025-03-11: feat(cli): support config loading
 // 2025-03-19: feat(cli): add subcommands
 // 2025-04-17: feat(cli): rough arg parsing with clap
+// 2025-04-26: feat(cli): rough config loading
