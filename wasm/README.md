@@ -7,3 +7,4 @@ Rust -> WASM playground.
 - 2025-01-31: docs: tidy js bindings docs
 - 2025-02-02: oops typo
 - 2025-02-06: one more thing
+- 2025-04-26: fix(wasm): avoid image filter
