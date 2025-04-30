@@ -4,3 +4,4 @@
 // 2025-03-28: refactor(cli): reorganize progress bar
 // 2025-03-30: docs: add notes on rayon parallelism
 // 2025-04-04: fix: patch error types
+// 2025-04-30: chore(cli): reformat
