@@ -9,3 +9,4 @@
 # 2025-03-18: docs(scripts): expand photo renamer section
 # 2025-04-02: style(scripts): prettier pass
 # 2025-04-20: chore: tidy
+# 2025-05-02: fix(scripts): unbreak cron entries
