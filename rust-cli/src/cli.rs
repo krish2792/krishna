@@ -4,3 +4,4 @@
 // 2025-03-11: feat(cli): add error types
 // 2025-03-14: docs: document serde json
 // 2025-04-26: refactor(cli): inline arg parsing with clap
+// 2025-05-03: fix(cli): unbreak arg parsing with clap
