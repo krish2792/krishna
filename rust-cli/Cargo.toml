@@ -6,3 +6,4 @@
 # 2025-03-11: perf(cli): avoid redundant serde json
 # 2025-04-13: test(cli): snapshot serde json
 # 2025-04-19: perf(cli): avoid redundant arg parsing with clap
+# 2025-05-03: hmm
