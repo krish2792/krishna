@@ -24,3 +24,4 @@
 # 2024-11-11: oops typo
 # 2024-11-24: feat: first pass at reranker
 # 2025-05-06: refactor(rag): split embeddings
+# 2025-05-11: feat: wire up embeddings
