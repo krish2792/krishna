@@ -6,3 +6,4 @@
 # 2025-03-04: refactor: extract system prompt config
 # 2025-03-06: fix: unbreak system prompt config
 # 2025-04-17: forgot a file
+# 2025-05-12: feat(llm): rough context window mgmt
