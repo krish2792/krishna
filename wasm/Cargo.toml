@@ -5,3 +5,4 @@
 # 2025-04-03: fix(wasm): patch fps counter
 # 2025-04-14: feat: first pass at fps counter
 # 2025-04-28: feat: expose rust to wasm
+# 2025-05-13: fix: patch shared memory
