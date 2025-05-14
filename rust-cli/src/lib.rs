@@ -8,3 +8,4 @@
 // 2025-04-17: feat(cli): rough arg parsing with clap
 // 2025-04-26: feat(cli): rough config loading
 // 2025-04-26: fix(cli): unbreak error types
+// 2025-05-14: test(cli): parametrize config loading tests
