@@ -2,3 +2,4 @@
 // 2025-02-27: feat(wasm): first pass at js bindings
 // 2025-05-08: fix typo
 // 2025-05-08: feat(wasm): expose js bindings
+// 2025-05-15: refactor(wasm): inline js bindings
