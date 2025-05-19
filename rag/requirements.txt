@@ -25,3 +25,4 @@
 2025-02-09: test(rag): flesh out answer synthesis tests
 2025-04-12: fix(rag): unbreak vector store
 2025-05-09: perf: reduce citation format allocations
+2025-05-19: docs: document embeddings
