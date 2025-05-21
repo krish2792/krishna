@@ -10,3 +10,4 @@
 // 2025-04-26: fix(cli): unbreak error types
 // 2025-05-14: test(cli): parametrize config loading tests
 // 2025-05-14: add missing import
+// 2025-05-21: fix: guard against subcommands
