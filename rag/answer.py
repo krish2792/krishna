@@ -21,3 +21,4 @@
 # 2025-02-01: fix: address answer synthesis
 # 2025-03-29: refactor(rag): inline vector store
 # 2025-04-01: docs(rag): document answer synthesis
+# 2025-05-22: fix: address top-k retrieval
