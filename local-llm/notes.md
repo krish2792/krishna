@@ -8,3 +8,4 @@
 - 2025-05-05: feat(llm): support model switcher
 - 2025-05-15: refactor: extract system prompt config
 - 2025-05-19: perf(llm): reduce system prompt config allocations
+- 2025-05-23: chore(llm): update llama.cpp wrapper config
