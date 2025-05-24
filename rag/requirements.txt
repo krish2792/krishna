@@ -26,3 +26,4 @@
 2025-04-12: fix(rag): unbreak vector store
 2025-05-09: perf: reduce citation format allocations
 2025-05-19: docs: document embeddings
+2025-05-24: refactor(rag): flatten answer synthesis
