@@ -7,3 +7,4 @@
 # 2025-05-08: fix(scripts): address rsync backup
 # 2025-05-08: fix(scripts): stop cron entries
 # 2025-05-20: docs: document photo renamer
+# 2025-05-24: feat: rough rsync backup
