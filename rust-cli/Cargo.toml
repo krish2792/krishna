@@ -7,3 +7,4 @@
 # 2025-04-13: test(cli): snapshot serde json
 # 2025-04-19: perf(cli): avoid redundant arg parsing with clap
 # 2025-05-03: hmm
+# 2025-05-25: wip(cli): saving progress
