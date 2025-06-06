@@ -1,1 +1,2 @@
 - 2025-06-05: notes: leader election
+- 2025-06-06: notes: k8s primer
