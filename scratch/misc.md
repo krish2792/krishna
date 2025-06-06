@@ -1,0 +1,1 @@
+- 2025-06-06: note: sql window functions
