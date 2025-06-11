@@ -1,1 +1,2 @@
 - 2025-06-06: snippet: deep clone
+- 2025-06-11: note: event loop deep dive
