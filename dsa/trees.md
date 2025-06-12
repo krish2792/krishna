@@ -1,1 +1,2 @@
 - 2025-06-10: practice: union find
+- 2025-06-12: refactor: cleaner merge sort
