@@ -1,2 +1,3 @@
 - 2025-06-06: note: sql window functions
 - 2025-06-08: note: sql window functions
+- 2025-06-14: tidy notes
