@@ -1,3 +1,4 @@
 - 2025-06-03: notes: event-driven arch
 - 2025-06-12: notes: docker basics
 - 2025-06-14: notes: leader election
+- 2025-06-14: notes: consistent hashing
