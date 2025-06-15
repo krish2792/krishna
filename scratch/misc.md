@@ -1,3 +1,4 @@
 - 2025-06-06: note: sql window functions
 - 2025-06-08: note: sql window functions
 - 2025-06-14: tidy notes
+- 2025-06-15: snippet: throttle vs debounce
