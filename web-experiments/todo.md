@@ -1,1 +1,2 @@
 - 2025-06-05: add: debounced input hook
+- 2025-06-18: css: improve spacing
