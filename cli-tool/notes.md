@@ -1,1 +1,2 @@
 - 2025-06-12: test: argv edge cases
+- 2025-06-23: feat: support config file
