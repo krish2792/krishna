@@ -1,1 +1,2 @@
 - 2025-06-04: fix typo
+- 2025-06-26: note: event loop deep dive
