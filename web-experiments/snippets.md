@@ -1,2 +1,3 @@
 - 2025-06-06: fix: hydration warning
 - 2025-06-23: docs: how to run
+- 2025-06-26: add: localStorage hook
