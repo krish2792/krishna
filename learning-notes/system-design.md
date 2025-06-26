@@ -1,2 +1,3 @@
 - 2025-06-15: notes: caching strategies
 - 2025-06-17: notes: postgres mvcc
+- 2025-06-26: notes: redis use cases
