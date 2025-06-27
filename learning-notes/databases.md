@@ -1,1 +1,2 @@
 - 2025-06-08: notes: event-driven arch
+- 2025-06-27: notes: docker basics
