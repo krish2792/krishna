@@ -1,2 +1,3 @@
 - 2025-06-18: note: js this binding
 - 2025-06-28: snippet: async retry
+- 2025-06-29: note: event loop deep dive
