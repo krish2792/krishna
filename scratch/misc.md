@@ -3,3 +3,4 @@
 - 2025-06-14: tidy notes
 - 2025-06-15: snippet: throttle vs debounce
 - 2025-06-20: snippet: deep clone
+- 2025-06-29: note: bash brace expansion
