@@ -1,3 +1,4 @@
 - 2025-06-10: practice: union find
 - 2025-06-12: refactor: cleaner merge sort
 - 2025-06-22: notes: dp patterns
+- 2025-06-29: notes: dp patterns
