@@ -3,3 +3,4 @@
 - 2025-06-15: notes: rest vs grpc
 - 2025-06-24: notes: event-driven arch
 - 2025-06-26: notes: redis use cases
+- 2025-06-29: notes: cap theorem refresh
