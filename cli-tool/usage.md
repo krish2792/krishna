@@ -2,3 +2,4 @@
 - 2025-06-08: feat: add --help output
 - 2025-06-14: feat: parse argv
 - 2025-06-26: test: argv edge cases
+- 2025-06-29: init: cli skeleton
