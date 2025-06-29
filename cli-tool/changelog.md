@@ -1,1 +1,2 @@
 - 2025-06-26: docs: usage examples
+- 2025-06-29: feat: add --verbose flag
