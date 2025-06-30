@@ -5,3 +5,4 @@
 - 2025-06-26: notes: redis use cases
 - 2025-06-29: notes: cap theorem refresh
 - 2025-06-29: notes: docker basics
+- 2025-06-30: notes: cap theorem refresh
