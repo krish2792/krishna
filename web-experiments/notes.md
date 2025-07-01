@@ -2,3 +2,4 @@
 - 2025-06-24: refactor: split components
 - 2025-06-26: feat: drag and drop demo
 - 2025-06-27: style: typography pass
+- 2025-07-01: fix: useEffect deps
