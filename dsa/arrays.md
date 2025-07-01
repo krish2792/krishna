@@ -1,2 +1,3 @@
 - 2025-06-07: solve: longest substring no repeat
 - 2025-06-27: solve: word ladder
+- 2025-07-01: notes: dp patterns
