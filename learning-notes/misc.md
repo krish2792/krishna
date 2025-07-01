@@ -1,3 +1,4 @@
 - 2025-06-04: notes: event-driven arch
 - 2025-06-14: notes: caching strategies
 - 2025-06-29: notes: postgres mvcc
+- 2025-07-01: notes: k8s primer
