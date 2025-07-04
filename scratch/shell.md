@@ -1,3 +1,4 @@
 - 2025-05-28: snippet: deep clone
 - 2025-06-03: note: jq one-liners
 - 2025-06-04: note: js this binding
+- 2025-07-04: snippet: throttle vs debounce
