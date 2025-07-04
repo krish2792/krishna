@@ -3,3 +3,4 @@
 - 2025-06-14: feat: parse argv
 - 2025-06-26: test: argv edge cases
 - 2025-06-29: init: cli skeleton
+- 2025-07-04: docs: update readme
