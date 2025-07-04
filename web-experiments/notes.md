@@ -5,3 +5,4 @@
 - 2025-07-01: fix: useEffect deps
 - 2025-07-02: feat: drag and drop demo
 - 2025-07-04: css: layout tweaks
+- 2025-07-04: chore: tidy
