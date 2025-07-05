@@ -6,3 +6,4 @@
 - 2025-06-29: notes: cap theorem refresh
 - 2025-06-29: notes: docker basics
 - 2025-06-30: notes: cap theorem refresh
+- 2025-07-05: notes: rate limiting
