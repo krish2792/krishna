@@ -5,3 +5,4 @@
 - 2025-06-17: notes: postgres mvcc
 - 2025-07-04: notes: k8s primer
 - 2025-07-09: notes: rest vs grpc
+- 2025-07-13: read: ddia chapter notes
