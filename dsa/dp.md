@@ -1,1 +1,2 @@
 - 2025-06-29: solve: median of two sorted arrays
+- 2025-07-14: notes: dp patterns
