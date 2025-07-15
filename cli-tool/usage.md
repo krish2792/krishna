@@ -5,3 +5,4 @@
 - 2025-06-29: init: cli skeleton
 - 2025-07-04: docs: update readme
 - 2025-07-11: fix: bom on stdin
+- 2025-07-15: feat: support config file
