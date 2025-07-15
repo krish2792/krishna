@@ -6,3 +6,4 @@
 - 2025-07-04: notes: k8s primer
 - 2025-07-09: notes: rest vs grpc
 - 2025-07-13: read: ddia chapter notes
+- 2025-07-15: notes: observability 101
