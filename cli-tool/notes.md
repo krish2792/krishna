@@ -2,3 +2,4 @@
 - 2025-06-23: feat: support config file
 - 2025-07-07: docs: usage examples
 - 2025-07-13: docs: update readme
+- 2025-07-16: init: cli skeleton
