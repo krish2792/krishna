@@ -2,3 +2,4 @@
 - 2025-06-18: css: improve spacing
 - 2025-06-21: css: improve spacing
 - 2025-07-13: fix: hydration warning
+- 2025-07-17: add: localStorage hook
