@@ -3,3 +3,4 @@
 - 2025-06-29: notes: postgres mvcc
 - 2025-07-01: notes: k8s primer
 - 2025-07-16: notes: cap theorem refresh
+- 2025-07-17: notes: caching strategies
