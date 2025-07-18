@@ -1,3 +1,4 @@
 - 2025-06-04: fix typo
 - 2025-06-26: note: event loop deep dive
 - 2025-07-14: tidy notes
+- 2025-07-18: snippet: throttle vs debounce
