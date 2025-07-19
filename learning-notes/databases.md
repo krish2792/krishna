@@ -4,3 +4,4 @@
 - 2025-07-02: notes: caching strategies
 - 2025-07-05: notes: cap theorem refresh
 - 2025-07-05: read: ddia chapter notes
+- 2025-07-19: notes: event-driven arch
