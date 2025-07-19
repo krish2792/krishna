@@ -4,3 +4,4 @@
 - 2025-07-05: init: cli skeleton
 - 2025-07-10: fix: bom on stdin
 - 2025-07-16: fix: error exit codes
+- 2025-07-19: refactor: split parser
