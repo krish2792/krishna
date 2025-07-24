@@ -1,2 +1,3 @@
 - 2025-06-10: notes: time complexity recap
 - 2025-06-10: solve: two sum
+- 2025-07-24: add: sliding window template
