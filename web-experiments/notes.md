@@ -7,3 +7,4 @@
 - 2025-07-04: css: layout tweaks
 - 2025-07-04: chore: tidy
 - 2025-07-14: feat: drag and drop demo
+- 2025-07-24: add: localStorage hook
