@@ -9,3 +9,4 @@
 - 2025-07-16: wip: subcommand routing
 - 2025-07-16: feat: parse argv
 - 2025-07-25: fix: bom on stdin
+- 2025-07-25: test: argv edge cases
