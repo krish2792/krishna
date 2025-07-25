@@ -5,3 +5,4 @@
 - 2025-07-17: notes: k8s primer
 - 2025-07-19: notes: docker basics
 - 2025-07-24: notes: observability 101
+- 2025-07-25: notes: leader election
