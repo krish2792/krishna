@@ -5,3 +5,4 @@
 - 2025-07-17: add: localStorage hook
 - 2025-07-19: feat: drag and drop demo
 - 2025-07-20: fix: hydration warning
+- 2025-07-25: add: localStorage hook
