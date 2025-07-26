@@ -7,3 +7,4 @@
 - 2025-07-09: notes: rest vs grpc
 - 2025-07-13: read: ddia chapter notes
 - 2025-07-15: notes: observability 101
+- 2025-07-26: notes: redis use cases
