@@ -9,3 +9,4 @@
 - 2025-07-14: feat: drag and drop demo
 - 2025-07-24: add: localStorage hook
 - 2025-07-24: init: vite playground
+- 2025-07-27: refactor: split components
