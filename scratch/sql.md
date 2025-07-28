@@ -2,3 +2,4 @@
 - 2025-06-26: note: event loop deep dive
 - 2025-07-14: tidy notes
 - 2025-07-18: snippet: throttle vs debounce
+- 2025-07-28: note: js this binding
