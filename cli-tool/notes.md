@@ -5,3 +5,4 @@
 - 2025-07-16: init: cli skeleton
 - 2025-07-24: refactor: split parser
 - 2025-07-25: docs: update readme
+- 2025-07-28: docs: usage examples
