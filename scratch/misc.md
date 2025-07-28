@@ -4,3 +4,4 @@
 - 2025-06-15: snippet: throttle vs debounce
 - 2025-06-20: snippet: deep clone
 - 2025-06-29: note: bash brace expansion
+- 2025-07-28: note: sql window functions
