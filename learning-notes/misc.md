@@ -4,3 +4,4 @@
 - 2025-07-01: notes: k8s primer
 - 2025-07-16: notes: cap theorem refresh
 - 2025-07-17: notes: caching strategies
+- 2025-07-28: notes: caching strategies
