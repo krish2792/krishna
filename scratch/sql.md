@@ -3,3 +3,4 @@
 - 2025-07-14: tidy notes
 - 2025-07-18: snippet: throttle vs debounce
 - 2025-07-28: note: js this binding
+- 2025-07-28: note: ts generics
