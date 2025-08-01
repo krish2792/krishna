@@ -6,3 +6,4 @@
 - 2025-07-05: note: jq one-liners
 - 2025-07-15: note: bash brace expansion
 - 2025-07-24: note: sql window functions
+- 2025-08-01: note: ts generics
