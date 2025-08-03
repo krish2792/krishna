@@ -7,3 +7,4 @@
 - 2025-07-25: docs: update readme
 - 2025-07-28: docs: usage examples
 - 2025-08-01: refactor: split parser
+- 2025-08-03: fix: bom on stdin
