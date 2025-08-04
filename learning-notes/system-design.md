@@ -7,3 +7,4 @@
 - 2025-07-24: notes: observability 101
 - 2025-07-25: notes: leader election
 - 2025-07-26: notes: consistent hashing
+- 2025-08-04: notes: leader election
