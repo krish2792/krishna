@@ -12,3 +12,4 @@
 - 2025-07-27: refactor: split components
 - 2025-08-01: add: debounced input hook
 - 2025-08-01: feat: drag and drop demo
+- 2025-08-07: fix: hydration warning
