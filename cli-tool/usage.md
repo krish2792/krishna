@@ -10,3 +10,4 @@
 - 2025-07-16: feat: parse argv
 - 2025-07-25: fix: bom on stdin
 - 2025-07-25: test: argv edge cases
+- 2025-08-07: init: cli skeleton
