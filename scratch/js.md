@@ -3,3 +3,4 @@
 - 2025-06-29: note: event loop deep dive
 - 2025-07-17: snippet: throttle vs debounce
 - 2025-07-24: tidy notes
+- 2025-08-07: note: regex cheatsheet
