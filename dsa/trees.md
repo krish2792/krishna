@@ -3,3 +3,4 @@
 - 2025-06-22: notes: dp patterns
 - 2025-06-29: notes: dp patterns
 - 2025-07-13: solve: word ladder
+- 2025-08-08: practice: bfs vs dfs
