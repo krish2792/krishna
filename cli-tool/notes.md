@@ -8,3 +8,4 @@
 - 2025-07-28: docs: usage examples
 - 2025-08-01: refactor: split parser
 - 2025-08-03: fix: bom on stdin
+- 2025-08-09: feat: add --verbose flag
