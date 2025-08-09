@@ -5,3 +5,4 @@
 - 2025-07-28: note: js this binding
 - 2025-07-28: note: ts generics
 - 2025-07-28: snippet: deep clone
+- 2025-08-09: note: ts generics
