@@ -6,3 +6,4 @@ Workspace for dsa.
 - 2025-06-24: solve: course schedule
 - 2025-06-29: notes: dp patterns
 - 2025-07-16: fix: edge case in quicksort
+- 2025-08-09: add: sliding window template
