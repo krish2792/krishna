@@ -4,3 +4,4 @@
 - 2025-06-29: add: debounced input hook
 - 2025-06-30: refactor: split components
 - 2025-07-05: init: vite playground
+- 2025-08-09: docs: how to run
