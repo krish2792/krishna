@@ -13,3 +13,4 @@
 - 2025-08-01: add: debounced input hook
 - 2025-08-01: feat: drag and drop demo
 - 2025-08-07: fix: hydration warning
+- 2025-08-10: add: localStorage hook
