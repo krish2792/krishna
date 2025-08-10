@@ -4,3 +4,4 @@
 - 2025-07-04: snippet: throttle vs debounce
 - 2025-07-11: snippet: deep clone
 - 2025-07-28: note: js this binding
+- 2025-08-10: fix typo
