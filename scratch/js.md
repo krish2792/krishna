@@ -4,3 +4,4 @@
 - 2025-07-17: snippet: throttle vs debounce
 - 2025-07-24: tidy notes
 - 2025-08-07: note: regex cheatsheet
+- 2025-08-10: note: jq one-liners
