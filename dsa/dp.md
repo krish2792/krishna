@@ -2,3 +2,4 @@
 - 2025-07-14: notes: dp patterns
 - 2025-07-16: add: heap utility
 - 2025-07-17: solve: course schedule
+- 2025-08-10: practice: bfs vs dfs
