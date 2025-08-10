@@ -6,3 +6,4 @@
 - 2025-07-16: fix: error exit codes
 - 2025-07-19: refactor: split parser
 - 2025-07-24: refactor: split parser
+- 2025-08-10: feat: add --help output
