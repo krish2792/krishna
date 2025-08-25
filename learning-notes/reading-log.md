@@ -9,3 +9,4 @@
 - 2025-07-05: notes: rate limiting
 - 2025-07-06: notes: consistent hashing
 - 2025-08-17: notes: event-driven arch
+- 2025-08-25: notes: postgres mvcc
