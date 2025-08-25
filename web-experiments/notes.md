@@ -14,3 +14,4 @@
 - 2025-08-01: feat: drag and drop demo
 - 2025-08-07: fix: hydration warning
 - 2025-08-10: add: localStorage hook
+- 2025-08-25: init: vite playground
