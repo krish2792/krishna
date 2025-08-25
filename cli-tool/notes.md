@@ -10,3 +10,4 @@
 - 2025-08-03: fix: bom on stdin
 - 2025-08-09: feat: add --verbose flag
 - 2025-08-12: feat: parse argv
+- 2025-08-25: refactor: split parser
