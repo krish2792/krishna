@@ -8,3 +8,4 @@
 - 2025-08-09: note: ts generics
 - 2025-08-17: fix typo
 - 2025-08-29: note: regex cheatsheet
+- 2025-08-30: tidy notes
