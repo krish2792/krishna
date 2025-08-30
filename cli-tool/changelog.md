@@ -7,3 +7,4 @@
 - 2025-07-19: refactor: split parser
 - 2025-07-24: refactor: split parser
 - 2025-08-10: feat: add --help output
+- 2025-08-30: feat: support config file
