@@ -5,3 +5,4 @@
 - 2025-07-16: notes: cap theorem refresh
 - 2025-07-17: notes: caching strategies
 - 2025-07-28: notes: caching strategies
+- 2025-08-30: read: ddia chapter notes
