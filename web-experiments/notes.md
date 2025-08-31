@@ -15,3 +15,4 @@
 - 2025-08-07: fix: hydration warning
 - 2025-08-10: add: localStorage hook
 - 2025-08-25: init: vite playground
+- 2025-08-31: add: localStorage hook
