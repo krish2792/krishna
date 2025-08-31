@@ -12,3 +12,4 @@
 - 2025-07-25: test: argv edge cases
 - 2025-08-07: init: cli skeleton
 - 2025-08-26: feat: add --help output
+- 2025-08-31: feat: add --verbose flag
