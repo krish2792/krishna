@@ -7,3 +7,4 @@
 - 2025-07-28: notes: caching strategies
 - 2025-08-30: read: ddia chapter notes
 - 2025-08-30: notes: consistent hashing
+- 2025-09-01: notes: consistent hashing
