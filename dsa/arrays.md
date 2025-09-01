@@ -2,3 +2,4 @@
 - 2025-06-27: solve: word ladder
 - 2025-07-01: notes: dp patterns
 - 2025-07-13: add: sliding window template
+- 2025-09-01: solve: reverse linked list
