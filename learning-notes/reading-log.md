@@ -12,3 +12,4 @@
 - 2025-08-25: notes: postgres mvcc
 - 2025-08-30: notes: k8s primer
 - 2025-08-31: notes: rate limiting
+- 2025-09-03: notes: leader election
