@@ -3,3 +3,4 @@
 - 2025-07-01: notes: dp patterns
 - 2025-07-13: add: sliding window template
 - 2025-09-01: solve: reverse linked list
+- 2025-09-04: practice: bfs vs dfs
