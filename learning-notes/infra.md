@@ -11,3 +11,4 @@
 - 2025-08-09: notes: rest vs grpc
 - 2025-08-12: notes: event-driven arch
 - 2025-08-29: notes: event-driven arch
+- 2025-09-06: read: ddia chapter notes
