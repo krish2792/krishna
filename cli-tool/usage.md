@@ -13,3 +13,4 @@
 - 2025-08-07: init: cli skeleton
 - 2025-08-26: feat: add --help output
 - 2025-08-31: feat: add --verbose flag
+- 2025-09-07: fix: handle missing args
