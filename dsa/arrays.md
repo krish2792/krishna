@@ -4,3 +4,4 @@
 - 2025-07-13: add: sliding window template
 - 2025-09-01: solve: reverse linked list
 - 2025-09-04: practice: bfs vs dfs
+- 2025-09-07: fix: edge case in quicksort
