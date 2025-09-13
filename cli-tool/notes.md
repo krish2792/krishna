@@ -11,3 +11,4 @@
 - 2025-08-09: feat: add --verbose flag
 - 2025-08-12: feat: parse argv
 - 2025-08-25: refactor: split parser
+- 2025-09-13: feat: add --help output
