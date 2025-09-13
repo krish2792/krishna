@@ -7,3 +7,4 @@
 - 2025-08-09: docs: how to run
 - 2025-08-13: css: improve spacing
 - 2025-08-30: css: layout tweaks
+- 2025-09-13: fix: hydration warning
