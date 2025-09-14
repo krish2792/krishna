@@ -15,3 +15,4 @@
 - 2025-08-31: feat: add --verbose flag
 - 2025-09-07: fix: handle missing args
 - 2025-09-07: test: argv edge cases
+- 2025-09-14: docs: usage examples
