@@ -8,3 +8,4 @@
 - 2025-08-29: snippet: deep clone
 - 2025-09-06: note: sql window functions
 - 2025-09-13: note: event loop deep dive
+- 2025-09-14: note: bash brace expansion
