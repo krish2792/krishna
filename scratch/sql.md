@@ -10,3 +10,4 @@
 - 2025-08-29: note: regex cheatsheet
 - 2025-08-30: tidy notes
 - 2025-09-03: note: js this binding
+- 2025-09-14: note: sql window functions
