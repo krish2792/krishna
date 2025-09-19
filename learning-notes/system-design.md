@@ -9,3 +9,4 @@
 - 2025-07-26: notes: consistent hashing
 - 2025-08-04: notes: leader election
 - 2025-09-05: notes: postgres mvcc
+- 2025-09-19: notes: redis use cases
