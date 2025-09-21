@@ -5,3 +5,4 @@
 - 2025-07-17: solve: word ladder
 - 2025-08-24: solve: longest substring no repeat
 - 2025-09-20: add: sliding window template
+- 2025-09-21: refactor: cleaner merge sort
