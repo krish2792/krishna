@@ -13,3 +13,4 @@
 - 2025-08-25: refactor: split parser
 - 2025-09-13: feat: add --help output
 - 2025-09-19: feat: parse argv
+- 2025-09-22: docs: usage examples
