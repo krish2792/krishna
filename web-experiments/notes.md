@@ -19,3 +19,4 @@
 - 2025-08-31: css: layout tweaks
 - 2025-09-10: fix: hydration warning
 - 2025-09-15: fix: hydration warning
+- 2025-09-27: style: typography pass
