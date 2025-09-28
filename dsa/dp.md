@@ -6,3 +6,4 @@
 - 2025-08-13: solve: reverse linked list
 - 2025-08-23: solve: reverse linked list
 - 2025-09-11: solve: two sum
+- 2025-09-28: refactor: cleaner merge sort
