@@ -8,3 +8,4 @@
 - 2025-07-25: add: localStorage hook
 - 2025-08-29: feat: drag and drop demo
 - 2025-09-14: wip: route transitions
+- 2025-10-01: css: improve spacing
