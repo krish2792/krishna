@@ -10,3 +10,4 @@
 - 2025-08-04: notes: leader election
 - 2025-09-05: notes: postgres mvcc
 - 2025-09-19: notes: redis use cases
+- 2025-10-02: notes: cap theorem refresh
