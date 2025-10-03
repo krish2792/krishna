@@ -10,3 +10,4 @@ Workspace for web experiments.
 - 2025-09-05: add: debounced input hook
 - 2025-09-25: fix: useEffect deps
 - 2025-09-27: wip: route transitions
+- 2025-10-03: chore: tidy
