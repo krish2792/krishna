@@ -2,3 +2,4 @@
 - 2025-06-10: solve: two sum
 - 2025-07-24: add: sliding window template
 - 2025-08-09: solve: median of two sorted arrays
+- 2025-10-04: wip: trie implementation
