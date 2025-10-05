@@ -7,3 +7,4 @@
 - 2025-07-19: notes: event-driven arch
 - 2025-07-20: read: ddia chapter notes
 - 2025-09-14: notes: consistent hashing
+- 2025-10-05: notes: redis use cases
