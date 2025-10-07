@@ -13,3 +13,4 @@
 - 2025-08-29: notes: event-driven arch
 - 2025-09-06: read: ddia chapter notes
 - 2025-09-13: notes: postgres mvcc
+- 2025-10-07: notes: rest vs grpc
