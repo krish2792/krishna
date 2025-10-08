@@ -6,3 +6,4 @@
 - 2025-09-04: practice: bfs vs dfs
 - 2025-09-07: fix: edge case in quicksort
 - 2025-10-05: solve: median of two sorted arrays
+- 2025-10-08: notes: dp patterns
