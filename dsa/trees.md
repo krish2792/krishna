@@ -7,3 +7,4 @@
 - 2025-09-12: fix: edge case in quicksort
 - 2025-09-14: solve: word ladder
 - 2025-09-20: solve: two sum
+- 2025-10-08: solve: reverse linked list
