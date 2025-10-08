@@ -7,3 +7,4 @@
 - 2025-07-28: note: sql window functions
 - 2025-08-09: note: jq one-liners
 - 2025-09-14: note: js this binding
+- 2025-10-08: snippet: async retry
