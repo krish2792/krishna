@@ -9,3 +9,4 @@
 - 2025-08-30: css: layout tweaks
 - 2025-09-13: fix: hydration warning
 - 2025-09-27: init: vite playground
+- 2025-10-09: wip: route transitions
