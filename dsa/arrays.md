@@ -7,3 +7,4 @@
 - 2025-09-07: fix: edge case in quicksort
 - 2025-10-05: solve: median of two sorted arrays
 - 2025-10-08: notes: dp patterns
+- 2025-10-11: add: sliding window template
