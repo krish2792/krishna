@@ -11,3 +11,4 @@
 - 2025-10-01: css: improve spacing
 - 2025-10-08: chore: tidy
 - 2025-10-12: add: debounced input hook
+- 2025-10-12: refactor: split components
