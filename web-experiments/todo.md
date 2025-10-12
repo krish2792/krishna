@@ -10,3 +10,4 @@
 - 2025-09-14: wip: route transitions
 - 2025-10-01: css: improve spacing
 - 2025-10-08: chore: tidy
+- 2025-10-12: add: debounced input hook
