@@ -10,3 +10,4 @@
 - 2025-09-01: notes: consistent hashing
 - 2025-09-05: notes: redis use cases
 - 2025-09-14: notes: caching strategies
+- 2025-10-13: notes: consistent hashing
