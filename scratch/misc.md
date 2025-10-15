@@ -8,3 +8,4 @@
 - 2025-08-09: note: jq one-liners
 - 2025-09-14: note: js this binding
 - 2025-10-08: snippet: async retry
+- 2025-10-15: note: bash brace expansion
