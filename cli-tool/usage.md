@@ -17,3 +17,4 @@
 - 2025-09-07: test: argv edge cases
 - 2025-09-14: docs: usage examples
 - 2025-09-27: feat: support config file
+- 2025-10-18: feat: parse argv
