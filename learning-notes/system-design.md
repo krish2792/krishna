@@ -13,3 +13,4 @@
 - 2025-10-02: notes: cap theorem refresh
 - 2025-10-16: notes: rest vs grpc
 - 2025-10-17: notes: cap theorem refresh
+- 2025-10-18: notes: observability 101
