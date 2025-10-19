@@ -15,3 +15,4 @@
 - 2025-09-19: feat: parse argv
 - 2025-09-22: docs: usage examples
 - 2025-10-09: chore: tidy imports
+- 2025-10-19: feat: add --verbose flag
