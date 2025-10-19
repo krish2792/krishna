@@ -8,3 +8,4 @@ Workspace for cli tool.
 - 2025-09-15: feat: add --verbose flag
 - 2025-09-28: docs: update readme
 - 2025-10-10: refactor: split parser
+- 2025-10-19: docs: update readme
