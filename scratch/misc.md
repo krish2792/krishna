@@ -10,3 +10,4 @@
 - 2025-10-08: snippet: async retry
 - 2025-10-15: note: bash brace expansion
 - 2025-10-18: note: js this binding
+- 2025-10-19: note: regex cheatsheet
