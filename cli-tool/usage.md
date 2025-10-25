@@ -18,3 +18,4 @@
 - 2025-09-14: docs: usage examples
 - 2025-09-27: feat: support config file
 - 2025-10-18: feat: parse argv
+- 2025-10-25: feat: add --help output
