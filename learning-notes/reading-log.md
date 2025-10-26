@@ -15,3 +15,4 @@
 - 2025-09-03: notes: leader election
 - 2025-09-26: read: ddia chapter notes
 - 2025-10-08: read: ddia chapter notes
+- 2025-10-26: notes: observability 101
