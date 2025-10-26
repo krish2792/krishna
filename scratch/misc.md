@@ -11,3 +11,4 @@
 - 2025-10-15: note: bash brace expansion
 - 2025-10-18: note: js this binding
 - 2025-10-19: note: regex cheatsheet
+- 2025-10-26: snippet: deep clone
