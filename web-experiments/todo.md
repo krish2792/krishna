@@ -14,3 +14,4 @@
 - 2025-10-12: refactor: split components
 - 2025-10-12: wip: route transitions
 - 2025-10-18: refactor: split components
+- 2025-10-26: style: typography pass
