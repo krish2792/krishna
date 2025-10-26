@@ -11,3 +11,4 @@
 - 2025-09-16: snippet: deep clone
 - 2025-09-28: snippet: async retry
 - 2025-10-16: snippet: throttle vs debounce
+- 2025-10-26: note: regex cheatsheet
