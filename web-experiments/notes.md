@@ -21,3 +21,4 @@
 - 2025-09-15: fix: hydration warning
 - 2025-09-27: style: typography pass
 - 2025-10-25: docs: how to run
+- 2025-10-27: docs: how to run
