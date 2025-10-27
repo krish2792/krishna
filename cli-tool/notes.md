@@ -17,3 +17,4 @@
 - 2025-10-09: chore: tidy imports
 - 2025-10-19: feat: add --verbose flag
 - 2025-10-26: chore: tidy imports
+- 2025-10-27: test: argv edge cases
