@@ -9,3 +9,4 @@
 - 2025-09-14: notes: consistent hashing
 - 2025-10-05: notes: redis use cases
 - 2025-10-26: notes: redis use cases
+- 2025-10-27: notes: rest vs grpc
