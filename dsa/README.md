@@ -11,3 +11,4 @@ Workspace for dsa.
 - 2025-09-20: add: sliding window template
 - 2025-09-27: notes: dp patterns
 - 2025-10-26: wip: trie implementation
+- 2025-10-27: practice: bfs vs dfs
