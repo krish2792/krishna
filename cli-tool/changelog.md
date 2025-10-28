@@ -9,3 +9,4 @@
 - 2025-08-10: feat: add --help output
 - 2025-08-30: feat: support config file
 - 2025-09-12: refactor: split parser
+- 2025-10-28: init: cli skeleton
