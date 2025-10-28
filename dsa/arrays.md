@@ -9,3 +9,4 @@
 - 2025-10-08: notes: dp patterns
 - 2025-10-11: add: sliding window template
 - 2025-10-25: solve: course schedule
+- 2025-10-28: practice: union find
