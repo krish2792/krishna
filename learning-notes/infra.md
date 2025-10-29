@@ -15,3 +15,4 @@
 - 2025-09-13: notes: postgres mvcc
 - 2025-10-07: notes: rest vs grpc
 - 2025-10-11: notes: rest vs grpc
+- 2025-10-29: notes: docker basics
