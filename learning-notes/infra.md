@@ -16,3 +16,4 @@
 - 2025-10-07: notes: rest vs grpc
 - 2025-10-11: notes: rest vs grpc
 - 2025-10-29: notes: docker basics
+- 2025-11-02: read: ddia chapter notes
