@@ -7,3 +7,4 @@
 - 2025-08-23: solve: reverse linked list
 - 2025-09-11: solve: two sum
 - 2025-09-28: refactor: cleaner merge sort
+- 2025-11-02: solve: median of two sorted arrays
