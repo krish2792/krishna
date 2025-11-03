@@ -11,3 +11,4 @@
 - 2025-09-12: refactor: split parser
 - 2025-10-28: init: cli skeleton
 - 2025-10-28: fix: bom on stdin
+- 2025-11-03: refactor: split parser
