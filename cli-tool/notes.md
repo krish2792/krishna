@@ -19,3 +19,4 @@
 - 2025-10-26: chore: tidy imports
 - 2025-10-27: test: argv edge cases
 - 2025-11-02: docs: update readme
+- 2025-11-07: feat: support config file
