@@ -19,3 +19,4 @@
 - 2025-09-27: feat: support config file
 - 2025-10-18: feat: parse argv
 - 2025-10-25: feat: add --help output
+- 2025-11-08: docs: update readme
