@@ -8,3 +8,4 @@
 - 2025-08-29: fix typo
 - 2025-10-13: tidy notes
 - 2025-10-19: tidy notes
+- 2025-11-09: snippet: async retry
