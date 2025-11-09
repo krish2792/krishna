@@ -11,3 +11,4 @@
 - 2025-10-11: solve: course schedule
 - 2025-10-19: add: heap utility
 - 2025-11-07: notes: time complexity recap
+- 2025-11-09: solve: longest substring no repeat
