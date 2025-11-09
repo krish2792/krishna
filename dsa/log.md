@@ -4,3 +4,4 @@
 - 2025-08-09: solve: median of two sorted arrays
 - 2025-10-04: wip: trie implementation
 - 2025-10-26: fix: edge case in quicksort
+- 2025-11-09: add: sliding window template
