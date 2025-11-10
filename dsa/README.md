@@ -13,3 +13,4 @@ Workspace for dsa.
 - 2025-10-26: wip: trie implementation
 - 2025-10-27: practice: bfs vs dfs
 - 2025-10-28: solve: course schedule
+- 2025-11-10: wip: trie implementation
