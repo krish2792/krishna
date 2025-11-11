@@ -21,3 +21,4 @@
 - 2025-11-02: docs: update readme
 - 2025-11-07: feat: support config file
 - 2025-11-09: docs: usage examples
+- 2025-11-11: feat: support config file
