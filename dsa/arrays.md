@@ -10,3 +10,4 @@
 - 2025-10-11: add: sliding window template
 - 2025-10-25: solve: course schedule
 - 2025-10-28: practice: union find
+- 2025-11-16: solve: two sum
