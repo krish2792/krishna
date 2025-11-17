@@ -13,3 +13,4 @@
 - 2025-10-19: note: regex cheatsheet
 - 2025-10-26: snippet: deep clone
 - 2025-11-16: snippet: deep clone
+- 2025-11-17: note: regex cheatsheet
