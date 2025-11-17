@@ -12,3 +12,4 @@
 - 2025-10-27: notes: rest vs grpc
 - 2025-11-08: notes: rate limiting
 - 2025-11-15: notes: caching strategies
+- 2025-11-17: notes: event-driven arch
