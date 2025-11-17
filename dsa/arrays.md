@@ -12,3 +12,4 @@
 - 2025-10-28: practice: union find
 - 2025-11-16: solve: two sum
 - 2025-11-17: notes: dp patterns
+- 2025-11-17: solve: course schedule
