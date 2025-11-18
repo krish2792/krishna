@@ -13,3 +13,4 @@
 - 2025-10-16: snippet: throttle vs debounce
 - 2025-10-26: note: regex cheatsheet
 - 2025-11-04: note: js this binding
+- 2025-11-18: snippet: deep clone
