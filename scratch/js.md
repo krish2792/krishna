@@ -10,3 +10,4 @@
 - 2025-10-19: tidy notes
 - 2025-11-09: snippet: async retry
 - 2025-11-15: snippet: async retry
+- 2025-11-18: tidy notes
