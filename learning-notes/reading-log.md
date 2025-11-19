@@ -18,3 +18,4 @@
 - 2025-10-26: notes: observability 101
 - 2025-11-17: notes: event-driven arch
 - 2025-11-17: notes: docker basics
+- 2025-11-19: notes: rest vs grpc
