@@ -13,3 +13,4 @@
 - 2025-09-14: note: sql window functions
 - 2025-09-20: snippet: deep clone
 - 2025-10-05: note: bash brace expansion
+- 2025-11-19: note: bash brace expansion
