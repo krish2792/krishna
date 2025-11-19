@@ -14,3 +14,4 @@
 - 2025-10-26: note: regex cheatsheet
 - 2025-11-04: note: js this binding
 - 2025-11-18: snippet: deep clone
+- 2025-11-19: snippet: deep clone
