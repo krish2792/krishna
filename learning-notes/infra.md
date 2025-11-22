@@ -18,3 +18,4 @@
 - 2025-10-29: notes: docker basics
 - 2025-11-02: read: ddia chapter notes
 - 2025-11-14: notes: caching strategies
+- 2025-11-22: read: ddia chapter notes
