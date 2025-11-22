@@ -12,3 +12,4 @@
 - 2025-10-09: wip: route transitions
 - 2025-10-18: fix: useEffect deps
 - 2025-11-11: style: typography pass
+- 2025-11-22: add: debounced input hook
