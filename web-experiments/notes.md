@@ -23,3 +23,4 @@
 - 2025-10-25: docs: how to run
 - 2025-10-27: docs: how to run
 - 2025-11-20: fix: hydration warning
+- 2025-11-23: fix: hydration warning
