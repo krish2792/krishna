@@ -13,3 +13,4 @@
 - 2025-10-18: fix: useEffect deps
 - 2025-11-11: style: typography pass
 - 2025-11-22: add: debounced input hook
+- 2025-11-23: fix: useEffect deps
