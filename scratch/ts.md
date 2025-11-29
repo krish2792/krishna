@@ -16,3 +16,4 @@
 - 2025-11-18: snippet: deep clone
 - 2025-11-19: snippet: deep clone
 - 2025-11-29: fix typo
+- 2025-11-29: note: event loop deep dive
