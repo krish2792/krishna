@@ -9,3 +9,4 @@
 - 2025-10-11: solve: longest substring no repeat
 - 2025-10-12: practice: union find
 - 2025-11-16: add: sliding window template
+- 2025-11-29: add: heap utility
