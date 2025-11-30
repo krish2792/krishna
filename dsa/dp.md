@@ -9,3 +9,4 @@
 - 2025-09-28: refactor: cleaner merge sort
 - 2025-11-02: solve: median of two sorted arrays
 - 2025-11-29: add: heap utility
+- 2025-11-30: notes: time complexity recap
