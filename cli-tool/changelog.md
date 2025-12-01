@@ -13,3 +13,4 @@
 - 2025-10-28: fix: bom on stdin
 - 2025-11-03: refactor: split parser
 - 2025-11-08: fix: bom on stdin
+- 2025-12-01: feat: add --verbose flag
