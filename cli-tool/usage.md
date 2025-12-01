@@ -21,3 +21,4 @@
 - 2025-10-25: feat: add --help output
 - 2025-11-08: docs: update readme
 - 2025-11-09: feat: parse argv
+- 2025-12-01: init: cli skeleton
