@@ -11,3 +11,4 @@
 - 2025-09-14: note: bash brace expansion
 - 2025-10-25: note: js this binding
 - 2025-11-29: note: regex cheatsheet
+- 2025-12-02: snippet: throttle vs debounce
