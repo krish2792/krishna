@@ -15,3 +15,4 @@ Workspace for cli tool.
 - 2025-11-23: chore: tidy imports
 - 2025-11-29: refactor: split parser
 - 2025-11-30: feat: add --help output
+- 2025-12-02: feat: add --verbose flag
