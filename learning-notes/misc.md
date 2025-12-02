@@ -14,3 +14,4 @@
 - 2025-10-25: notes: leader election
 - 2025-10-27: notes: k8s primer
 - 2025-11-02: notes: observability 101
+- 2025-12-02: notes: rest vs grpc
