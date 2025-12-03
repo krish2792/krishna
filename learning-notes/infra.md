@@ -20,3 +20,4 @@
 - 2025-11-14: notes: caching strategies
 - 2025-11-22: read: ddia chapter notes
 - 2025-11-29: notes: postgres mvcc
+- 2025-12-03: read: ddia chapter notes
