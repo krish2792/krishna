@@ -14,3 +14,4 @@
 - 2025-11-03: refactor: split parser
 - 2025-11-08: fix: bom on stdin
 - 2025-12-01: feat: add --verbose flag
+- 2025-12-06: fix: error exit codes
