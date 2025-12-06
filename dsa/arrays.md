@@ -15,3 +15,4 @@
 - 2025-11-17: solve: course schedule
 - 2025-12-05: notes: dp patterns
 - 2025-12-06: add: heap utility
+- 2025-12-06: practice: union find
