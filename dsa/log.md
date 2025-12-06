@@ -5,3 +5,4 @@
 - 2025-10-04: wip: trie implementation
 - 2025-10-26: fix: edge case in quicksort
 - 2025-11-09: add: sliding window template
+- 2025-12-06: solve: word ladder
