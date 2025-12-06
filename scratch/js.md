@@ -13,3 +13,4 @@
 - 2025-11-18: tidy notes
 - 2025-11-24: snippet: deep clone
 - 2025-12-03: snippet: throttle vs debounce
+- 2025-12-06: fix typo
