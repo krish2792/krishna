@@ -15,3 +15,4 @@ Workspace for dsa.
 - 2025-10-28: solve: course schedule
 - 2025-11-10: wip: trie implementation
 - 2025-12-03: fix: edge case in quicksort
+- 2025-12-13: fix: edge case in quicksort
