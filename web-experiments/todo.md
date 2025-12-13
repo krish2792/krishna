@@ -16,3 +16,4 @@
 - 2025-10-18: refactor: split components
 - 2025-10-26: style: typography pass
 - 2025-12-03: chore: tidy
+- 2025-12-13: style: typography pass
