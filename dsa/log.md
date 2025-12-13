@@ -6,3 +6,4 @@
 - 2025-10-26: fix: edge case in quicksort
 - 2025-11-09: add: sliding window template
 - 2025-12-06: solve: word ladder
+- 2025-12-13: solve: word ladder
