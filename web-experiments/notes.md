@@ -26,3 +26,4 @@
 - 2025-11-23: fix: hydration warning
 - 2025-12-11: refactor: split components
 - 2025-12-12: css: layout tweaks
+- 2025-12-14: add: localStorage hook
