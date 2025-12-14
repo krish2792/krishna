@@ -16,3 +16,4 @@
 - 2025-11-17: note: regex cheatsheet
 - 2025-12-06: snippet: deep clone
 - 2025-12-10: snippet: async retry
+- 2025-12-14: snippet: throttle vs debounce
