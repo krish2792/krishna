@@ -17,3 +17,4 @@
 - 2025-12-01: style: typography pass
 - 2025-12-04: feat: drag and drop demo
 - 2025-12-13: wip: route transitions
+- 2025-12-14: style: typography pass
