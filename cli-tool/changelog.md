@@ -15,3 +15,4 @@
 - 2025-11-08: fix: bom on stdin
 - 2025-12-01: feat: add --verbose flag
 - 2025-12-06: fix: error exit codes
+- 2025-12-15: feat: add --help output
