@@ -17,3 +17,4 @@
 - 2025-10-19: notes: rest vs grpc
 - 2025-11-01: notes: cap theorem refresh
 - 2025-12-06: notes: consistent hashing
+- 2025-12-16: notes: docker basics
