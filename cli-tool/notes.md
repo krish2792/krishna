@@ -26,3 +26,4 @@
 - 2025-11-30: feat: support config file
 - 2025-12-14: feat: add --help output
 - 2025-12-14: init: cli skeleton
+- 2025-12-16: docs: usage examples
