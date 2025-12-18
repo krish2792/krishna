@@ -30,3 +30,4 @@
 - 2025-12-15: init: vite playground
 - 2025-12-17: init: vite playground
 - 2025-12-17: chore: tidy
+- 2025-12-18: feat: drag and drop demo
