@@ -24,3 +24,4 @@
 - 2025-12-13: notes: docker basics
 - 2025-12-16: notes: postgres mvcc
 - 2025-12-20: notes: redis use cases
+- 2025-12-20: notes: leader election
