@@ -8,3 +8,4 @@
 - 2025-12-06: solve: word ladder
 - 2025-12-13: solve: word ladder
 - 2025-12-20: refactor: cleaner merge sort
+- 2025-12-20: solve: two sum
