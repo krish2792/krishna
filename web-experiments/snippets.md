@@ -19,3 +19,4 @@
 - 2025-12-13: wip: route transitions
 - 2025-12-14: style: typography pass
 - 2025-12-17: css: layout tweaks
+- 2025-12-21: init: vite playground
