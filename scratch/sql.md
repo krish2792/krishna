@@ -16,3 +16,4 @@
 - 2025-11-19: note: bash brace expansion
 - 2025-11-23: snippet: throttle vs debounce
 - 2025-11-30: note: regex cheatsheet
+- 2025-12-21: snippet: deep clone
