@@ -1,0 +1,3 @@
+# scratch
+
+Workspace for scratch.
