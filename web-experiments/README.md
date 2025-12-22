@@ -19,3 +19,4 @@ Workspace for web experiments.
 - 2025-12-16: add: localStorage hook
 - 2025-12-22: add: localStorage hook
 - 2025-12-22: fix: useEffect deps
+- 2025-12-22: init: vite playground
