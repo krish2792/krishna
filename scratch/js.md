@@ -16,3 +16,4 @@
 - 2025-12-06: fix typo
 - 2025-12-22: snippet: async retry
 - 2025-12-22: note: jq one-liners
+- 2025-12-22: snippet: throttle vs debounce
