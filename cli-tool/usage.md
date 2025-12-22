@@ -25,3 +25,4 @@
 - 2025-12-07: refactor: extract command dispatch
 - 2025-12-18: docs: usage examples
 - 2025-12-18: feat: add --verbose flag
+- 2025-12-22: chore: tidy imports
