@@ -26,3 +26,4 @@
 - 2025-12-18: docs: usage examples
 - 2025-12-18: feat: add --verbose flag
 - 2025-12-22: chore: tidy imports
+- 2025-12-22: chore: tidy imports
