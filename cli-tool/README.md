@@ -18,3 +18,4 @@ Workspace for cli tool.
 - 2025-12-02: feat: add --verbose flag
 - 2025-12-03: fix: error exit codes
 - 2025-12-14: wip: subcommand routing
+- 2025-12-22: test: argv edge cases
