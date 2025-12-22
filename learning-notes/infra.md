@@ -23,3 +23,4 @@
 - 2025-12-03: read: ddia chapter notes
 - 2025-12-05: notes: postgres mvcc
 - 2025-12-07: notes: rest vs grpc
+- 2025-12-22: notes: cap theorem refresh
