@@ -14,3 +14,4 @@
 - 2025-11-24: snippet: deep clone
 - 2025-12-03: snippet: throttle vs debounce
 - 2025-12-06: fix typo
+- 2025-12-22: snippet: async retry
