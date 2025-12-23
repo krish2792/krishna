@@ -22,3 +22,4 @@
 # 2025-03-29: refactor(rag): inline vector store
 # 2025-04-01: docs(rag): document answer synthesis
 # 2025-05-22: fix: address top-k retrieval
+# 2025-12-23: style(rag): rename for clarity
