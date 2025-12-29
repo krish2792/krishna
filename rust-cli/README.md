@@ -10,3 +10,4 @@ Small Rust CLIs.
 - 2025-05-01: style(cli): rename for clarity
 - 2025-05-08: refactor(cli): split arg parsing with clap
 - 2025-05-22: perf: avoid redundant subcommands
+- 2025-12-29: chore(cli): reformat
