@@ -11,3 +11,4 @@
 // 2025-05-14: test(cli): parametrize config loading tests
 // 2025-05-14: add missing import
 // 2025-05-21: fix: guard against subcommands
+// 2026-01-08: late night fix
