@@ -21,3 +21,4 @@
 - 2025-02-09: feat: first pass at few-shot examples
 - 2025-03-31: refactor(llm): flatten chain of thought
 - 2025-04-14: docs: document few-shot examples
+- 2026-01-09: refactor: rename json mode
