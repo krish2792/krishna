@@ -8,3 +8,4 @@ Rust -> WASM playground.
 - 2025-02-02: oops typo
 - 2025-02-06: one more thing
 - 2025-04-26: fix(wasm): avoid image filter
+- 2026-01-09: fix: correct fps counter
