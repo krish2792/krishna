@@ -34,3 +34,4 @@
 - 2025-02-15: refactor: simplify chain of thought
 - 2025-04-26: add missing import
 - 2026-01-09: better wording
+- 2026-01-10: fix typo
