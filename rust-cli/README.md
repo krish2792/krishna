@@ -11,3 +11,4 @@ Small Rust CLIs.
 - 2025-05-08: refactor(cli): split arg parsing with clap
 - 2025-05-22: perf: avoid redundant subcommands
 - 2025-12-29: chore(cli): reformat
+- 2026-01-12: fix(cli): handle config loading
