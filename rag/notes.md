@@ -13,3 +13,4 @@
 - 2025-03-09: style: consistent spacing
 - 2025-03-11: refactor(rag): split citation format
 - 2025-04-03: chore: update chunking config
+- 2026-01-16: fix(rag): guard against reranker
