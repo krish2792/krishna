@@ -31,3 +31,4 @@
 - 2024-12-10: chore(llm): tidy
 - 2024-12-13: fix(llm): address temperature sweeps
 - 2024-12-27: fix(llm): guard against json mode
+- 2026-01-17: fix: stop json mode
