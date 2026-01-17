@@ -12,3 +12,4 @@
 # 2026-01-05: refactor(scripts): extract rsync backup
 # 2026-01-09: cleanup
 # 2026-01-09: polish
+# 2026-01-17: feat: wire up photo renamer
