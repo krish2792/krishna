@@ -10,3 +10,4 @@ Misc personal automation.
 - 2025-04-15: refactor(scripts): simplify photo renamer
 - 2025-04-26: test(scripts): snapshot macos shortcuts
 - 2025-05-17: fix: address rsync backup
+- 2026-01-18: chore: small cleanup
