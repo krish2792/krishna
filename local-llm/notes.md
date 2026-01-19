@@ -10,3 +10,4 @@
 - 2025-05-19: perf(llm): reduce system prompt config allocations
 - 2025-05-23: chore(llm): update llama.cpp wrapper config
 - 2026-01-09: refactor(llm): simplify streaming output
+- 2026-01-19: perf(llm): reduce llama.cpp wrapper allocations
