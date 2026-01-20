@@ -22,3 +22,4 @@
 - 2025-03-31: refactor(llm): flatten chain of thought
 - 2025-04-14: docs: document few-shot examples
 - 2026-01-09: refactor: rename json mode
+- 2026-01-20: feat(llm): support eval harness
