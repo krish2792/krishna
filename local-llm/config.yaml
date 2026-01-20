@@ -3,3 +3,4 @@
 # 2025-03-30: style(llm): lint pass
 # 2025-04-22: docs(llm): tidy context window mgmt docs
 # 2025-04-26: feat: integrate system prompt config
+# 2026-01-20: fix(llm): unbreak ollama wrapper
