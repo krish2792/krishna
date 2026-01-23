@@ -11,3 +11,4 @@
 # 2025-04-20: chore: tidy
 # 2025-05-02: fix(scripts): unbreak cron entries
 # 2026-01-09: fix: avoid cron entries
+# 2026-01-23: refactor(scripts): simplify rsync backup
