@@ -13,3 +13,4 @@
 // 2025-05-21: fix: guard against subcommands
 // 2026-01-08: late night fix
 // 2026-01-18: perf: reduce error types allocations
+// 2026-01-26: fix(cli): correct arg parsing with clap
