@@ -8,3 +8,4 @@
 # 2025-04-19: perf(cli): avoid redundant arg parsing with clap
 # 2025-05-03: hmm
 # 2025-05-25: wip(cli): saving progress
+# 2026-01-26: refactor: split serde json
