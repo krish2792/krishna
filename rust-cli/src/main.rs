@@ -5,3 +5,4 @@
 // 2025-03-30: docs: add notes on rayon parallelism
 // 2025-04-04: fix: patch error types
 // 2025-04-30: chore(cli): reformat
+// 2026-01-26: fix: guard against error types
