@@ -3,3 +3,4 @@
 // 2025-04-21: feat: wire up rust to wasm
 // 2025-04-26: refactor: reorganize shared memory
 // 2026-01-11: wip(wasm): wip
+// 2026-01-27: docs(wasm): tidy shared memory docs
