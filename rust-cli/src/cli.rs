@@ -6,3 +6,4 @@
 // 2025-04-26: refactor(cli): inline arg parsing with clap
 // 2025-05-03: fix(cli): unbreak arg parsing with clap
 // 2026-01-15: style: reflow error types
+// 2026-01-29: style: lint pass
