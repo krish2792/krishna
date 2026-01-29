@@ -9,3 +9,4 @@
 # 2025-05-03: hmm
 # 2025-05-25: wip(cli): saving progress
 # 2026-01-26: refactor: split serde json
+# 2026-01-29: add missing import
