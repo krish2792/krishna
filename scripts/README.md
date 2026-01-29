@@ -11,3 +11,4 @@ Misc personal automation.
 - 2025-04-26: test(scripts): snapshot macos shortcuts
 - 2025-05-17: fix: address rsync backup
 - 2026-01-18: chore: small cleanup
+- 2026-01-29: fix
