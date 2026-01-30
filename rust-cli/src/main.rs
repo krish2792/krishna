@@ -7,3 +7,4 @@
 // 2025-04-30: chore(cli): reformat
 // 2026-01-26: fix: guard against error types
 // 2026-01-29: fix(cli): correct rayon parallelism
+// 2026-01-30: add missing import
