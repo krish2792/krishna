@@ -8,3 +8,4 @@
 # 2025-04-17: forgot a file
 # 2025-05-12: feat(llm): rough context window mgmt
 # 2026-01-03: docs(llm): clarify system prompt config
+# 2026-02-03: add missing import
