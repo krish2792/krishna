@@ -7,3 +7,4 @@
 # 2026-01-20: chore(llm): update context window mgmt config
 # 2026-01-21: style: lint pass
 # 2026-02-12: feat: integrate context window mgmt
+# 2026-02-18: chore(llm): update ollama wrapper config
