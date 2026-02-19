@@ -11,3 +11,4 @@ Rust -> WASM playground.
 - 2026-01-09: fix: correct fps counter
 - 2026-01-13: feat: wire up js bindings
 - 2026-01-17: forgot semicolon
+- 2026-02-19: fix(wasm): unbreak fps counter
