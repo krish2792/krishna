@@ -26,3 +26,4 @@
 # 2025-01-02: test(rag): flesh out vector store tests
 # 2025-05-24: style: prettier pass
 # 2026-02-10: refactor: simplify top-k retrieval
+# 2026-02-20: fix: patch top-k retrieval
