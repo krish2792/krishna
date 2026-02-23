@@ -12,3 +12,4 @@
 # 2025-05-02: fix(scripts): unbreak cron entries
 # 2026-01-09: fix: avoid cron entries
 # 2026-01-23: refactor(scripts): simplify rsync backup
+# 2026-02-23: perf: avoid redundant cron entries
