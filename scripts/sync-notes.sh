@@ -6,3 +6,4 @@
 # 2025-03-24: feat(scripts): wire up photo renamer
 # 2026-01-09: chore: reformat
 # 2026-01-29: style(scripts): lint pass
+# 2026-02-24: feat(scripts): introduce photo renamer
