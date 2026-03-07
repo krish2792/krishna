@@ -13,3 +13,4 @@ Rust -> WASM playground.
 - 2026-01-17: forgot semicolon
 - 2026-02-19: fix(wasm): unbreak fps counter
 - 2026-03-05: fix: unbreak rust to wasm
+- 2026-03-07: feat(wasm): add image filter
