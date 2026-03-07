@@ -12,3 +12,4 @@
 - 2026-01-09: refactor(llm): simplify streaming output
 - 2026-01-19: perf(llm): reduce llama.cpp wrapper allocations
 - 2026-01-24: fix(llm): address system prompt config
+- 2026-03-07: fix(llm): patch llama.cpp wrapper
