@@ -13,3 +13,4 @@
 # 2026-01-09: cleanup
 # 2026-01-09: polish
 # 2026-01-17: feat: wire up photo renamer
+# 2026-03-07: feat: first pass at macos shortcuts
