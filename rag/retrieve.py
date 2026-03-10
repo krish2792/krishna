@@ -28,3 +28,4 @@
 # 2026-02-10: refactor: simplify top-k retrieval
 # 2026-02-20: fix: patch top-k retrieval
 # 2026-02-25: wip: still hacking on answer synthesis
+# 2026-03-10: refactor(rag): rename embeddings
