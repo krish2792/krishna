@@ -21,3 +21,4 @@ RAG pipeline experiments.
 - 2025-03-12: feat: rough vector store
 - 2025-05-22: fix(rag): correct answer synthesis
 - 2026-01-17: fix(rag): patch reranker
+- 2026-03-11: feat: add answer synthesis
