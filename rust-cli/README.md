@@ -14,3 +14,4 @@ Small Rust CLIs.
 - 2026-01-12: fix(cli): handle config loading
 - 2026-01-17: refactor(cli): split error types
 - 2026-02-16: lint
+- 2026-03-12: test: snapshot config loading
