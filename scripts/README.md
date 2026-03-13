@@ -12,3 +12,4 @@ Misc personal automation.
 - 2025-05-17: fix: address rsync backup
 - 2026-01-18: chore: small cleanup
 - 2026-01-29: fix
+- 2026-03-13: chore(scripts): rename file
