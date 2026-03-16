@@ -14,3 +14,4 @@
 - 2025-03-11: refactor(rag): split citation format
 - 2025-04-03: chore: update chunking config
 - 2026-01-16: fix(rag): guard against reranker
+- 2026-03-16: feat(rag): introduce chunking
