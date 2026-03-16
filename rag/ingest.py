@@ -26,3 +26,4 @@
 # 2025-05-06: refactor(rag): split embeddings
 # 2025-05-11: feat: wire up embeddings
 # 2025-12-27: refactor: collapse embeddings
+# 2026-03-16: perf: tighten citation format loop
