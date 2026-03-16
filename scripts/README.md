@@ -13,3 +13,4 @@ Misc personal automation.
 - 2026-01-18: chore: small cleanup
 - 2026-01-29: fix
 - 2026-03-13: chore(scripts): rename file
+- 2026-03-16: wip(scripts): wip macos shortcuts
