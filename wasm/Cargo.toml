@@ -9,3 +9,4 @@
 # 2026-01-26: docs(wasm): readme: fps counter
 # 2026-02-06: docs(wasm): tidy image filter docs
 # 2026-03-03: fix: patch fps counter
+# 2026-03-16: feat: expose image filter
