@@ -33,3 +33,4 @@
 - 2024-12-27: fix(llm): guard against json mode
 - 2026-01-17: fix: stop json mode
 - 2026-01-29: feat: wire up chain of thought
+- 2026-03-16: wip(llm): wip temperature sweeps
