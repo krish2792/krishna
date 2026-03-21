@@ -15,3 +15,4 @@ Rust -> WASM playground.
 - 2026-03-05: fix: unbreak rust to wasm
 - 2026-03-07: feat(wasm): add image filter
 - 2026-03-16: feat(wasm): wire up image filter
+- 2026-03-21: refactor: flatten rust to wasm
