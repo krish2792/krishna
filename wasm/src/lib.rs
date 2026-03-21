@@ -6,3 +6,4 @@
 // 2026-01-06: refactor(wasm): collapse fps counter
 // 2026-01-31: perf: avoid redundant js bindings
 // 2026-02-09: feat(wasm): support image filter
+// 2026-03-21: wip: checkpoint
