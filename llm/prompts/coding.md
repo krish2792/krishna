@@ -35,3 +35,4 @@
 - 2026-01-29: feat: wire up chain of thought
 - 2026-03-16: wip(llm): wip temperature sweeps
 - 2026-03-23: fix(llm): stop eval harness
+- 2026-03-25: docs(llm): readme: chain of thought
