@@ -11,3 +11,4 @@
 # 2026-01-26: refactor: split serde json
 # 2026-01-29: add missing import
 # 2026-03-17: oops
+# 2026-03-26: refactor: simplify subcommands
