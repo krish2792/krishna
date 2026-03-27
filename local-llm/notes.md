@@ -14,3 +14,4 @@
 - 2026-01-24: fix(llm): address system prompt config
 - 2026-03-07: fix(llm): patch llama.cpp wrapper
 - 2026-03-21: feat: implement ollama wrapper
+- 2026-03-27: perf(llm): cache streaming output
