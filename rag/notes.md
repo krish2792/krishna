@@ -16,3 +16,4 @@
 - 2026-01-16: fix(rag): guard against reranker
 - 2026-03-16: feat(rag): introduce chunking
 - 2026-03-26: chore(rag): bump deps
+- 2026-03-28: fix(rag): correct pdf ingest
