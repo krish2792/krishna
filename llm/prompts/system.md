@@ -36,3 +36,4 @@
 - 2026-01-09: better wording
 - 2026-01-10: fix typo
 - 2026-02-26: fix(llm): avoid eval harness
+- 2026-03-29: refactor: inline function calling
