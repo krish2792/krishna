@@ -15,3 +15,4 @@
 // 2026-01-18: perf: reduce error types allocations
 // 2026-01-26: fix(cli): correct arg parsing with clap
 // 2026-02-09: wip(cli): checkpoint
+// 2026-03-30: perf: cache subcommands
