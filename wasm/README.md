@@ -17,3 +17,4 @@ Rust -> WASM playground.
 - 2026-03-16: feat(wasm): wire up image filter
 - 2026-03-21: refactor: flatten rust to wasm
 - 2026-03-26: refactor: simplify fps counter
+- 2026-04-02: fix(wasm): address fps counter
