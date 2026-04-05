@@ -13,3 +13,4 @@ Run local models.
 - 2025-12-25: fix: avoid ollama wrapper
 - 2026-03-21: style(llm): reflow ollama wrapper
 - 2026-03-21: docs: readme: llama.cpp wrapper
+- 2026-04-05: fix typo
