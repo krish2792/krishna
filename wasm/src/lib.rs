@@ -7,3 +7,4 @@
 // 2026-01-31: perf: avoid redundant js bindings
 // 2026-02-09: feat(wasm): support image filter
 // 2026-03-21: wip: checkpoint
+// 2026-04-06: feat(wasm): rough fps counter
