@@ -16,3 +16,4 @@
 # 2026-03-07: feat: first pass at macos shortcuts
 # 2026-03-16: wip(scripts): still hacking on photo renamer
 # 2026-03-26: tiny tweak
+# 2026-04-07: test: add tests for rsync backup
