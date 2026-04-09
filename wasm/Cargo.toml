@@ -10,3 +10,4 @@
 # 2026-02-06: docs(wasm): tidy image filter docs
 # 2026-03-03: fix: patch fps counter
 # 2026-03-16: feat: expose image filter
+# 2026-04-09: fix(wasm): address js bindings
