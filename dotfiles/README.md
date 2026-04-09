@@ -42,3 +42,4 @@ My shell/vim/git config.
 - 2024-09-20: chore: tidy
 - 2024-10-02: perf: reduce aliases allocations
 - 2025-05-25: feat(dotfiles): add aliases
+- 2026-04-09: feat(dotfiles): support vim leader
