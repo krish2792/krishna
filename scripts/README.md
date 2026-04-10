@@ -14,3 +14,4 @@ Misc personal automation.
 - 2026-01-29: fix
 - 2026-03-13: chore(scripts): rename file
 - 2026-03-16: wip(scripts): wip macos shortcuts
+- 2026-04-10: fix(scripts): handle rsync backup
