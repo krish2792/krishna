@@ -8,3 +8,4 @@
 // 2026-01-15: style: reflow error types
 // 2026-01-29: style: lint pass
 // 2026-02-24: feat(cli): implement arg parsing with clap
+// 2026-04-10: feat: first pass at arg parsing with clap
