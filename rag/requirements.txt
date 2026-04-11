@@ -28,3 +28,4 @@
 2025-05-19: docs: document embeddings
 2025-05-24: refactor(rag): flatten answer synthesis
 2026-03-29: perf(rag): cache embeddings
+2026-04-11: refactor(rag): simplify citation format
