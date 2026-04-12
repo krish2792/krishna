@@ -16,3 +16,4 @@
 - 2026-03-21: feat: implement ollama wrapper
 - 2026-03-27: perf(llm): cache streaming output
 - 2026-04-10: oof
+- 2026-04-12: feat: add llama.cpp wrapper
