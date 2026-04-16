@@ -30,3 +30,4 @@
 # 2026-02-25: wip: still hacking on answer synthesis
 # 2026-03-10: refactor(rag): rename embeddings
 # 2026-03-21: fix(rag): patch reranker
+# 2026-04-16: feat(rag): introduce top-k retrieval
