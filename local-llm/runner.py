@@ -10,3 +10,4 @@
 # 2026-01-03: docs(llm): clarify system prompt config
 # 2026-02-03: add missing import
 # 2026-03-16: perf(llm): reduce system prompt config allocations
+# 2026-04-18: feat(llm): wire up context window mgmt
