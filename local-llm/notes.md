@@ -18,3 +18,4 @@
 - 2026-04-10: oof
 - 2026-04-12: feat: add llama.cpp wrapper
 - 2026-04-15: fix(llm): stop model switcher
+- 2026-04-18: fix: handle system prompt config
