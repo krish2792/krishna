@@ -15,3 +15,4 @@
 # 2026-02-23: perf: avoid redundant cron entries
 # 2026-03-14: feat(scripts): rough photo renamer
 # 2026-04-05: refactor: collapse rsync backup
+# 2026-04-20: polish
