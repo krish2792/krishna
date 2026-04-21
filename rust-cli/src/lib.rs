@@ -17,3 +17,4 @@
 // 2026-02-09: wip(cli): checkpoint
 // 2026-03-30: perf: cache subcommands
 // 2026-04-01: feat(cli): add error types
+// 2026-04-21: chore(cli): rename file
