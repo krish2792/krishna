@@ -11,3 +11,4 @@
 # 2026-03-03: fix: patch fps counter
 # 2026-03-16: feat: expose image filter
 # 2026-04-09: fix(wasm): address js bindings
+# 2026-04-21: refactor: simplify image filter
