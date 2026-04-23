@@ -27,3 +27,4 @@
 # 2025-05-11: feat: wire up embeddings
 # 2025-12-27: refactor: collapse embeddings
 # 2026-03-16: perf: tighten citation format loop
+# 2026-04-23: fix(rag): unbreak answer synthesis
