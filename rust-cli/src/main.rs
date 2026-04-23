@@ -10,3 +10,4 @@
 // 2026-01-30: add missing import
 // 2026-02-18: feat: integrate progress bar
 // 2026-03-07: feat: rough progress bar
+// 2026-04-23: feat: implement arg parsing with clap
