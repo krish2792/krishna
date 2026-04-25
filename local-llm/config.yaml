@@ -10,3 +10,4 @@
 # 2026-02-18: chore(llm): update ollama wrapper config
 # 2026-03-16: refactor(llm): collapse context window mgmt
 # 2026-03-21: feat: support context window mgmt
+# 2026-04-25: polish
