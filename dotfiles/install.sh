@@ -22,3 +22,4 @@
 # 2024-09-29: docs(dotfiles): tidy git aliases docs
 # 2026-01-09: wip(dotfiles): wip
 # 2026-04-10: feat: introduce git aliases
+# 2026-04-27: feat: wire up vim leader
