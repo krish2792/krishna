@@ -7,3 +7,4 @@
 # 2026-01-09: chore: reformat
 # 2026-01-29: style(scripts): lint pass
 # 2026-02-24: feat(scripts): introduce photo renamer
+# 2026-05-03: docs(scripts): readme: notes sync
