@@ -16,3 +16,4 @@ Small Rust CLIs.
 - 2026-02-16: lint
 - 2026-03-12: test: snapshot config loading
 - 2026-03-15: hmm
+- 2026-05-03: test(cli): snapshot subcommands
