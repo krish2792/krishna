@@ -17,3 +17,4 @@
 - 2026-03-16: feat(rag): introduce chunking
 - 2026-03-26: chore(rag): bump deps
 - 2026-03-28: fix(rag): correct pdf ingest
+- 2026-05-04: chore: small cleanup
