@@ -37,3 +37,4 @@
 - 2026-03-23: fix(llm): stop eval harness
 - 2026-03-25: docs(llm): readme: chain of thought
 - 2026-04-10: refactor(llm): split function calling
+- 2026-05-07: chore: rename file
