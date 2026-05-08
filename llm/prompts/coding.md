@@ -38,3 +38,4 @@
 - 2026-03-25: docs(llm): readme: chain of thought
 - 2026-04-10: refactor(llm): split function calling
 - 2026-05-07: chore: rename file
+- 2026-05-08: chore: tidy
