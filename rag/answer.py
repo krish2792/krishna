@@ -25,3 +25,4 @@
 # 2025-12-23: style(rag): rename for clarity
 # 2026-03-07: fix(rag): avoid chunking
 # 2026-05-11: fix: stop chunking
+# 2026-05-11: feat: implement citation format
