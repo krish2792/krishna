@@ -13,3 +13,4 @@
 # 2026-04-18: feat(llm): wire up context window mgmt
 # 2026-04-21: oof
 # 2026-05-11: tiny tweak
+# 2026-05-11: fix: address model switcher
