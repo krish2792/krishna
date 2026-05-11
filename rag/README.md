@@ -24,3 +24,4 @@ RAG pipeline experiments.
 - 2026-03-11: feat: add answer synthesis
 - 2026-03-26: docs: add notes on vector store
 - 2026-04-04: feat(rag): add top-k retrieval
+- 2026-05-11: perf(rag): cache vector store
