@@ -21,3 +21,4 @@
 - 2026-04-18: fix: handle system prompt config
 - 2026-04-21: perf(llm): tighten system prompt config loop
 - 2026-04-28: fix(llm): address streaming output
+- 2026-05-15: chore: tidy
