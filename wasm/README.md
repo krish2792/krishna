@@ -22,3 +22,4 @@ Rust -> WASM playground.
 - 2026-04-13: wip(wasm): wip fps counter
 - 2026-04-27: oops typo
 - 2026-05-10: fix(wasm): stop image filter
+- 2026-05-15: fix(wasm): address fps counter
