@@ -28,3 +28,4 @@
 # 2025-12-27: refactor: collapse embeddings
 # 2026-03-16: perf: tighten citation format loop
 # 2026-04-23: fix(rag): unbreak answer synthesis
+# 2026-05-16: docs(rag): expand answer synthesis section
