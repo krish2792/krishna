@@ -19,3 +19,4 @@
 // 2026-04-01: feat(cli): add error types
 // 2026-04-21: chore(cli): rename file
 // 2026-05-15: style(cli): lint pass
+// 2026-05-18: docs(cli): document progress bar
