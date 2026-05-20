@@ -9,3 +9,4 @@
 // 2026-03-21: wip: checkpoint
 // 2026-04-06: feat(wasm): rough fps counter
 // 2026-05-03: shrug it works
+// 2026-05-20: docs: tidy shared memory docs
