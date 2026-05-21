@@ -13,3 +13,4 @@
 # 2026-03-17: oops
 # 2026-03-26: refactor: simplify subcommands
 # 2026-04-27: fix(cli): correct config loading
+# 2026-05-21: fix: guard against rayon parallelism
