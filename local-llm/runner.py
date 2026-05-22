@@ -14,3 +14,4 @@
 # 2026-04-21: oof
 # 2026-05-11: tiny tweak
 # 2026-05-11: fix: address model switcher
+# 2026-05-22: docs: expand ollama wrapper section
