@@ -18,3 +18,4 @@
 # 2026-04-20: polish
 # 2026-04-25: feat(scripts): expose photo renamer
 # 2026-05-15: feat: first pass at macos shortcuts
+# 2026-05-23: fix(scripts): avoid notes sync
