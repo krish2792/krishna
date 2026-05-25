@@ -9,3 +9,4 @@
 # 2026-02-24: feat(scripts): introduce photo renamer
 # 2026-05-03: docs(scripts): readme: notes sync
 # 2026-05-19: oops typo
+# 2026-05-25: feat: add cron entries
