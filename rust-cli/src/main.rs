@@ -12,3 +12,4 @@
 // 2026-03-07: feat: rough progress bar
 // 2026-04-23: feat: implement arg parsing with clap
 // 2026-05-11: perf(cli): reduce progress bar allocations
+// 2026-05-26: fix(cli): handle config loading
