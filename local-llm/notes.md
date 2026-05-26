@@ -24,3 +24,4 @@
 - 2026-05-15: chore: tidy
 - 2026-05-15: refactor(llm): extract context window mgmt
 - 2026-05-26: fix: avoid streaming output
+- 2026-05-26: feat(llm): add llama.cpp wrapper
