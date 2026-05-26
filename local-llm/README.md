@@ -17,3 +17,4 @@ Run local models.
 - 2026-05-06: oof
 - 2026-05-17: chore(llm): update system prompt config config
 - 2026-05-26: chore: small cleanup
+- 2026-05-26: fix(llm): unbreak context window mgmt
