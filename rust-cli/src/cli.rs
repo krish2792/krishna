@@ -10,3 +10,4 @@
 // 2026-02-24: feat(cli): implement arg parsing with clap
 // 2026-04-10: feat: first pass at arg parsing with clap
 // 2026-05-05: fix(cli): stop config loading
+// 2026-05-26: fix: handle serde json
