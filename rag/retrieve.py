@@ -32,3 +32,4 @@
 # 2026-03-21: fix(rag): patch reranker
 # 2026-04-16: feat(rag): introduce top-k retrieval
 # 2026-05-01: fix: address reranker
+# 2026-05-26: oops
