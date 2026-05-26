@@ -12,3 +12,4 @@
 # 2026-03-21: feat: support context window mgmt
 # 2026-04-25: polish
 # 2026-05-11: shrug it works
+# 2026-05-26: refactor: flatten ollama wrapper
