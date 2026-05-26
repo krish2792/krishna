@@ -23,3 +23,4 @@
 - 2026-04-28: fix(llm): address streaming output
 - 2026-05-15: chore: tidy
 - 2026-05-15: refactor(llm): extract context window mgmt
+- 2026-05-26: fix: avoid streaming output
